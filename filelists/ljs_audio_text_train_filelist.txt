@@ -286,7 +286,6 @@
 /home/174520hj/dataset/CS10_278.wav|jako dorośli będą nie tylko inteligentniejsi lecz także lepiej przystosowani społecznie i bardziej empatyczni
 /home/174520hj/dataset/CS10_279.wav|niż ci którzy wówczas miłości nie zaznali
 /home/174520hj/dataset/CS10_28.wav|nie przejmujmy się prawem jante i nie przestawajmy marzyć
-/home/174520hj/dataset/CS10_280.wav|
 /home/174520hj/dataset/CS10_29.wav|winę za prokrastynację możesz śmiało zrzucić na mózg
 /home/174520hj/dataset/CS10_3.wav|to trochę tak jakby złe nawyki stawały się nie takie złe dzięki fajnej nazwie
 /home/174520hj/dataset/CS10_30.wav|ale należą mu się również podziękowania za efektywność i unikanie prokrastynacji
@@ -568,7 +567,6 @@
 /home/174520hj/dataset/CS11_279.wav|wciąż wiemy za mało o ludzkim mózgu by to osiągnąć
 /home/174520hj/dataset/CS11_28.wav|ideałem byłoby móc zmierzyć inteligencję testem który ocenia zdolność abstrakcyjnego myślenia i wyciągania wniosków
 /home/174520hj/dataset/CS11_280.wav|to czym zajmują się inżynierowie to próba stworzenia programów naśladujących funkcje które nabywaliśmy na drodze ewolucji przez miliony lat
-/home/174520hj/dataset/CS11_281.wav|
 /home/174520hj/dataset/CS11_29.wav|bez względu na przynależność etniczną i społeczno ekonomiczną
 /home/174520hj/dataset/CS11_3.wav|ci są najszczęśliwsi którzy średnio wiele wiedzą
 /home/174520hj/dataset/CS11_30.wav|wykształcenie i płeć
@@ -667,7 +665,6 @@
 /home/174520hj/dataset/CS12_24.wav|nawet jeśli używają zestawu głośnomówiącego
 /home/174520hj/dataset/CS12_25.wav|usprawniaj codzienne czynności skupiając się w danej chwili na jednej rzeczy
 /home/174520hj/dataset/CS12_26.wav|jeśli musisz napisać mejl i zadzwonić do kogoś lepiej zrób to po kolei a nie jednocześnie
-/home/174520hj/dataset/CS12_27.wav|
 /home/174520hj/dataset/CS12_3.wav|mamy funkcjonować w otwartej przestrzeni biurowej pisząc mejl i omawiając przez telefon szczegóły kolejnego planu biznesowego
 /home/174520hj/dataset/CS12_4.wav|w tym samym czasie
 /home/174520hj/dataset/CS12_5.wav|wielozadaniowość jest modna
@@ -759,7 +756,6 @@
 /home/174520hj/dataset/CS13_171.wav|nie jest zdominowana przez ośrodek mowy
 /home/174520hj/dataset/CS13_172.wav|i chociaż prawa część kory przedczołowej jest najbardziej zaangażowana w procesy twórcze pozostałe obszary obu płatów czołowych oraz oba płaty ciemieniowe również odgrywają w nich istotną rolę
 /home/174520hj/dataset/CS13_173.wav|a zatem kreatywność ma swoje źródło w obu półkulach mózgu
-/home/174520hj/dataset/CS13_174.wav|
 /home/174520hj/dataset/CS13_18.wav|ówcześni ludzie zaczęli również ozdabiać swoje domy malowidłami ściennymi
 /home/174520hj/dataset/CS13_19.wav|rysunki naskalne przedstawiające ludzi zwierzęta i łodzie traktujemy jako absolutnie kluczową część naszego dziedzictwa kulturowego
 /home/174520hj/dataset/CS13_2.wav|kiedy spaceruję po ekeberg w oslo i przyglądam się zachowanym do dzisiaj rysunkom wyrytym w skale które mają od czterech do pięciu tysięcy lat
@@ -926,7 +922,6 @@
 /home/174520hj/dataset/CS14_164.wav|a norweg edvard munch sam przyznał że słabe zdrowie i nerwowy charakter w decydujący sposób wpłynęły na jego twórczość
 /home/174520hj/dataset/CS14_165.wav|bez lęków muncha nigdy nie powstałby krzyk
 /home/174520hj/dataset/CS14_166.wav|a bez choroby psychicznej van gogha nie moglibyśmy podziwiać gwiaździstej nocy
-/home/174520hj/dataset/CS14_167.wav|
 /home/174520hj/dataset/CS14_17.wav|istnieją też mniej liczne badania wskazujące na fakt że utwór ten ma dobry wpływ na pewien rodzaj epilepsji trudny do leczenia zwykłymi środkami farmakologicznymi
 /home/174520hj/dataset/CS14_18.wav|chociaż przeprowadzono zbyt mało eksperymentów by móc wysuwać kategoryczne wnioski nie są znane żadne skutki uboczne słuchania mozarta
 /home/174520hj/dataset/CS14_19.wav|summa summarum
@@ -1068,7 +1063,6 @@
 /home/174520hj/dataset/CS15_140.wav|a poza tym nawyki żywieniowe lubią chodzić parami
 /home/174520hj/dataset/CS15_141.wav|picie alkoholu zwiększa prawdopodobieństwo że sięgniemy po produkty bogate w tłuszcze a tłuste jedzenie że wybierzemy do niego alkohol
 /home/174520hj/dataset/CS15_142.wav|w każdym razie tak dzieje się u szczurów
-/home/174520hj/dataset/CS15_143.wav|
 /home/174520hj/dataset/CS15_15.wav|następnym razem kiedy poczujecie to ssanie możecie zrzucić winę na swoich przodków
 /home/174520hj/dataset/CS15_16.wav|z punktu widzenia ewolucji to że ciągnęło nas do słonego jedzenia było korzystne ze względu na zawartość niezbędnych minerałów
 /home/174520hj/dataset/CS15_17.wav|a jedzenie mięsa zapewniało nam wystarczającą ilość białka w pożywieniu
@@ -1277,7 +1271,6 @@
 /home/174520hj/dataset/CS16_2.wav|najlepsi stratedzy wiedzą o nim naprawdę sporo
 /home/174520hj/dataset/CS16_20.wav|i że muszą jeść płatki śniadaniowe frosted flakes firmy kellogs żeby wyrosnąć na twardzieli
 /home/174520hj/dataset/CS16_200.wav|mają wysoki poziom lipidów we krwi i cierpią na nadwagę
-/home/174520hj/dataset/CS16_201.wav|
 /home/174520hj/dataset/CS16_21.wav|bo tak im mówi maskotka płatków tygrys tony
 /home/174520hj/dataset/CS16_22.wav|ja sama wychowałam się wyłącznie na telewizji w której nie było reklam i długo byłam łatwowierna
 /home/174520hj/dataset/CS16_23.wav|nadal robi mi się głupio na myśl o tym ile kupiłam gdy po raz pierwszy obejrzałam telezakupy
@@ -1561,7 +1554,6 @@
 /home/174520hj/dataset/CS17_273.wav|które powodują że potrzeba zażycia środka odurzającego staje się coraz silniejsza
 /home/174520hj/dataset/CS17_274.wav|i nie znikają one natychmiast po rzuceniu palenia czy odstawieniu narkotyków czy alkoholu
 /home/174520hj/dataset/CS17_275.wav|niektóre sieci neuronowe nigdy nie znikają
-/home/174520hj/dataset/CS17_276.wav|
 /home/174520hj/dataset/CS17_28.wav|doprowadzamy do tego że po pewnym czasie mózg zredukuje liczbę receptorów neuroprzekaźnika na który ona wpływa
 /home/174520hj/dataset/CS17_29.wav|system motywacyjny ulega osłabieniu i ani seks ani jedzenie ani trening nie dostarczają nam już tyle dopaminy co wcześniej
 /home/174520hj/dataset/CS17_3.wav|jesień witam z czystym kontem
@@ -1658,7 +1650,6 @@
 /home/174520hj/dataset/CS18_110.wav|gdyby mózg nie wyposażył nas w percepcję nie rozumielibyśmy sztuki
 /home/174520hj/dataset/CS18_111.wav|nie rozwinęłaby się kultura
 /home/174520hj/dataset/CS18_112.wav|żylibyśmy w świecie w którym dźwięki byłyby jedynie drganiami powietrza a nie muzyką
-/home/174520hj/dataset/CS18_113.wav|
 /home/174520hj/dataset/CS18_12.wav|to trochę tak jakbyśmy znaleźli się w skórze neo
 /home/174520hj/dataset/CS18_13.wav|rozumiemy że to czego oko nam nie pokazuje to uniwersalna jedyna właściwa odpowiedź na pytanie o prawdziwy świat
 /home/174520hj/dataset/CS18_14.wav|a mózg za pomocą informacji napływających od zmysłów prezentuje nam jedynie jego spersonalizowany obraz
@@ -1779,7 +1770,6 @@
 /home/174520hj/dataset/CS19_28.wav|tak naprawdę jednak sukienka jest niebieska z czarnymi koronkami
 /home/174520hj/dataset/CS19_29.wav|to dobry przykład na to że mózg koryguje rzeczywistość próbując dostarczyć nam możliwie prawdziwy i spójny obraz świata
 /home/174520hj/dataset/CS19_3.wav|i bardzo różni się od tego który widzą zwierzęta
-/home/174520hj/dataset/CS19_30.wav|
 /home/174520hj/dataset/CS19_4.wav|gdyby zwierzęta aktywne nocą na przykład węże widziały w ciemnościach tak słabo jak my zagłodziłyby się na śmierć
 /home/174520hj/dataset/CS19_5.wav|wiele gatunków węży posiada czujniki podczerwieni dzięki którym mogą polować w nocy
 /home/174520hj/dataset/CS19_6.wav|pszczoły widzą promieniowanie ultrafioletowe co pozwala im dostrzec tak zwane szlaki nektarowe
@@ -1913,7 +1903,6 @@
 /home/174520hj/dataset/CS1_21.wav|komórki pnia mózgu regulują oddychanie rytm serca i sen
 /home/174520hj/dataset/CS1_210.wav|staniemy się atrakcyjni
 /home/174520hj/dataset/CS1_211.wav|dlatego zysk netto z naszej ewolucji to nie wzrost siły czy szybkości lecz coraz większa bystrość
-/home/174520hj/dataset/CS1_212.wav|
 /home/174520hj/dataset/CS1_22.wav|nigdy nie odpoczywają bez względu na to czy śpimy czy czuwamy
 /home/174520hj/dataset/CS1_23.wav|z tyłu pnia mózgu leży móżdżek który odpowiada za koordynację ruchów i utrzymanie równowagi
 /home/174520hj/dataset/CS1_24.wav|jeśli móżdżek jest pod wpływem alkoholu chwiejemy się i zataczamy a nasze ruchy stają się nieskoordynowane
@@ -2046,7 +2035,6 @@
 /home/174520hj/dataset/CS20_49.wav|audioteka
 /home/174520hj/dataset/CS20_5.wav|nasze myśli są fizycznymi procesami przebiegającymi w mózgu i wynikiem tego że komórki nerwowe wysyłają odpowiednie sygnały
 /home/174520hj/dataset/CS20_50.wav|dobrze opowiedziane historie
-/home/174520hj/dataset/CS20_51.wav|
 /home/174520hj/dataset/CS20_6.wav|podobnie ma się rzecz z naszymi uczuciami
 /home/174520hj/dataset/CS20_7.wav|również inteligencja stanowi rezultat tego jak jest zbudowany nasz mózg i jak komunikują się ze sobą komórki nerwowe
 /home/174520hj/dataset/CS20_8.wav|i to bez względu na to czy do pomiaru inteligencji używamy iq czy korzystamy z definicji psychologa howarda gardnera
@@ -2236,7 +2224,6 @@
 /home/174520hj/dataset/CS2_262.wav|powiedziałam z tyłu głowy
 /home/174520hj/dataset/CS2_263.wav|chodziło mi oczywiście o przód
 /home/174520hj/dataset/CS2_264.wav|płat czołowy
-/home/174520hj/dataset/CS2_265.wav|
 /home/174520hj/dataset/CS2_27.wav|stamtąd wszystkie informacje miały trafiać dalej do naszej niematerialnej duszy
 /home/174520hj/dataset/CS2_28.wav|ale czym jest dusza
 /home/174520hj/dataset/CS2_29.wav|jeśli dusza jest jaźnią to znaczy sumą naszych myśli uczuć wyobrażeń i działań to ma wiele wspólnego z tym co nazywamy osobowością
@@ -2346,7 +2333,6 @@
 /home/174520hj/dataset/CS3_121.wav|i chorych i zdrowych
 /home/174520hj/dataset/CS3_122.wav|a tymczasem
 /home/174520hj/dataset/CS3_123.wav|badacze mózgu na całym świecie nie ustają w wysiłkach byśmy rozumieli to jeszcze lepiej
-/home/174520hj/dataset/CS3_124.wav|
 /home/174520hj/dataset/CS3_13.wav|w niektórych przypadkach psycholodzy i psychiatrzy wykorzystują plastyczność mózgu by choć odrobinę skorygować cechy patologiczne
 /home/174520hj/dataset/CS3_14.wav|warunkiem powodzenia jest oczywiście to że ich nosiciel również pragnie je zmienić
 /home/174520hj/dataset/CS3_15.wav|jeśli bowiem mamy osobowość narcystyczną to znaczy jesteśmy chorobliwie skupieni na sobie
@@ -2510,7 +2496,7 @@
 /home/174520hj/dataset/CS4_157.wav|naszego centrum hormonalnego
 /home/174520hj/dataset/CS4_158.wav|kiedy się uczymy te obszary kory mózgu które odpowiadają za ruch są wyraźnie pobudzone i ulegają zmianie w odpowiedzi na wyzwania które sobie stawiamy
 /home/174520hj/dataset/CS4_159.wav|podczas operacji chirurgicznych wykorzystuje się aktywnie obie dłonie
-/home/174520hj/dataset/CS4_16.wav| h m i jego rodzina skontaktowali się z ówczesnym pionierem w dziedzinie neurochirurgii
+/home/174520hj/dataset/CS4_16.wav|h m i jego rodzina skontaktowali się z ówczesnym pionierem w dziedzinie neurochirurgii
 /home/174520hj/dataset/CS4_160.wav|pracując na oddziale neurochirurgii dowiedziałam się że powinnam myć zęby lewą ręką żeby mój mózg nauczył się częściej ją angażować
 /home/174520hj/dataset/CS4_161.wav|to dobra rada
 /home/174520hj/dataset/CS4_162.wav|badania wykazały bowiem że u muzyków grających lewą dłonią na instrumentach strunowych obszar kory mózgowej który steruje tą dłonią jest większy w porównaniu z grupą kontrolną
@@ -2663,7 +2649,6 @@
 /home/174520hj/dataset/CS4_295.wav|synapsy tworzą się i zanikają przez cały czas
 /home/174520hj/dataset/CS4_296.wav|i tylko te których używamy zostają utrwalone
 /home/174520hj/dataset/CS4_297.wav|natomiast te których używamy bardzo często są wzmacniane tajemniczym ltp
-/home/174520hj/dataset/CS4_298.wav|
 /home/174520hj/dataset/CS4_3.wav|osoby które straciły pamięć na skutek uszkodzenia różnych obszarów mózgu nauczyły nas o niej najwięcej
 /home/174520hj/dataset/CS4_30.wav|nie potrafi ona tworzyć nowych wspomnień
 /home/174520hj/dataset/CS4_31.wav|mimo to jej pamięć jest odrobinę lepsza ponieważ dory domyśla się że dotarła do sydney by kogoś odszukać kiedy na rurze ściekowej odczytuje nazwę miasta
@@ -2957,7 +2942,6 @@
 /home/174520hj/dataset/CS5_290.wav|by móc tłumić coś nieświadomie lub wypierać świadomie najpierw musi powstać wspomnienie
 /home/174520hj/dataset/CS5_291.wav|kiedy przeżywamy coś traumatycznego często zapada nam to w pamięć na stałe
 /home/174520hj/dataset/CS5_292.wav|podstawowa prawidłowość jest taka że traumy pamiętamy wyjątkowo dobrze
-/home/174520hj/dataset/CS5_293.wav|
 /home/174520hj/dataset/CS5_3.wav|norweskiego lekarza który odkrył ltp
 /home/174520hj/dataset/CS5_30.wav|ale najciekawsze rzeczy dzieją się gdzie indziej
 /home/174520hj/dataset/CS5_31.wav|informacje nie są zapisywane w pojedynczych synapsach lecz w całej sieci neuronowej
@@ -3357,7 +3341,6 @@
 /home/174520hj/dataset/CS7_248.wav|lub po prostu dotrzeć w środku nocy do własnej lodówki
 /home/174520hj/dataset/CS7_249.wav|bez tej umiejętności krążylibyśmy nieustannie w kółko nie mogąc zdecydować którędy powinniśmy pójść
 /home/174520hj/dataset/CS7_25.wav|teraz jesteś tutaj
-/home/174520hj/dataset/CS7_250.wav|
 /home/174520hj/dataset/CS7_26.wav|dawniej większość ludzi korzystała z papierowych map by odnaleźć drogę
 /home/174520hj/dataset/CS7_27.wav|niektórzy nadal to robią
 /home/174520hj/dataset/CS7_28.wav|w czasach przed gps em w telefonie komórkowym musieliśmy obracać mapę żeby zorientować się w terenie
