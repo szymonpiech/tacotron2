@@ -3079,7 +3079,6 @@
 /home/174520hj/dataset/CS6_15.wav|a tymczasem kiedy zawodzi mózg mówimy o demencji
 /home/174520hj/dataset/CS6_150.wav|wspomnienia nie są wiernymi obrazami z przeszłości ale mają duże znaczenie dla przyszłości
 /home/174520hj/dataset/CS6_151.wav|i cieszmy się z tego że mamy normalną pamięć
-/home/174520hj/dataset/CS6_152.wav|
 /home/174520hj/dataset/CS6_16.wav|a demencja inaczej otępienie to nic innego jak niewydolność mózgu
 /home/174520hj/dataset/CS6_17.wav|rozróżniamy wiele jej postaci w zależności od tego od której części mózgu się ona zaczyna
 /home/174520hj/dataset/CS6_18.wav|z czasem jednak niewydolność postępuje tak bardzo że trudno oddzielić od siebie poszczególne jej postaci
