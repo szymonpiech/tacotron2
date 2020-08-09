@@ -1,89 +1,88 @@
-/home/174520hj/dataset/CS0_0.wav|wydawnictwo marginesy oraz audioteka pl przedstawiają
-/home/174520hj/dataset/CS0_1.wav|Kaja Nordengen
-/home/174520hj/dataset/CS0_10.wav|autyzm jest spowodowany rozwojową zmianą w mózgu którą wywołuje wiele różnych czynników
-/home/174520hj/dataset/CS0_11.wav|właśnie to wspomnienie z czasów studiów stanowi dla mnie miernik tego jak szybko dokonuje się postęp w badaniach nad mózgiem
+/home/174520hj/dataset/CS0_0.wav|Wydawnictwo Marginesy oraz audioteka pl przedstawiają.
+/home/174520hj/dataset/CS0_1.wav|Kaja Nordengen.
+/home/174520hj/dataset/CS0_10.wav|Autyzm jest spowodowany rozwojową zmianą w mózgu, którą wywołuje wiele różnych czynników.
+/home/174520hj/dataset/CS0_11.wav|Właśnie to wspomnienie z czasów studiów stanowi dla mnie miernik tego, jak szybko dokonuje się postęp w badaniach nad mózgiem.
 /home/174520hj/dataset/CS0_12.wav|powinniśmy się z tego cieszyć a jednocześnie być pokorni wobec roli jaką nowoczesne technologie odgrywają w rozwoju wiedzy medycznej
 /home/174520hj/dataset/CS0_13.wav|wiele ważnych pytań naukowych naszych czasów to te same pytania które ludzkość stawia sobie od tysięcy lat
-/home/174520hj/dataset/CS0_14.wav|dzięki rozwojowi pionierskich narzędzi i metod badawczych mamy niebywałą okazję szukać odpowiedzi na nie w samym mózgu
-/home/174520hj/dataset/CS0_15.wav|obecnie stoimy na progu rewolucji naukowej dotyczącej mózgu i wzajemnych relacji między ciałem genami i środowiskiem
-/home/174520hj/dataset/CS0_16.wav|nie wystarczy jednak zbierać danych w laboratoriach i dzielić się wynikami badań z członkami międzynarodowego gremium naukowego
-/home/174520hj/dataset/CS0_17.wav|wiedzę należy przekazywać dalej i rozpowszechniać w całym społeczeństwie tak aby wszyscy mogli z niej skorzystać
-/home/174520hj/dataset/CS0_18.wav|rozumieć jak funkcjonuje nasz mózg i w jaki sposób współuczestniczy we wszystkich procesach zachodzących w organizmie to rozumieć kim jesteśmy jako ludzie i jaki mamy potencjał
-/home/174520hj/dataset/CS0_19.wav|szersza wiedza otwiera również inne niż dotychczas obszary oceny i działania w sytuacjach kiedy z mózgiem dzieje się coś złego
-/home/174520hj/dataset/CS0_2.wav|mózg rządzi
-/home/174520hj/dataset/CS0_20.wav|potrafimy odróżnić objawy jego chorób od charakteru i osobowości człowieka
-/home/174520hj/dataset/CS0_21.wav|wiemy że choroby mózgu są spowodowane błędami systemu
-/home/174520hj/dataset/CS0_22.wav|jeśli naukowcy wiedzą więcej na temat działania zdrowego mózgu mogą skuteczniej szukać odpowiedzi na pytanie gdzie pojawił się błąd i jak można go ewentualnie naprawić
-/home/174520hj/dataset/CS0_23.wav|właśnie ta pogłębiona wiedza tworzy podstawę wyrozumiałości i zdolności adaptacji które są niezbędne by w społeczeństwie znalazło się miejsce dla wszystkich
-/home/174520hj/dataset/CS0_24.wav|ale w jaki sposób rozpowszechniać rezultaty badań opartych na wiedzy na której przyswojenie większość musi poświęcić dziesiątki lat życia
-/home/174520hj/dataset/CS0_25.wav|wiosną tysiąc dziewięćset osiemdziesiątego roku nrk emitowała serial naukowy pod tytułem twój fantastyczny mózg
-/home/174520hj/dataset/CS0_26.wav|w tysiącach norweskich domów gościł wówczas profesor per andersen który podczas rozmów z uwielbianym przez widzów dziennikarzem perem oyvindem heradstveitem szukał odpowiedzi na ważne pytania
-/home/174520hj/dataset/CS0_27.wav|na przykład jak to się dzieje że pamiętamy i czym jest myśl
-/home/174520hj/dataset/CS0_28.wav|ówczesna technologia komunikacyjna była prosta w porównaniu z cyfrowymi animacjami trzy d wykorzystywanymi we współczesnych programach naukowych
-/home/174520hj/dataset/CS0_29.wav|wystarczała plansza z rysunkiem przedstawiającym stosunkowo mało skomplikowaną sieć neuronową
-/home/174520hj/dataset/CS0_3.wav|twój jedyny niezastąpiony narząd
-/home/174520hj/dataset/CS0_30.wav|widzowie podążając wzrokiem za wskaźnikiem profesora śledzili linie na rysunku biegnące od jednej komórki nerwowej do drugiej i tworzące szlak sygnałowy po którym są przesyłane impulsy nerwowe
-/home/174520hj/dataset/CS0_31.wav|per andersen wysnuł hipotezę że ta unikatowa ścieżka aktywności neuronowej w tkance ma funkcjonalne odzwierciedlenie w postaci równie unikatowej myśli
-/home/174520hj/dataset/CS0_32.wav|najlepszy przykład na to jak sprawić by wiedza trafiła pod strzechy
-/home/174520hj/dataset/CS0_33.wav|proste ale wyjątkowo skuteczne
-/home/174520hj/dataset/CS0_34.wav|również edvard i ja siedzieliśmy wtedy jak zahipnotyzowani przed telewizorem
-/home/174520hj/dataset/CS0_35.wav|musieliśmy zgłębić ten temat
-/home/174520hj/dataset/CS0_36.wav|finał tej historii był taki że per andersen został później naszym promotorem
-/home/174520hj/dataset/CS0_37.wav|książka mózg rządzi kai nordengen to zajmujące wprowadzenie do części najnowszych wyników badań nad organizacją mechanizmami i funkcjami mózgu
-/home/174520hj/dataset/CS0_38.wav|autorka w uroczy sposób łączy fakty naukowe z anegdotami z własnego życia
-/home/174520hj/dataset/CS0_39.wav|odniesienie teorii do konkretnych doświadczeń wspólnych nam wszystkim czyni z niej nie tylko propagatorkę wiedzy naukowej lecz także orędowniczkę ciekawości świata
-/home/174520hj/dataset/CS0_4.wav|przełożyła milena skoczko
-/home/174520hj/dataset/CS0_40.wav|żartobliwy ton w którym opisuje materiał wywołuje u czytelnika taki rodzaj entuzjazmu jaki pobudza do działania zarówno dziwiące się wszystkiemu dziecko jak i doświadczonego naukowca
-/home/174520hj/dataset/CS0_41.wav|to co zapamiętałam najlepiej to ciepła narracja kai
-/home/174520hj/dataset/CS0_42.wav|wspaniałe ilustracje są zaś dziełem jej młodszej siostry
-/home/174520hj/dataset/CS0_43.wav|w przeciwieństwie do zaawansowanej grafiki trójwymiarowej jej rysunki pamięta się również po zamknięciu książki
-/home/174520hj/dataset/CS0_44.wav|są zrozumiałe i można je odtworzyć z głowy
-/home/174520hj/dataset/CS0_45.wav|można myśleć obrazami w ten sposób
-/home/174520hj/dataset/CS0_46.wav|wizualizacje odzwierciedlają intencje tekstu w którym postanowiono ograniczyć bogactwo szczegółów i precyzję aby ułatwić czytelnikom lepsze ogólne zrozumienie tematu
-/home/174520hj/dataset/CS0_47.wav|chciałabym podziękować kai nordengen za to że odważyła się zmierzyć z tym tematem
-/home/174520hj/dataset/CS0_48.wav|to wyraz ambicji i wielkiej odwagi
-/home/174520hj/dataset/CS0_49.wav|dzięki temu że kaja w tak szczery i śmiały sposób popularyzuje wiedzę materiał jest przystępny dla niespecjalistów zarówno dorosłych jak i dzieci
-/home/174520hj/dataset/CS0_5.wav|czyta krystyna czubówna
-/home/174520hj/dataset/CS0_50.wav|jesteś swoim mózgiem
-/home/174520hj/dataset/CS0_51.wav|gdy starożytni egipcjanie mumifikowali ciała swoich władców by przygotować ich do przyszłego życia z sercem obchodzili się wyjątkowo delikatnie
-/home/174520hj/dataset/CS0_52.wav|mózg natomiast wyrzucali
-/home/174520hj/dataset/CS0_53.wav|przez nos wsuwali pręt i ubijali mózg tak długo aż można go było wyssać
-/home/174520hj/dataset/CS0_54.wav|stawał się odpadem
-/home/174520hj/dataset/CS0_55.wav|musiało minąć sporo czasu zanim ludzie zrozumieli że jesteśmy tym kim jesteśmy właśnie dzięki mózgowi
-/home/174520hj/dataset/CS0_56.wav|już w niektórych źródłach sprzed naszej ery wiązano mózg z takimi funkcjami jak ruch i myślenie ale dopiero kilka tysięcy lat później przyjęto do wiadomości fakt że jaźń znajduje się właśnie w mózgu
-/home/174520hj/dataset/CS0_57.wav|arystoteles i inni wielcy myśliciele uważali na przykład że mózg jest narządem o mniejszym znaczeniu i że dusza mieści się w sercu
-/home/174520hj/dataset/CS0_58.wav|dopiero w połowie xvii wieku a więc tysiące lat po tym jak egipcjanie zamieniali zmarłych faraonów w zombie francuski filozof kartezjusz zlokalizował siedzibę duszy w mózgu
-/home/174520hj/dataset/CS0_59.wav|prawie wszystkie struktury mózgu są ułożone symetrycznie
+/home/174520hj/dataset/CS0_14.wav|Dzięki rozwojowi pionierskich narzędzi i metod badawczych mamy niebywałą okazję szukać odpowiedzi na nie w samym mózgu.
+/home/174520hj/dataset/CS0_15.wav|Obecnie stoimy na progu rewolucji naukowej dotyczącej mózgu i wzajemnych relacji między ciałem, genami i środowiskiem.
+/home/174520hj/dataset/CS0_16.wav|Nie wystarczy jednak zbierać danych w laboratoriach i dzielić się wynikami badań z członkami międzynarodowego gremium naukowego.
+/home/174520hj/dataset/CS0_17.wav|Wiedzę należy przekazywać dalej i rozpowszechniać w całym społeczeństwie, tak aby wszyscy mogli z niej skorzystać.
+/home/174520hj/dataset/CS0_18.wav|Rozumieć, jak funkcjonuje nasz mózg i w jaki sposób współuczestniczy we wszystkich procesach zachodzących w organizmie, to rozumieć, kim jesteśmy jako ludzie i jaki mamy potencjał.
+/home/174520hj/dataset/CS0_19.wav|Szersza wiedza otwiera również inne niż dotychczas obszary oceny i działania w sytuacjach, kiedy z mózgiem dzieje się coś złego.
+/home/174520hj/dataset/CS0_2.wav|Mózg rządzi.
+/home/174520hj/dataset/CS0_20.wav|Potrafimy odróżnić objawy jego chorób od charakteru i osobowości człowieka.
+/home/174520hj/dataset/CS0_21.wav|Wiemy, że choroby mózgu są spowodowane błędami systemu.
+/home/174520hj/dataset/CS0_22.wav|Jeśli naukowcy wiedzą więcej na temat działania zdrowego mózgu, mogą skuteczniej szukać odpowiedzi na pytanie, gdzie pojawił się błąd i jak można go ewentualnie naprawić.
+/home/174520hj/dataset/CS0_23.wav|Właśnie ta pogłębiona wiedza tworzy podstawę wyrozumiałości i zdolności adaptacji, które są niezbędne, by w społeczeństwie znalazło się miejsce dla wszystkich.
+/home/174520hj/dataset/CS0_24.wav|Wle w jaki sposób rozpowszechniać rezultaty badań opartych na wiedzy, na której przyswojenie większość musi poświęcić dziesiątki lat życia?
+/home/174520hj/dataset/CS0_25.wav|Wiosną tysiąc dziewięćset osiemdziesiątego roku NRK emitowała serial naukowy pod tytułem twój fantastyczny mózg.
+/home/174520hj/dataset/CS0_26.wav|W tysiącach norweskich domów gościł wówczas profesor Per Andersen, który podczas rozmów z uwielbianym przez widzów dziennikarzem Perem Oyvindem Heradstveitem szukał odpowiedzi na ważne pytania.
+/home/174520hj/dataset/CS0_27.wav|Na przykład, jak to się dzieje że pamiętamy i czym jest myśl.
+/home/174520hj/dataset/CS0_28.wav|Ówczesna technologia komunikacyjna była prosta w porównaniu z cyfrowymi animacjami trzy d wykorzystywanymi we współczesnych programach naukowych.
+/home/174520hj/dataset/CS0_29.wav|wystarczała plansza z rysunkiem, przedstawiającym stosunkowo mało skomplikowaną sieć neuronową.
+/home/174520hj/dataset/CS0_3.wav|Twój jedyny niezastąpiony narząd.
+/home/174520hj/dataset/CS0_30.wav|widzowie, podążając wzrokiem za wskaźnikiem profesora, śledzili linie na rysunku biegnące od jednej komórki nerwowej do drugiej i tworzące szlak sygnałowy, po którym są przesyłane impulsy nerwowe.
+/home/174520hj/dataset/CS0_31.wav|Per Andersen wysnuł hipotezę, że ta unikatowa ścieżka aktywności neuronowej w tkance ma funkcjonalne odzwierciedlenie w postaci równie unikatowej myśli.
+/home/174520hj/dataset/CS0_32.wav|Najlepszy przykład na to, jak sprawić. by wiedza trafiła pod strzechy.
+/home/174520hj/dataset/CS0_33.wav|Proste, ale wyjątkowo skuteczne.
+/home/174520hj/dataset/CS0_34.wav|Również Edward i ja siedzieliśmy wtedy jak zahipnotyzowani przed telewizorem.
+/home/174520hj/dataset/CS0_35.wav|Musieliśmy zgłębić ten temat.
+/home/174520hj/dataset/CS0_36.wav|Finał tej historii był taki, że Per andersen został później naszym promotorem.
+/home/174520hj/dataset/CS0_37.wav|Książka Mózg Rządzi Kai Nordengen to zajmujące wprowadzenie do części najnowszych wyników badań nad organizacją, mechanizmami i funkcjami mózgu.
+/home/174520hj/dataset/CS0_38.wav|Autorka w uroczy sposób łączy fakty naukowe z anegdotami z własnego życia.
+/home/174520hj/dataset/CS0_39.wav|Odniesienie teorii do konkretnych doświadczeń wspólnych nam wszystkim, czyni z niej nie tylko propagatorkę wiedzy naukowej, lecz także orędowniczkę ciekawości świata.
+/home/174520hj/dataset/CS0_4.wav|Przełożyła Milena Skoczko.
+/home/174520hj/dataset/CS0_40.wav|Żartobliwy ton, w którym opisuje materiał, wywołuje u czytelnika taki rodzaj entuzjazmu, jaki pobudza do działania zarówno dziwiące się wszystkiemu dziecko, jak i doświadczonego naukowca.
+/home/174520hj/dataset/CS0_41.wav|To, co zapamiętałam najlepiej, to ciepła narracja Kai.
+/home/174520hj/dataset/CS0_42.wav|Wspaniałe ilustracje są zaś dziełem jej młodszej siostry.
+/home/174520hj/dataset/CS0_43.wav|W przeciwieństwie do zaawansowanej grafiki trójwymiarowej, jej rysunki pamięta się również po zamknięciu książki.
+/home/174520hj/dataset/CS0_44.wav|Są zrozumiałe i można je odtworzyć z głowy.
+/home/174520hj/dataset/CS0_46.wav|Wizualizacje odzwierciedlają intencje tekstu, w którym postanowiono ograniczyć bogactwo szczegółów i precyzję, aby ułatwić czytelnikom lepsze ogólne zrozumienie tematu.
+/home/174520hj/dataset/CS0_47.wav|Chciałabym podziękować Kai Nordengen za to, że odważyła się zmierzyć z tym tematem.
+/home/174520hj/dataset/CS0_48.wav|To wyraz ambicji i wielkiej odwagi.
+/home/174520hj/dataset/CS0_49.wav|Dzięki temu, że Kaja w tak szczery i śmiały sposób popularyzuje wiedzę, materiał jest przystępny dla niespecjalistów, zarówno dorosłych, jak i dzieci.
+/home/174520hj/dataset/CS0_5.wav|Czyta Krystyna Czubówna.
+/home/174520hj/dataset/CS0_50.wav|Jesteś swoim mózgiem.
+/home/174520hj/dataset/CS0_51.wav|Gdy starożytni Egipcjanie mumifikowali ciała swoich władców by przygotować ich do przyszłego życia, z sercem obchodzili się wyjątkowo delikatnie.
+/home/174520hj/dataset/CS0_52.wav|Mózg natomiast wyrzucali.
+/home/174520hj/dataset/CS0_53.wav|Przez nos wsuwali pręt i ubijali mózg tak długo, aż można go było wyssać.
+/home/174520hj/dataset/CS0_54.wav|Stawał się odpadem.
+/home/174520hj/dataset/CS0_55.wav|Musiało minąć sporo czasu, zanim ludzie zrozumieli, że jesteśmy tym kim jesteśmy właśnie dzięki mózgowi.
+/home/174520hj/dataset/CS0_56.wav|Już w niektórych źródłach sprzed naszej ery wiązano mózg z takimi funkcjami, jak ruch i myślenie, ale dopiero kilka tysięcy lat później przyjęto do wiadomości fakt, że jaźń znajduje się właśnie w mózgu.
+/home/174520hj/dataset/CS0_57.wav|Arystoteles i inni wielcy myśliciele uważali na przykład, że mózg jest narządem o mniejszym znaczeniu i że dusza mieści się w sercu.
+/home/174520hj/dataset/CS0_58.wav|Dopiero w połowie siedemnastego wieku, a więc tysiące lat po tym jak Egipcjanie zamieniali zmarłych faraonów w zombie, francuski filozof Kartezjusz zlokalizował siedzibę duszy w mózgu.
+/home/174520hj/dataset/CS0_59.wav|Prawie wszystkie struktury mózgu są ułożone symetrycznie.
 /home/174520hj/dataset/CS0_6.wav|przedmowa laureatki nagrody nobla maybritt moser
-/home/174520hj/dataset/CS0_60.wav|mamy na przykład prawą i lewą półkulę prawy i lewy płat czołowy i tak dalej
-/home/174520hj/dataset/CS0_61.wav|kartezjusz zwrócił uwagę na to że tylko jedna struktura a mianowicie szyszynka leży dokładnie na osi symetrii i doszedł do wniosku że właśnie tam mieszka dusza
-/home/174520hj/dataset/CS0_62.wav|aż tak proste to to jednak nie jest
-/home/174520hj/dataset/CS0_63.wav|w tysiąc osiemset osiedziesiątym siódmym roku fridtjof nansen badacz polarny i pierwszy w norwegii uczony zajmujący się mózgiem w swojej pracy doktorskiej wysunął hipotezę że inteligencja powstaje na stykach komórek nerwowych w mózgu
-/home/174520hj/dataset/CS0_64.wav|od jego czasów zdążyliśmy zaobserwować że na styku neuronów tworzy się nie tylko inteligencja lecz także radość zakochanie pogarda pamięć uczenie się gust muzyczny i inne preferencje
-/home/174520hj/dataset/CS0_65.wav|skoro wszystko co tworzy jaźń znajduje się w mózgu oczywiste staje się to że bez mózgu nie bylibyśmy sobą
-/home/174520hj/dataset/CS0_66.wav|to że mózg odgrywa decydującą rolę w ludzkim życiu znajduje odzwierciedlenie również w naszym prawodawstwie
-/home/174520hj/dataset/CS0_67.wav|śmierć mózgu oznacza śmierć człowieka
-/home/174520hj/dataset/CS0_68.wav|jeśli ktoś wcześniej wyraził na to zgodę można pobrać z jego zwłok narządy do transplantacji i uratować życie innych ludzi
-/home/174520hj/dataset/CS0_69.wav|bez większości z nich nie można żyć ale są one na szczęście zastępowalne
-/home/174520hj/dataset/CS0_7.wav|mózg jest najbardziej niezwykłym skomplikowanym i zagadkowym narządem jaki znamy
-/home/174520hj/dataset/CS0_70.wav|dzięki pobraniu szpiku kostnego możemy otrzymać zupełnie nowy układ odpornościowy
-/home/174520hj/dataset/CS0_71.wav|możemy też przeszczepić serce wątrobę płuca nerki i trzustkę
-/home/174520hj/dataset/CS0_72.wav|nikt jeszcze nie podjął się jednak transplantacji ludzkiego mózgu
-/home/174520hj/dataset/CS0_73.wav|kiedy w przyszłości sprostamy technicznym wyzwaniom związanym z tym przedsięwzięciem natychmiast pojawią się dylematy etyczne
-/home/174520hj/dataset/CS0_74.wav|osoba która otrzyma nowy mózg po śmierci swojego przestanie być sobą
-/home/174520hj/dataset/CS0_75.wav|będziesz patrzeć na kogoś wyglądającego jak twoja córka ale czy z mózgiem kogoś innego z zupełnie inną świadomością myślami i marzeniami to nadal będzie ona
-/home/174520hj/dataset/CS0_76.wav|nie można przeszczepić mózgu nie przeszczepiając osoby do której pierwotnie należał i właśnie to czyni z niego nasz jedyny niezastąpiony narząd
-/home/174520hj/dataset/CS0_77.wav|w tej książce zgłębimy tajemnice mózgu od tego co się dzieje kiedy jesteśmy zakochani do tego gdzie znajduje się jaźń
-/home/174520hj/dataset/CS0_78.wav|rozmowa o mózgu wywołuje wiele ciekawych pytań
-/home/174520hj/dataset/CS0_79.wav|kim jesteśmy co sprawia że my to my co to jest osobowość czym jest wolna wola gdzie zaczyna się myśl
-/home/174520hj/dataset/CS0_8.wav|w latach osiemdziesiątych jako studentka psychologii uczyłam się że autyzm u dzieci wynika z chłodu emocjonalnego ich matek
-/home/174520hj/dataset/CS0_80.wav|czasem odpowiedzi a przynajmniej wnioski płynące z historii pacjentów i nowych odkryć naukowych są jasne pewne kwestie pozostają jednak nadal zagadką
-/home/174520hj/dataset/CS0_81.wav|miejmy nadzieję że w niedalekiej przyszłości kiełkujące talenty badawcze i jasne umysły uczonych znajdą odpowiedzi na nurtujące nas wciąż pytania
-/home/174520hj/dataset/CS0_82.wav|w końcu mózg to jedyny narząd który może badać sam siebie
-/home/174520hj/dataset/CS0_83.wav|przekonacie się że język kultura i sposób życia zależą od pamięci oraz od zdolności mózgu do interpretowania i dostrzegania wzorców
-/home/174520hj/dataset/CS0_84.wav|to mózg sprawia że my to my i to dzięki niemu istnieją sport muzyka i sztuka
-/home/174520hj/dataset/CS0_85.wav|mózg naprawdę rządzi
-/home/174520hj/dataset/CS0_9.wav|dzisiaj wiemy że to nieprawda
+/home/174520hj/dataset/CS0_60.wav|Mamy na przykład prawą i lewą półkulę, prawy i lewy płat czołowy i tak dalej.
+/home/174520hj/dataset/CS0_61.wav|Kartezjusz, zwrócił uwagę na to, że tylko jedna struktura, a mianowicie szyszynka leży dokładnie na osi symetrii i doszedł do wniosku, że właśnie tam mieszka dusza.
+/home/174520hj/dataset/CS0_62.wav|Aż tak proste to to jednak nie jest.
+/home/174520hj/dataset/CS0_63.wav|W tysiąc osiemset osiedziesiątym siódmym roku, Fridtjof Nansen, badacz polarny i pierwszy w Norwegii uczony zajmujący się mózgiem, w swojej pracy doktorskiej wysunął hipotezę, że inteligencja powstaje na stykach komórek nerwowych w mózgu.
+/home/174520hj/dataset/CS0_64.wav|Od jego czasów, zdążyliśmy zaobserwować, że na styku neuronów, tworzy się nie tylko inteligencja, lecz także radość, zakochanie, pogarda, pamięć, uczenie się, gust muzyczny i inne preferencje.
+/home/174520hj/dataset/CS0_65.wav|Skoro wszystko co tworzy jaźń znajduje się w mózgu, oczywiste staje się to, że bez mózgu nie bylibyśmy sobą.
+/home/174520hj/dataset/CS0_66.wav|To, że mózg odgrywa decydującą rolę w ludzkim życiu, znajduje odzwierciedlenie również w naszym prawodawstwie.
+/home/174520hj/dataset/CS0_67.wav|Śmierć mózgu oznacza śmierć człowieka.
+/home/174520hj/dataset/CS0_68.wav|Jeśli ktoś wcześniej wyraził na to zgodę, można pobrać z jego zwłok narządy do transplantacji i uratować życie innych ludzi.
+/home/174520hj/dataset/CS0_69.wav|Bez większości z nich nie można żyć, ale są one na szczęście zastępowalne.
+/home/174520hj/dataset/CS0_7.wav|Mózg jest najbardziej niezwykłym, skomplikowanym i zagadkowym narządem jaki znamy.
+/home/174520hj/dataset/CS0_70.wav|Dzięki pobraniu szpiku kostnego możemy otrzymać zupełnie nowy układ odpornościowy.
+/home/174520hj/dataset/CS0_71.wav|Możemy też przeszczepić serce, wątrobę, płuca, nerki i trzustkę.
+/home/174520hj/dataset/CS0_72.wav|Nikt jeszcze nie podjął się jednak transplantacji ludzkiego mózgu.
+/home/174520hj/dataset/CS0_73.wav|Kiedy w przyszłości sprostamy technicznym wyzwaniom związanym z tym przedsięwzięciem, natychmiast pojawią się dylematy etyczne.
+/home/174520hj/dataset/CS0_74.wav|Osoba która otrzyma nowy mózg po śmierci swojego, przestanie być sobą.
+/home/174520hj/dataset/CS0_75.wav|Będziesz patrzeć na kogoś wyglądającego jak twoja córka, ale czy z mózgiem kogoś innego, z zupełnie inną świadomością, myślami i marzeniami, to nadal będzie ona?
+/home/174520hj/dataset/CS0_76.wav|Nie można przeszczepić mózgu, nie przeszczepiając osoby, do której pierwotnie należał, i właśnie to czyni z niego nasz jedyny niezastąpiony narząd.
+/home/174520hj/dataset/CS0_77.wav|W tej książce zgłębimy tajemnice mózgu, od tego co się dzieje, kiedy jesteśmy zakochani do tego, gdzie znajduje się jaźń.
+/home/174520hj/dataset/CS0_78.wav|Rozmowa o mózgu wywołuje wiele ciekawych pytań.
+/home/174520hj/dataset/CS0_79.wav|Kim jesteśmy? Co sprawia że my to my? Co to jest osobowość? Czym jest wolna wola? Gdzie zaczyna się myśl?
+/home/174520hj/dataset/CS0_8.wav|W latach osiemdziesiątych, jako studentka psychologii uczyłam się, że autyzm u dzieci wynika z chłodu emocjonalnego ich matek.
+/home/174520hj/dataset/CS0_80.wav|Czasem odpowiedzi, a przynajmniej wnioski płynące z historii pacjentów i nowych odkryć naukowych, są jasne, pewne kwestie pozostają jednak nadal zagadką.
+/home/174520hj/dataset/CS0_81.wav|Miejmy nadzieję, że w niedalekiej przyszłości, kiełkujące talenty badawcze i jasne umysły uczonych znajdą odpowiedzi na nurtujące nas wciąż pytania.
+/home/174520hj/dataset/CS0_82.wav|W końcu mózg, to jedyny narząd, który może badać sam siebie.
+/home/174520hj/dataset/CS0_83.wav|Przekonacie się, że język, kultura i sposób życia zależą od pamięci oraz od zdolności mózgu do interpretowania i dostrzegania wzorców.
+/home/174520hj/dataset/CS0_84.wav|To mózg sprawia, że my to my, i to dzięki niemu istnieją sport, muzyka i sztuka.
+/home/174520hj/dataset/CS0_85.wav|Mózg naprawdę rządzi.
+/home/174520hj/dataset/CS0_9.wav|Dzisiaj wiemy, że to nieprawda.
 /home/174520hj/dataset/CS10_0.wav|mózg zwycięzcy
 /home/174520hj/dataset/CS10_1.wav|w ostatnim roku nauczyłam się przydatnego obcego słowa
 /home/174520hj/dataset/CS10_10.wav|istnieją pewne prawidłowości dotyczące zadań które ludzie odraczają
@@ -1776,9 +1775,9 @@
 /home/174520hj/dataset/CS19_7.wav|dla nas niezauważalne
 /home/174520hj/dataset/CS19_8.wav|rozpoznawanie twarzy
 /home/174520hj/dataset/CS19_9.wav|kiedy patrzymy na twarze bardzo szybko odczytujemy ich wyraz
-/home/174520hj/dataset/CS1_0.wav|rewolucja myślowa
-/home/174520hj/dataset/CS1_1.wav|pofałdowana powierzchnia ludzkiego mózgu przypominająca owoc orzecha włoskiego to tak zwana kora mózgowa wypełniona po brzegi komórkami nerwowymi
-/home/174520hj/dataset/CS1_10.wav|duża ilość kory mózgowej człowieka to prawdopodobnie konsekwencja epoki lodowcowej
+/home/174520hj/dataset/CS1_0.wav|Rewolucja myślowa.
+/home/174520hj/dataset/CS1_1.wav|Pofałdowana powierzchnia ludzkiego mózgu, przypominająca owoc orzecha włoskiego, to tak zwana kora mózgowa, wypełniona po brzegi komórkami nerwowymi.
+/home/174520hj/dataset/CS1_10.wav|Duża ilość kory mózgowej człowieka to prawdopodobnie konsekwencja epoki lodowcowej.
 /home/174520hj/dataset/CS1_100.wav|dlaczego nie wystarczy mieć duży mózg
 /home/174520hj/dataset/CS1_101.wav|słonie i niektóre walenie mają jeszcze większe mózgi niż my
 /home/174520hj/dataset/CS1_102.wav|mózg płetwala błękitnego waży aż osiem kilogramów a sam płetwal sto ton
@@ -1789,7 +1788,7 @@
 /home/174520hj/dataset/CS1_107.wav|mózg człowieka jest największy w stosunku do masy ciała
 /home/174520hj/dataset/CS1_108.wav|iq się jednak mierzy a nie waży więc na nic zda się płetwalowi błękitnemu ośmiokilogramowy mózg
 /home/174520hj/dataset/CS1_109.wav|nie jest tak że dwa mózgi tej samej wielkości mają taką samą liczbę neuronów i taką samą zdolność przeprowadzania złożonych procesów myślowych
-/home/174520hj/dataset/CS1_11.wav|gatunki posiadające korę mózgową poradziły sobie ze zmianą klimatu lepiej niż te które jej nie miały
+/home/174520hj/dataset/CS1_11.wav|Gatunki posiadające korę mózgową poradziły sobie ze zmianą klimatu lepiej niż te, które jej nie miały.
 /home/174520hj/dataset/CS1_110.wav|oto klasyczny przykład
 /home/174520hj/dataset/CS1_111.wav|einstein mimo że był ojcem teorii względności i laureatem nagrody nobla w dziedzinie fizyki miał mózg mniejszy o dwadzieścia procent od przeciętnego
 /home/174520hj/dataset/CS1_112.wav|tę wiedzę zawdzięczamy nieuczciwemu lekarzowi
@@ -1800,7 +1799,7 @@
 /home/174520hj/dataset/CS1_117.wav|innymi słowy dziesięć razy więcej neuronów oznacza dziesięć razy większy mózg
 /home/174520hj/dataset/CS1_118.wav|u gryzoni większe mózgi oznaczają większe komórki nerwowe
 /home/174520hj/dataset/CS1_119.wav|żeby otrzymać dziesięć razy więcej neuronów mózg musi powiększyć się aż czterdzieści razy
-/home/174520hj/dataset/CS1_12.wav|dinozaury ze swoim mózgiem gadzim pozbawionym typowej kory mózgowej nie były zatem zbyt dobrze przygotowane na upadek meteorytu
+/home/174520hj/dataset/CS1_12.wav|Dinozaury ze swoim mózgiem gadzim, pozbawionym typowej kory mózgowej, nie były zatem zbyt dobrze przygotowane na upadek meteorytu.
 /home/174520hj/dataset/CS1_120.wav|dlatego mózgi naczelnych zawsze będą miały więcej neuronów niż tej samej wielkości mózgi gryzoni
 /home/174520hj/dataset/CS1_121.wav|im większe te hipotetycznie równe mózgi tym większa dysproporcja w liczbie neuronów
 /home/174520hj/dataset/CS1_122.wav|gdyby mózg szczura miał zawierać tyle samo komórek nerwowych co mózg człowieka musiałby ważyć trzydzieści pięć kilogramów
@@ -1811,7 +1810,6 @@
 /home/174520hj/dataset/CS1_127.wav|niegotowe dzieci biorąc pod uwagę jak obecnie jesteśmy zbudowani nie moglibyśmy mieć dużo większego mózgu
 /home/174520hj/dataset/CS1_128.wav|nie pozwala na to czaszka
 /home/174520hj/dataset/CS1_129.wav|chociaż dzięki pofałdowaniu kora mózgowa się w niej mieści to nasza czaszka jest tak mała że już w chwili narodzin nie ma w niej miejsca na wiele więcej
-/home/174520hj/dataset/CS1_13.wav|stegozaur ważył całe pięć ton ale jego mózg zaledwie osiemdziesiąt gramów
 /home/174520hj/dataset/CS1_130.wav|a jednocześnie tak duża że jeśli przed narodzinami dziecko nie obróci się w odpowiednią stronę w odpowiednim czasie mamy kłopot
 /home/174520hj/dataset/CS1_131.wav|dlatego ludzkie dzieci rodzą się z niegotowym mózgiem kiedy głowa może jeszcze przecisnąć się przez kanał rodny
 /home/174520hj/dataset/CS1_132.wav|minusem tej sytuacji jest to że mają długie dzieciństwo a co za tym idzie przez długi czas są uzależnione od swoich rodziców
@@ -1822,7 +1820,7 @@
 /home/174520hj/dataset/CS1_137.wav|ani nie biegamy najszybciej ani nie nurkujemy najgłębiej ani nie widzimy dobrze w ciemności a przecież zwierzęta drapieżne aby przeżyć tradycyjnie są wyposażone w coś co daje im przewagę nad innymi
 /home/174520hj/dataset/CS1_138.wav|mocne szczęki rzędy ostrych zębów paraliżujący jad lub miażdżącą siłę a ich potencjalne ofiary wykorzystują do ochrony gruby pancerz lub ubarwienie maskujące
 /home/174520hj/dataset/CS1_139.wav|inteligencja to sztuka
-/home/174520hj/dataset/CS1_14.wav|był wielkości cytryny
+/home/174520hj/dataset/CS1_14.wav|Był wielkości cytryny.
 /home/174520hj/dataset/CS1_140.wav|z punktu widzenia anatomii człowiek był nowoczesny pod każdym względem również stop pięćdziesiąt tysięcy lat temu chociaż nie zachowały się dowody na to że umiał wtedy myśleć abstrakcyjnie lub symbolicznie
 /home/174520hj/dataset/CS1_141.wav|prawie czterdzieści tysięcy lat temu zaczęliśmy tworzyć dzieła sztuki biżuterię i skomplikowane narzędzia takie jak menażki czy haczyki wędkarskie
 /home/174520hj/dataset/CS1_142.wav|wyrabialiśmy je żeby zrekompensować sobie brak odpowiednich atrybutów fizycznych
@@ -1833,7 +1831,7 @@
 /home/174520hj/dataset/CS1_147.wav|przeskok od wykorzystania kamienia który przy odrobinie dobrej woli można nazwać siekierą do budowy piramid był ogromny
 /home/174520hj/dataset/CS1_148.wav|piramidy wznoszono już cztery tysiące lat temu
 /home/174520hj/dataset/CS1_149.wav|każda z nich składa się z około dwóch milionów trzystu tysięcy bloków skalnych a każdy blok waży przeciętnie dwie i pół tony i jest tak idealnie sześcienny że różnica w długości boków wynosi maksymalnie jedną dziesiątą procent
-/home/174520hj/dataset/CS1_15.wav|jeśli do tego weźmiemy pod uwagę że ten minimózg nie miał kory nie powinno nikogo dziwić że obecnie stegozaury widujemy jedynie w filmach i muzeach
+/home/174520hj/dataset/CS1_15.wav|Jeśli do tego weźmiemy pod uwagę, że ten minimózg nie miał kory, nie powinno nikogo dziwić, że obecnie stegozaury widujemy jedynie w filmach i muzeach.
 /home/174520hj/dataset/CS1_150.wav|ale to nie mięśnie w każdym razie nie przede wszystkim przeniosły te bloki lecz sztuka inżynierska
 /home/174520hj/dataset/CS1_151.wav|mózg
 /home/174520hj/dataset/CS1_152.wav|kilka tysięcy lat później obwód ziemi obliczono tak precyzyjnie że odbiegał on od wartości którą obecnie operujemy jedynie o dwa procent
@@ -1844,7 +1842,7 @@
 /home/174520hj/dataset/CS1_157.wav|jesteśmy inteligentniejsi od zwierząt zarówno dzięki temu że mamy proporcjonalnie duży mózg jak i dzięki dużej powierzchni kory mózgowej w porównaniu z korą innych gatunków
 /home/174520hj/dataset/CS1_158.wav|w ludzkim mózgu znajduje się przeciętnie osiemdziesiąt sześć miliardów komórek nerwowych
 /home/174520hj/dataset/CS1_159.wav|z czego szesnaście miliardów w korze
-/home/174520hj/dataset/CS1_16.wav|chociaż to kora mózgowa czyni z nas najbardziej inteligentny gatunek na ziemi nie poradzilibyśmy sobie bez głębiej położonych części mózgu
+/home/174520hj/dataset/CS1_16.wav|Chociaż to kora mózgowa czyni z nas najbardziej inteligentny gatunek na ziemi, nie poradzilibyśmy sobie bez głębiej położonych części mózgu.
 /home/174520hj/dataset/CS1_160.wav|żaden inny gatunek nie może pochwalić się większą liczbą neuronów w tej strukturze
 /home/174520hj/dataset/CS1_161.wav|jest ona siedzibą myśli mowy osobowości i umiejętności radzenia sobie w trudnych sytuacjach
 /home/174520hj/dataset/CS1_162.wav|kora mózgowa czyni z nas ludzi
@@ -1855,7 +1853,7 @@
 /home/174520hj/dataset/CS1_167.wav|kora mózgowa pomaga nam nie tylko odbierać uczucia lecz także rozumieć w lot że komunikatu wypowiedzianego pozornie ze śmiertelną powagą w rzeczywistości nie należy brać serio
 /home/174520hj/dataset/CS1_168.wav|czujesz się jak ósmy cud świata kiedy tak siedzisz na kanapie
 /home/174520hj/dataset/CS1_169.wav|powinieneś
-/home/174520hj/dataset/CS1_17.wav|strukturą która leży najgłębiej i ma absolutnie fundamentalne znaczenie dla naszej egzystencji jest właśnie mózg gadzi
+/home/174520hj/dataset/CS1_17.wav|Strukturą, która leży najgłębiej i ma absolutnie fundamentalne znaczenie dla naszej egzystencji, jest właśnie mózg gadzi.
 /home/174520hj/dataset/CS1_170.wav|nasz zupełnie niepowtarzalny mózg sprawia że jesteśmy jedynymi istotami które mają poczucie humoru i posługują się mową
 /home/174520hj/dataset/CS1_171.wav|zwierzęta również się komunikują ale wyłącznie po to by ostrzec się nawzajem przed niebezpieczeństwem
 /home/174520hj/dataset/CS1_172.wav|wyrazić radość
@@ -1866,7 +1864,6 @@
 /home/174520hj/dataset/CS1_177.wav|lub zaśmiać się z cudzego żartu
 /home/174520hj/dataset/CS1_178.wav|miejsce na wszystko
 /home/174520hj/dataset/CS1_179.wav|kora mózgowa dzieli się na płaty zgodnie z ich umiejscowieniem w czaszce
-/home/174520hj/dataset/CS1_18.wav|składa się on z pnia mózgu i móżdżku
 /home/174520hj/dataset/CS1_180.wav|chociaż wiele cech jest związanych z określonym obszarem mózgu lub konkretną jego częścią poszczególne płaty nie działają niezależnie od siebie
 /home/174520hj/dataset/CS1_181.wav|by móc funkcjonować wszystkie komórki nerwowe w mózgu muszą należeć do sieci neuronów
 /home/174520hj/dataset/CS1_182.wav|nawet funkcje za które odpowiadają odrębne ośrodki są uzależnione od współpracy ze skupiskami komórek w różnych rejonach mózgu
@@ -1877,7 +1874,7 @@
 /home/174520hj/dataset/CS1_187.wav|ludzie mają dwa ośrodki mowy w dominującej półkuli mózgu
 /home/174520hj/dataset/CS1_188.wav|u wszystkich osób praworęcznych dominuje lewa półkula chociaż ośrodki mowy znajdują się w lewej półkuli również u siedemdziesiąt procent leworęcznych
 /home/174520hj/dataset/CS1_189.wav|ośrodek dzięki któremu jesteśmy w stanie mówić i ośrodek który sprawia że rozumiemy mowę są zlokalizowane po tej samej stronie
-/home/174520hj/dataset/CS1_19.wav|pień mózgu to idealny stróż
+/home/174520hj/dataset/CS1_19.wav|Pień mózgu to idealny stróż.
 /home/174520hj/dataset/CS1_190.wav|pierwszy znajduje się w płacie czołowym a drugi między płatem skroniowym i ciemieniowym
 /home/174520hj/dataset/CS1_191.wav|jeśli zostanie uszkodzony ośrodek mowy położony z tyłu będziesz trajkotał używając słów których ani ty ani nikt inny nie zrozumie
 /home/174520hj/dataset/CS1_192.wav|po prostu twój mózg zacznie wymyślać słowa które nie istnieją
@@ -1888,8 +1885,8 @@
 /home/174520hj/dataset/CS1_197.wav|to on odpowiada za osobowość i zdolność planowania kora
 /home/174520hj/dataset/CS1_198.wav|przedczołowa jest najmłodszą częścią mózgu i to nie tylko w ujęciu ewolucyjnym ponieważ rozwija się najpóźniej także u każdego z nas
 /home/174520hj/dataset/CS1_199.wav|poszczególne obszary kory mózgowej pozwalają nam myśleć analitycznie
-/home/174520hj/dataset/CS1_2.wav|stanowiła rewolucję w historii ewolucji
-/home/174520hj/dataset/CS1_20.wav|dba o to żeby wszystko funkcjonowało bez zarzutu i żebyśmy nie musieli zaprzątać sobie tym głowy
+/home/174520hj/dataset/CS1_2.wav|Stanowiła rewolucję w historii ewolucji.
+/home/174520hj/dataset/CS1_20.wav|Dba o to, żeby wszystko funkcjonowało bez zarzutu i żebyśmy nie musieli zaprzątać sobie tym głowy.
 /home/174520hj/dataset/CS1_200.wav|przewidywać konsekwencje naszych działań i planować przyszłość
 /home/174520hj/dataset/CS1_201.wav|ta część mózgu czyni z nas matematyków poetów i kompozytorów
 /home/174520hj/dataset/CS1_202.wav|nie silniejsi lecz bystrzejsi
@@ -1900,40 +1897,38 @@
 /home/174520hj/dataset/CS1_207.wav|we współczesnym społeczeństwie mózg pomaga nam radzić sobie w różnych sytuacjach tak abyśmy zyskiwali przyjaciół a nie wrogów
 /home/174520hj/dataset/CS1_208.wav|mózg sprawia że jesteśmy w stanie oszczędzać pieniądze przez dłuższy czas by później osiągnąć dalekosiężny cel
 /home/174520hj/dataset/CS1_209.wav|jeśli jesteśmy mądrzy i dobrze rozgrywamy różne sytuacje życiowe zdobędziemy lojalnych wspólników ciekawą pracę i oddanych przyjaciół
-/home/174520hj/dataset/CS1_21.wav|komórki pnia mózgu regulują oddychanie rytm serca i sen
+/home/174520hj/dataset/CS1_21.wav|Komórki pnia mózgu regulują oddychanie, rytm serca i sen.
 /home/174520hj/dataset/CS1_210.wav|staniemy się atrakcyjni
-/home/174520hj/dataset/CS1_211.wav|dlatego zysk netto z naszej ewolucji to nie wzrost siły czy szybkości lecz coraz większa bystrość
-/home/174520hj/dataset/CS1_22.wav|nigdy nie odpoczywają bez względu na to czy śpimy czy czuwamy
-/home/174520hj/dataset/CS1_23.wav|z tyłu pnia mózgu leży móżdżek który odpowiada za koordynację ruchów i utrzymanie równowagi
-/home/174520hj/dataset/CS1_24.wav|jeśli móżdżek jest pod wpływem alkoholu chwiejemy się i zataczamy a nasze ruchy stają się nieskoordynowane
-/home/174520hj/dataset/CS1_25.wav|mózg składa się z istoty szarej i białej
-/home/174520hj/dataset/CS1_26.wav|w istocie szarej która w rzeczywistości nie jest szara tylko różowa znajdują się ciała komórek nerwowych oraz synapsy w których następuje przekazanie impulsu nerwowego między neuronami
-/home/174520hj/dataset/CS1_27.wav|istota biała to autostrada po której te impulsy przebiegają
-/home/174520hj/dataset/CS1_28.wav|podobnie jak wszystkie inne przewody elektryczne również przewody w mózgu potrzebują izolacji
-/home/174520hj/dataset/CS1_29.wav|tę funkcję pełni mielina
-/home/174520hj/dataset/CS1_3.wav|im więcej kory mózgowej u zwierzęcia tym większa szansa na wysoką inteligencję
-/home/174520hj/dataset/CS1_30.wav|sprawia ona że impulsy nerwowe płyną szybciej
-/home/174520hj/dataset/CS1_31.wav|ma ona tak dużą zawartość tłuszczów że wydaje się biała
-/home/174520hj/dataset/CS1_32.wav|istota szara znajduje się w korze mózgowej to znaczy zarówno wokół kresomózgowia jak i wokół móżdżku ale jej wyspy znajdziemy również w środku w jądrach
-/home/174520hj/dataset/CS1_33.wav|mózg ssaczy
-/home/174520hj/dataset/CS1_34.wav|mózgowie człowieka wciąż ma struktury pierwotnego mózgu ssaczego który ukształtował się dwieście pięćdziesiąt milionów lat temu i jest nazywany układem limbicznym
-/home/174520hj/dataset/CS1_35.wav|w jego skład wchodzą najstarsze części kory mózgowej oraz wyspy istoty szarej z komórkami nerwowymi które nazywamy jądrami
-/home/174520hj/dataset/CS1_36.wav|wiele z nich odgrywa ważną rolę w fundamentalnych funkcjach życiowych
-/home/174520hj/dataset/CS1_37.wav|anglojęzyczni studenci zapamiętują te funkcje za pomocą czterech f
-/home/174520hj/dataset/CS1_38.wav|fighting flighting feeding i fucking
-/home/174520hj/dataset/CS1_39.wav|walka ucieczka jedzenie i seks
-/home/174520hj/dataset/CS1_4.wav|około pięćset milionów lat temu istniał jedynie mózg gadzi dzisiaj znany jako tyłomózgowie
-/home/174520hj/dataset/CS1_40.wav|wszystkie należą do podstawowych sił napędowych ewolucji
-/home/174520hj/dataset/CS1_41.wav|jednym z takich ważnych jąder w układzie limbicznym jest ciało migdałowate które leży tuż za skronią
-/home/174520hj/dataset/CS1_42.wav|dawniej anatomowie nazywali struktury mózgu kierując się ich podobieństwem do czegoś znanego
-/home/174520hj/dataset/CS1_43.wav|łacińskie słowo amygdalum oznacza migdał
-/home/174520hj/dataset/CS1_44.wav|dwa pierwsze f mają związek właśnie z nim
+/home/174520hj/dataset/CS1_211.wav|Dlatego zysk netto z naszej ewolucji to nie wzrost siły czy szybkości, lecz coraz większa bystrość.
+/home/174520hj/dataset/CS1_22.wav|Nigdy nie odpoczywają, bez względu na to, czy śpimy czy czuwamy.
+/home/174520hj/dataset/CS1_23.wav|Z tyłu pnia mózgu leży móżdżek, który odpowiada za koordynację ruchów i utrzymanie równowagi.
+/home/174520hj/dataset/CS1_24.wav|Jeśli móżdżek jest pod wpływem alkoholu, chwiejemy się i zataczamy, a nasze ruchy stają się nieskoordynowane.
+/home/174520hj/dataset/CS1_25.wav|Mózg składa się z istoty szarej i białej.
+/home/174520hj/dataset/CS1_26.wav|W istocie szarej, która w rzeczywistości nie jest szara tylko różowa, znajdują się ciała komórek nerwowych oraz synapsy, w których następuje przekazanie impulsu nerwowego między neuronami.
+/home/174520hj/dataset/CS1_27.wav|Istota biała to autostrada, po której te impulsy przebiegają.
+/home/174520hj/dataset/CS1_28.wav|Podobnie jak wszystkie inne przewody elektryczne, również przewody w mózgu potrzebują izolacji.
+/home/174520hj/dataset/CS1_29.wav|Tę funkcję pełni mielina.
+/home/174520hj/dataset/CS1_3.wav|Im więcej kory mózgowej u zwierzęcia, tym większa szansa na wysoką inteligencję.
+/home/174520hj/dataset/CS1_31.wav|Ma ona tak dużą zawartość tłuszczów, że wydaje się biała.
+/home/174520hj/dataset/CS1_32.wav|Istota szara znajduje się w korze mózgowej ,to znaczy zarówno wokół kresomózgowia, jak i wokół móżdżku, ale jej wyspy znajdziemy również w środku, w jądrach.
+/home/174520hj/dataset/CS1_33.wav|Mózg ssaczy.
+/home/174520hj/dataset/CS1_34.wav|Mózgowie człowieka wciąż ma struktury pierwotnego mózgu ssaczego, który ukształtował się dwieście pięćdziesiąt milionów lat temu i jest nazywany układem limbicznym.
+/home/174520hj/dataset/CS1_35.wav|W jego skład wchodzą najstarsze części kory mózgowej oraz wyspy istoty szarej z komórkami nerwowymi, które nazywamy jądrami.
+/home/174520hj/dataset/CS1_36.wav|Wwiele z nich odgrywa ważną rolę w fundamentalnych funkcjach życiowych.
+/home/174520hj/dataset/CS1_37.wav|Anglojęzyczni studenci zapamiętują te funkcje za pomocą czterech f.
+/home/174520hj/dataset/CS1_39.wav|Walka, ucieczka, jedzenie i seks.
+/home/174520hj/dataset/CS1_4.wav|Koło pięciuset milionów lat temu istniał jedynie mózg gadzi, dzisiaj znany jako tyłomózgowie.
+/home/174520hj/dataset/CS1_40.wav|Wszystkie należą do podstawowych sił napędowych ewolucji.
+/home/174520hj/dataset/CS1_41.wav|Jednym z takich ważnych jąder w układzie limbicznym jest ciało migdałowate, które leży tuż za skronią.
+/home/174520hj/dataset/CS1_42.wav|Dawniej anatomowie nazywali struktury mózgu kierując się ich podobieństwem do czegoś znanego.
+/home/174520hj/dataset/CS1_43.wav|Łacińskie słowo amygdalum oznacza migdał.
+/home/174520hj/dataset/CS1_44.wav|dwa pierwsze f mają związek właśnie z nim.
 /home/174520hj/dataset/CS1_45.wav|komórki nerwowe tego migdała odpowiadają za nasze reakcje emocjonalne
 /home/174520hj/dataset/CS1_46.wav|to one sprawiają że może nam się wyrwać kilka niecenzuralnych słów kiedy kierowca odjedzie z przystanku w chwili gdy podbiegniemy do autobusu i że nakręcamy się na nowo opowiadając tę historię podczas lunchu
 /home/174520hj/dataset/CS1_47.wav|ciało migdałowate wpływa również na naszą motywację
 /home/174520hj/dataset/CS1_48.wav|to ono ponosi przynajmniej częściowo winę za to że wróćmy jeszcze do wspomnianej sytuacji biegniemy zlani potem żeby zdążyć na autobus który podjechał na przystanek chociaż niedługo ma przyjechać następny
 /home/174520hj/dataset/CS1_49.wav|ten mechanizm działa też kiedy tego samego wieczoru wracamy w ciemności do domu i słysząc za sobą czyjeś kroki nieco przyspieszamy
-/home/174520hj/dataset/CS1_5.wav|po kolejnych dwustu pięćdziesiąciu milionach lat rozwinął się mózg ssaczy który obecnie nazywamy układem limbicznym
+/home/174520hj/dataset/CS1_5.wav|Po kolejnych dwustu pięćdziesięciu milionach lat rozwinął się mózg ssaczy, który obecnie nazywamy układem limbicznym.
 /home/174520hj/dataset/CS1_50.wav|i nawet gdybyśmy znajdowali się akurat w bezpiecznym miejscu i nie mieli czego się bać czulibyśmy intensywny niepokój gdyby nasze ciało migdałowate zostało pobudzone elektrycznie
 /home/174520hj/dataset/CS1_51.wav|za ciałem migdałowatym znajduje się długi na trzy cztery centymetry element przypominający kształtem kiełbaskę który również wchodzi w skład starszej części mózgu
 /home/174520hj/dataset/CS1_52.wav|kiełbaska ta nosi nazwę hipokamp czyli konik morski
@@ -1944,7 +1939,7 @@
 /home/174520hj/dataset/CS1_57.wav|przesyłają one sygnały ze wszystkich zakątków sensorycznego uniwersum do kory mózgowej uwzględniając najświeższe wiadomości pochodzące od zmysłów
 /home/174520hj/dataset/CS1_58.wav|gdybyśmy mieli porównać struktury mózgu do ludzi to dwa wzgórza byłyby osobami które znają wszystkie plotki i we wszystko wtykają nos
 /home/174520hj/dataset/CS1_59.wav|wielkie autostrady wypustek neuronów przechodzą bowiem przez oba wzgórza i łączą się z innymi drogami by stworzyć skomplikowane obiegi informacji elektrycznych które pędzą według skoordynowanych powtarzalnych wzorców
-/home/174520hj/dataset/CS1_6.wav|kresomózgowie i kora mózgowa rozwinęły się u ssaków dwieście milionów lat temu
+/home/174520hj/dataset/CS1_6.wav|Kresomózgowie i kora mózgowa rozwinęły się u ssaków dwieście milionów lat temu.
 /home/174520hj/dataset/CS1_60.wav|genialne małpy
 /home/174520hj/dataset/CS1_61.wav|u małp człekokształtnych szybko wykształcił się większy mózg
 /home/174520hj/dataset/CS1_62.wav|zachował się u nich zarówno mózg gadzi jak i układ limbiczny
@@ -1954,8 +1949,8 @@
 /home/174520hj/dataset/CS1_66.wav|ekstremalne zjawiska pogodowe wpływały na stworzenia którym udało się je przeżyć a większości się nie udało
 /home/174520hj/dataset/CS1_67.wav|zmiany były na tyle dotkliwe że strząsnęły nas z drzew ale nas nie zabiły
 /home/174520hj/dataset/CS1_68.wav|kiedy cztery miliony lat temu pierwsi ludzie zaczęli chodzić na dwóch nogach po afrykańskiej sawannie ich mózgi ważyły około czterystu gramów
-/home/174520hj/dataset/CS1_69.wav|chociaż nie musieli się już trzymać gałęzi i mogli wykorzystywać dłonie do innych celów narzędzi zaczęli używać dopiero dwa miliony lat temu kiedy ewoluowali w gatunek homo habilis
-/home/174520hj/dataset/CS1_7.wav|natomiast mózgowie człowieka ukształtowało się dopiero dwieście tysięcy lat temu
+/home/174520hj/dataset/CS1_69.wav|Chociaż nie musieli się już trzymać gałęzi i mogli wykorzystywać dłonie do innych celów, narzędzi zaczęli używać dopiero dwa miliony lat temu, kiedy ewoluowali w gatunek homo habilis.
+/home/174520hj/dataset/CS1_7.wav|Natomiast mózgowie człowieka ukształtowało się dopiero dwieście tysięcy lat temu.
 /home/174520hj/dataset/CS1_70.wav|człowiek zręczny
 /home/174520hj/dataset/CS1_71.wav|wówczas waga mózgu wzrosła do sześciuset gramów
 /home/174520hj/dataset/CS1_72.wav|homo habilis nie korzystał jednak ze szczególnie wymyślnych przyrządów
@@ -1966,7 +1961,7 @@
 /home/174520hj/dataset/CS1_77.wav|delfiny wykorzystują gąbki do ochrony nosów podczas rozbijania skorupiaków o skaliste dno oceanu
 /home/174520hj/dataset/CS1_78.wav|darwinka kaktusowa używa cierni kaktusa do wyławiania larw z dziur
 /home/174520hj/dataset/CS1_79.wav|a szympansy za pomocą gałęzi wydobywają termity z pni drzew
-/home/174520hj/dataset/CS1_8.wav|z punktu widzenia ewolucji to tak jakby to było wczoraj
+/home/174520hj/dataset/CS1_8.wav|Punktu widzenia ewolucji to tak jakby to było wczoraj.
 /home/174520hj/dataset/CS1_80.wav|zwłaszcza to ostatnie robi wrażenie ale trochę potrwa zanim szympansy skomponują symfonię
 /home/174520hj/dataset/CS1_81.wav|w historii ewolucji człowieka musiało wydarzyć się coś więcej
 /home/174520hj/dataset/CS1_82.wav|coś co sprawia że nasze myśli są czymś wyjątkowym
@@ -1977,7 +1972,7 @@
 /home/174520hj/dataset/CS1_87.wav|zamiast uciekać przed ogniem homo erectus zrozumiał że ogień może stać się jego sprzymierzeńcem
 /home/174520hj/dataset/CS1_88.wav|dostarczał ciepła światła i zapewniał ochronę w dalszej wędrówce w świat
 /home/174520hj/dataset/CS1_89.wav|około dwustu tysięcy lat temu ukształtował się człowiek współczesny
-/home/174520hj/dataset/CS1_9.wav|mózg gadzi
+/home/174520hj/dataset/CS1_9.wav|Mózg gadzi.
 /home/174520hj/dataset/CS1_90.wav|homo sapiens
 /home/174520hj/dataset/CS1_91.wav|człowiek rozumny
 /home/174520hj/dataset/CS1_92.wav|z mózgiem ważącym od tysiąca dwustu do tysiąca czterystu gramów
@@ -1988,58 +1983,54 @@
 /home/174520hj/dataset/CS1_97.wav|delfiny i szympansy mają prawie tak duże mózgi jak my
 /home/174520hj/dataset/CS1_98.wav|ale nie mogą mierzyć się z nami pod względem inteligencji
 /home/174520hj/dataset/CS1_99.wav|również mózg krowy jest podobnej wielkości co mózg człowieka a jednak nie czyni to z mućki istoty szczególnie rozumnej i kreatywnej
-/home/174520hj/dataset/CS20_0.wav|dalsza droga
-/home/174520hj/dataset/CS20_1.wav|ta książka pokazuje jak kluczową rolę odgrywa mózg
-/home/174520hj/dataset/CS20_10.wav|uczenie się jest także procesem fizycznym to zmiany w mózgu dają nam możliwość bycia elastycznymi
-/home/174520hj/dataset/CS20_11.wav|możemy nauczyć się szukać pociechy w środkach odurzających lub niezdrowym jedzeniu
-/home/174520hj/dataset/CS20_12.wav|ale możemy również nauczyć się nowych języków lub odnaleźć drogę w nowych miejscach
-/home/174520hj/dataset/CS20_13.wav|norwescy naukowcy may britt i edvard moserowie kontynuują badania w ostatniej wymienionej dziedzinie
-/home/174520hj/dataset/CS20_14.wav|zdają sobie sprawę z tego że nadal nieskończenie wiele jest do odkrycia
-/home/174520hj/dataset/CS20_15.wav|choć mam nadzieję że udzieliłam wielu odpowiedzi
-/home/174520hj/dataset/CS20_16.wav|wiem że część z pytań które postawiłam we wstępie wciąż pozostaje otwarta
-/home/174520hj/dataset/CS20_17.wav|gdzie zaczyna się myśl
-/home/174520hj/dataset/CS20_18.wav|co to jest wolna wola i czy ją mamy
-/home/174520hj/dataset/CS20_19.wav|poza tymi dosyć filozoficznymi kwestiami są jeszcze inne uważane przez znaczną część społeczeństwa za bardziej praktyczne
-/home/174520hj/dataset/CS20_2.wav|jeśli chodzi o powodzenie i przyszłość naszego gatunku
-/home/174520hj/dataset/CS20_20.wav|co wywołuje chorobę alzheimera
-/home/174520hj/dataset/CS20_21.wav|czy możemy w jakiś sposób zahamować jej postęp
-/home/174520hj/dataset/CS20_22.wav|u jednego na trzech norwegów choć raz w życiu diagnozuje się chorobę lub uraz układu nerwowego
-/home/174520hj/dataset/CS20_23.wav|jest to również główna przyczyna zachorowalności wśród mieszkańców zachodniej części świata
-/home/174520hj/dataset/CS20_24.wav|nie da się jednak zrozumieć chorób mózgu bez zrozumienia jego samego
-/home/174520hj/dataset/CS20_25.wav|nie wystarczy zrobić zdjęcia mózgu osoby cierpiącej na depresję żeby otrzymać odpowiedź na pytanie jakie zaburzenia ją wywołały
-/home/174520hj/dataset/CS20_26.wav|choroby które definiuje się wyłącznie na podstawie symptomów
-/home/174520hj/dataset/CS20_27.wav|takie jak właśnie depresja
-/home/174520hj/dataset/CS20_28.wav|prawdopodobnie okazałyby się wieloma różnymi zaburzeniami gdybyśmy zdiagnozowali je na podstawie przyczyny
-/home/174520hj/dataset/CS20_29.wav|jeśli chcemy w pełni zrozumieć takie choroby jak depresja musimy zacząć z drugiej strony
-/home/174520hj/dataset/CS20_3.wav|oraz to że po prostu jesteśmy swoim mózgiem
-/home/174520hj/dataset/CS20_30.wav|i właśnie tym się zajmuję
-/home/174520hj/dataset/CS20_31.wav|tą drugą stroną
-/home/174520hj/dataset/CS20_32.wav|kiedy dowiemy się jak przebiega komunikacja między komórkami nerwowymi zrobimy krok w stronę zrozumienia mózgu
-/home/174520hj/dataset/CS20_33.wav|i dzięki temu otrzymamy narzędzia badawcze niezbędne do tego by móc zrozumieć na przykład epilepsję depresję czy chorobę alzheimera
-/home/174520hj/dataset/CS20_34.wav|często czułam coś w rodzaju zazdrości kiedy moi koledzy mogli odnieść swoje projekty badawcze do powszechnie znanych chorób które dotykają wiele osób
-/home/174520hj/dataset/CS20_35.wav|odkryję zagadkę raka mogą powiedzieć
-/home/174520hj/dataset/CS20_36.wav|ja natomiast mogę wyjaśnić dlaczego ważne jest aby kwas n acetylaspartylglutaminowy uwalniał się z pęcherzyków postsynaptycznych w synapsach pobudzających
-/home/174520hj/dataset/CS20_37.wav|to trudne ale jednocześnie ekscytujące
-/home/174520hj/dataset/CS20_38.wav|i stanowi wyzwanie
-/home/174520hj/dataset/CS20_39.wav|choroby mózgu i układu nerwowego kosztują społeczeństwo tyle samo co choroby układu krwionośnego nowotwory i cukrzyca razem wzięte
-/home/174520hj/dataset/CS20_4.wav|to on sprawia że kochamy boimy się lub czujemy zazdrość
-/home/174520hj/dataset/CS20_40.wav|każda korona przeznaczona na uzyskanie odpowiedzi które pozwolą powstrzymać rozwój chorób neurologicznych to dobrze wydana korona
-/home/174520hj/dataset/CS20_41.wav|coraz lepsze zrozumienie mózgu pociąga również za sobą coraz wyższy standard leczenia
-/home/174520hj/dataset/CS20_42.wav|a także pozwala nam zrozumieć kim jesteśmy i jak funkcjonuje ludzki mózg
-/home/174520hj/dataset/CS20_43.wav|nasz mózg to my
-/home/174520hj/dataset/CS20_44.wav|by móc dowiedzieć się jeszcze więcej o tym fantastycznym narządzie musimy w przyszłości pracować wielotorowo
-/home/174520hj/dataset/CS20_45.wav|konieczne są zarówno badania kliniczne różnych chorób neurologicznych jak i podstawowe badania naukowe pozwalające lepiej zrozumieć sam mózg
-/home/174520hj/dataset/CS20_46.wav|w przyszłości lekarze psycholodzy i badacze mózgu dostarczą wystarczająco dużo elementów tej układanki by mógł powstać pełen jego obraz
-/home/174520hj/dataset/CS20_47.wav|wydawnictwo marginesy oraz audioteka pl dziękują za wysłuchanie audiobooka
-/home/174520hj/dataset/CS20_48.wav|zapraszamy do pozostawienia swojego komentarza
-/home/174520hj/dataset/CS20_49.wav|audioteka
-/home/174520hj/dataset/CS20_5.wav|nasze myśli są fizycznymi procesami przebiegającymi w mózgu i wynikiem tego że komórki nerwowe wysyłają odpowiednie sygnały
-/home/174520hj/dataset/CS20_50.wav|dobrze opowiedziane historie
-/home/174520hj/dataset/CS20_6.wav|podobnie ma się rzecz z naszymi uczuciami
-/home/174520hj/dataset/CS20_7.wav|również inteligencja stanowi rezultat tego jak jest zbudowany nasz mózg i jak komunikują się ze sobą komórki nerwowe
-/home/174520hj/dataset/CS20_8.wav|i to bez względu na to czy do pomiaru inteligencji używamy iq czy korzystamy z definicji psychologa howarda gardnera
-/home/174520hj/dataset/CS20_9.wav|który wyróżnił kilka jej typów w tym językową muzyczną cielesną i społeczną
-/home/174520hj/dataset/CS2_0.wav|w pogoni za osobowością
+/home/174520hj/dataset/CS20_0.wav|Dalsza droga.
+/home/174520hj/dataset/CS20_1.wav|Książka pokazuje, jak kluczową rolę odgrywa mózg.
+/home/174520hj/dataset/CS20_10.wav|Uczenie się jest także procesem fizycznym, to zmiany w mózgu dają nam możliwość bycia elastycznymi.
+/home/174520hj/dataset/CS20_11.wav|Możemy nauczyć się szukać pociechy w środkach odurzających lub niezdrowym jedzeniu.
+/home/174520hj/dataset/CS20_12.wav|Ale możemy również nauczyć się nowych języków lub odnaleźć drogę w nowych miejscach.
+/home/174520hj/dataset/CS20_13.wav|Norwescy naukowcy May Britt i Edvard Moserowie kontynuują badania w ostatniej wymienionej dziedzinie.
+/home/174520hj/dataset/CS20_14.wav|Zdają sobie sprawę z tego,że nadal nieskończenie wiele jest do odkrycia.
+/home/174520hj/dataset/CS20_15.wav|Choć mam nadzieję, że udzieliłam wielu odpowiedzi.
+/home/174520hj/dataset/CS20_16.wav|Wiem że część z pytań które postawiłam we wstępie wciąż pozostaje otwarta.
+/home/174520hj/dataset/CS20_17.wav|Gdzie zaczyna się myśl?
+/home/174520hj/dataset/CS20_18.wav|Co to jest wolna wola i czy ją mamy?
+/home/174520hj/dataset/CS20_19.wav|Poza tymi dosyć filozoficznymi kwestiami są jeszcze inne, uważane przez znaczną część społeczeństwa za bardziej praktyczne.
+/home/174520hj/dataset/CS20_2.wav|Jeśli chodzi o powodzenie i przyszłość naszego gatunku.
+/home/174520hj/dataset/CS20_20.wav|Co wywołuje chorobę Alzheimera?
+/home/174520hj/dataset/CS20_21.wav|Czy możemy w jakiś sposób zahamować jej postęp?
+/home/174520hj/dataset/CS20_22.wav|U jednego na trzech Norwegów choć raz w życiu diagnozuje się chorobę lub uraz układu nerwowego.
+/home/174520hj/dataset/CS20_23.wav|Jest to również główna przyczyna zachorowalności wśród mieszkańców zachodniej części świata.
+/home/174520hj/dataset/CS20_24.wav|Nie da się jednak zrozumieć chorób mózgu bez zrozumienia jego samego.
+/home/174520hj/dataset/CS20_25.wav|Nie wystarczy zrobić zdjęcia mózgu osoby cierpiącej na depresję, żeby otrzymać odpowiedź na pytanie, jakie zaburzenia ją wywołały.
+/home/174520hj/dataset/CS20_267.wav|Choroby, które definiuje się wyłącznie na podstawie symptomów, takie jak właśnie depresja, prawdopodobnie okazałyby się wieloma różnymi zaburzeniami, gdybyśmy zdiagnozowali je na podstawie przyczyny.
+/home/174520hj/dataset/CS20_29.wav|Jeśli chcemy w pełni zrozumieć takie choroby jak depresja, musimy zacząć z drugiej strony.
+/home/174520hj/dataset/CS20_3.wav|Oraz to, że po prostu jesteśmy swoim mózgiem.
+/home/174520hj/dataset/CS20_30.wav|I właśnie tym się zajmuję.
+/home/174520hj/dataset/CS20_31.wav|Tą drugą stroną.
+/home/174520hj/dataset/CS20_32.wav|Kiedy dowiemy się jak przebiega komunikacja między komórkami nerwowymi, zrobimy krok w stronę zrozumienia mózgu.
+/home/174520hj/dataset/CS20_33.wav|I dzięki temu otrzymamy narzędzia badawcze, niezbędne do tego by móc zrozumieć na przykład epilepsję, depresję czy chorobę Alzheimera.
+/home/174520hj/dataset/CS20_34.wav|Często czułam coś w rodzaju zazdrości, kiedy moi koledzy mogli odnieść swoje projekty badawcze do powszechnie znanych chorób, które dotykają wiele osób.
+/home/174520hj/dataset/CS20_35.wav|Odkryję zagadkę raka - mogą powiedzieć.
+/home/174520hj/dataset/CS20_36.wav|Ja natomiast mogę wyjaśnić, dlaczego ważne jest, aby kwas n acetylaspartylglutaminowy uwalniał się z pęcherzyków postsynaptycznych w synapsach pobudzających.
+/home/174520hj/dataset/CS20_37.wav|Trudne ale jednocześnie ekscytujące.
+/home/174520hj/dataset/CS20_38.wav|I stanowi wyzwanie.
+/home/174520hj/dataset/CS20_39.wav|Choroby mózgu i układu nerwowego kosztują społeczeństwo tyle samo co choroby układu krwionośnego, nowotwory i cukrzyca razem wzięte.
+/home/174520hj/dataset/CS20_4.wav|To on sprawia że kochamy, boimy się lub czujemy zazdrość.
+/home/174520hj/dataset/CS20_42.wav|A także pozwala nam zrozumieć, kim jesteśmy i jak funkcjonuje ludzki mózg.
+/home/174520hj/dataset/CS20_43.wav|Nasz mózg to my.
+/home/174520hj/dataset/CS20_44.wav|By móc dowiedzieć się jeszcze więcej o tym fantastycznym narządzie, musimy w przyszłości pracować wielotorowo.
+/home/174520hj/dataset/CS20_45.wav|Konieczne są zarówno badania kliniczne różnych chorób neurologicznych, jak i podstawowe badania naukowe pozwalające lepiej zrozumieć sam mózg.
+/home/174520hj/dataset/CS20_46.wav|W przyszłości lekarze psycholodzy i badacze mózgu dostarczą wystarczająco dużo elementów tej układanki, by mógł powstać pełen jego obraz.
+/home/174520hj/dataset/CS20_47.wav|Wydawnictwo marginesy oraz audioteka pl dziękują za wysłuchanie audiobooka.
+/home/174520hj/dataset/CS20_48.wav|Zapraszamy do pozostawienia swojego komentarza.
+/home/174520hj/dataset/CS20_49.wav|Audioteka.
+/home/174520hj/dataset/CS20_5.wav|Nasze myśli są fizycznymi procesami przebiegającymi w mózgu i wynikiem tego, że komórki nerwowe wysyłają odpowiednie sygnały.
+/home/174520hj/dataset/CS20_50.wav|Dobrze opowiedziane historie.
+/home/174520hj/dataset/CS20_6.wav|Podobnie ma się rzecz z naszymi uczuciami.
+/home/174520hj/dataset/CS20_7.wav|Również inteligencja stanowi rezultat tego jak jest zbudowany nasz mózg i jak komunikują się ze sobą komórki nerwowe.
+/home/174520hj/dataset/CS20_8.wav|I to bez względu na to, czy do pomiaru inteligencji używamy iq, czy korzystamy z definicji psychologa Howarda Gardnera.
+/home/174520hj/dataset/CS20_9.wav|Który wyróżnił kilka jej typów, w tym językową, muzyczną, cielesną i społeczną.
+/home/174520hj/dataset/CS2_0.wav|W pogoni za osobowością.
 /home/174520hj/dataset/CS2_1.wav|cogito ergo sum
 /home/174520hj/dataset/CS2_10.wav|jak wszędzie w medycynie natychmiast pojawia się pytanie czy na osobowość wpływają dziedziczenie i środowisko
 /home/174520hj/dataset/CS2_100.wav|i jedno i drugie wpływa na to jak jesteśmy postrzegani
@@ -2151,7 +2142,7 @@
 /home/174520hj/dataset/CS2_197.wav|przyjmowała ona wszystkich chętnych bez względu na kolor skóry czy pochodzenie
 /home/174520hj/dataset/CS2_198.wav|mały biedny chłopiec stał się charyzmatycznym przywódcą religijnym kilkudziesięciotysięcznej rzeszy ludzi
 /home/174520hj/dataset/CS2_199.wav|nazywał się jim jones
-/home/174520hj/dataset/CS2_2.wav|znana sentencja francuskiego filozofa kartezjusza głosi że skoro myślisz to jesteś
+/home/174520hj/dataset/CS2_2.wav|żnana sentencja francuskiego filozofa Kartezjusza głosi, że skoro myślisz to jesteś.
 /home/174520hj/dataset/CS2_20.wav|te które wychowują się w domu pełnym empatii i szacunku prawdopodobnie same będą wyrozumiałe
 /home/174520hj/dataset/CS2_200.wav|z czasem świątynia ludu przekształciła się w sektę
 /home/174520hj/dataset/CS2_201.wav|której członkowie mieszkali spali i pracowali na terenie należącym do wspólnoty
@@ -2227,18 +2218,17 @@
 /home/174520hj/dataset/CS2_27.wav|stamtąd wszystkie informacje miały trafiać dalej do naszej niematerialnej duszy
 /home/174520hj/dataset/CS2_28.wav|ale czym jest dusza
 /home/174520hj/dataset/CS2_29.wav|jeśli dusza jest jaźnią to znaczy sumą naszych myśli uczuć wyobrażeń i działań to ma wiele wspólnego z tym co nazywamy osobowością
-/home/174520hj/dataset/CS2_3.wav|ale kim jesteś
+/home/174520hj/dataset/CS2_3.wav|Ale kim jesteś?
 /home/174520hj/dataset/CS2_30.wav|dwieście lat po kartezjuszu tragiczny los kierownika budowy kolei phineasa gagea przyczynił się do tego że dziś z całą pewnością możemy stwierdzić że siedziba duszy naprawdę mieści się w mózgu
 /home/174520hj/dataset/CS2_31.wav|choć nie w szyszynce
-/home/174520hj/dataset/CS2_32.wav|gdy wskutek nieszczęśliwego wypadku gageowi przebił głowę metalowy pręt zawieziono go do lekarza
-/home/174520hj/dataset/CS2_33.wav|pół roku później wydawało się że pacjent jest zdrowy ale diametralnie zmieniła się jego osobowość
+/home/174520hj/dataset/CS2_32.wav|Gdy wskutek nieszczęśliwego wypadku gejdżowi przebił głowę metalowy pręt, zawieziono go do lekarza.
+/home/174520hj/dataset/CS2_33.wav|Pół roku później wydawało się że pacjent jest zdrowy, ale diametralnie zmieniła się jego osobowość.
 /home/174520hj/dataset/CS2_34.wav|pręt uszkodził przednią część płatów czołowych co sprawiło że gage przestał dotrzymywać słowa i nie panował nad temperamentem
 /home/174520hj/dataset/CS2_35.wav|nie zdołał również utrzymać się na posadzie
 /home/174520hj/dataset/CS2_36.wav|dwanaście lat po wypadku zmarł jako nałogowy alkoholik samotny i opuszczony
 /home/174520hj/dataset/CS2_37.wav|jego historia stała się tragiczną klasyką dla nas badaczy mózgu nie dlatego że był on jedynym człowiekiem u którego doszło do zmian osobowościowych na skutek traumatycznego uszkodzenia mózgu
 /home/174520hj/dataset/CS2_38.wav|lecz dlatego że był pierwszym znanym człowiekiem cierpiącym na tak zwany zespół czołowy
 /home/174520hj/dataset/CS2_39.wav|przeszliśmy długą drogę od przekonania że osobowość jest czymś niematerialnym i nieuchwytnym do stwierdzenia że uszkodzenie płatów czołowych może nieść ze sobą dramatyczne konsekwencje
-/home/174520hj/dataset/CS2_4.wav|co sprawia że ty to ty
 /home/174520hj/dataset/CS2_40.wav|kartezjusz nie mógł mieć racji we wszystkim
 /home/174520hj/dataset/CS2_41.wav|jaźń jest fizyczna
 /home/174520hj/dataset/CS2_42.wav|okazało się natomiast że szyszynka odgrywa ważną rolę w regulacji naszego rytmu dobowego
@@ -2249,7 +2239,6 @@
 /home/174520hj/dataset/CS2_47.wav|to że dzisiaj możemy śmiać się z wielu z nich jest dobrym znakiem
 /home/174520hj/dataset/CS2_48.wav|nauka poszła naprzód
 /home/174520hj/dataset/CS2_49.wav|płat czołowy
-/home/174520hj/dataset/CS2_5.wav|osobowość łączy w sobie to jak sam się postrzegasz z tym jak widzą cię inni
 /home/174520hj/dataset/CS2_50.wav|uszkodzenie płata czołowego skutkuje zanikiem wielu cech osobowości co sprawia że wszystkie osoby z tego rodzaju defektem są do siebie podobne
 /home/174520hj/dataset/CS2_51.wav|ale za co właściwie odpowiada zdrowy płat czołowy
 /home/174520hj/dataset/CS2_52.wav|otóż pozwala nam planować przyszłość
@@ -2260,7 +2249,7 @@
 /home/174520hj/dataset/CS2_57.wav|i możemy robić rzeczy których będziemy żałować
 /home/174520hj/dataset/CS2_58.wav|albo powinniśmy żałować
 /home/174520hj/dataset/CS2_59.wav|uszkodzony płat czołowy powoduje że puszczają nam hamulce i nie kontrolujemy tego co robimy
-/home/174520hj/dataset/CS2_6.wav|nie jesteś wyłącznie tym co myślisz i czujesz lecz także tym co robisz i pokazujesz
+/home/174520hj/dataset/CS2_6.wav|Nie jesteś wyłącznie tym co myślisz i czujesz. lecz także tym co robisz i pokazujesz.
 /home/174520hj/dataset/CS2_60.wav|phineas gage ranił ludzi wokół siebie
 /home/174520hj/dataset/CS2_61.wav|osoba cierpiąca na zespół czołowy może stać się oziębła emocjonalnie ponieważ przestaje rozumieć jak czują się inni ludzie
 /home/174520hj/dataset/CS2_62.wav|a sama wpada w obojętność i apatię
@@ -2282,7 +2271,7 @@
 /home/174520hj/dataset/CS2_77.wav|to kora przedczołowa
 /home/174520hj/dataset/CS2_78.wav|pomaga nam przewidzieć konsekwencje działań i dopasować nasze zachowanie do ogólnie przyjętych norm i reguł
 /home/174520hj/dataset/CS2_79.wav|mieści się w niej również pamięć robocza która pozwala nam zatrzymywać wrażenia tak długo aż zostaną ocenione i powiązane z trwającymi procesami i przechowywanymi informacjami
-/home/174520hj/dataset/CS2_8.wav|już nie tylko filozofowie starają się odnaleźć odpowiedzi na te pytania
+/home/174520hj/dataset/CS2_8.wav|Już nie tylko filozofowie starają się odnaleźć odpowiedzi na te pytania.
 /home/174520hj/dataset/CS2_80.wav|kora przedczołowa jest jak dyrygent kierujący mózgiem
 /home/174520hj/dataset/CS2_81.wav|centrum dowodzenia które zbiera informacje na temat naszego ja
 /home/174520hj/dataset/CS2_82.wav|by stworzyć z nich całościowy obraz
@@ -2496,7 +2485,7 @@
 /home/174520hj/dataset/CS4_157.wav|naszego centrum hormonalnego
 /home/174520hj/dataset/CS4_158.wav|kiedy się uczymy te obszary kory mózgu które odpowiadają za ruch są wyraźnie pobudzone i ulegają zmianie w odpowiedzi na wyzwania które sobie stawiamy
 /home/174520hj/dataset/CS4_159.wav|podczas operacji chirurgicznych wykorzystuje się aktywnie obie dłonie
-/home/174520hj/dataset/CS4_16.wav|h m i jego rodzina skontaktowali się z ówczesnym pionierem w dziedzinie neurochirurgii
+/home/174520hj/dataset/CS4_16.wav| h m i jego rodzina skontaktowali się z ówczesnym pionierem w dziedzinie neurochirurgii
 /home/174520hj/dataset/CS4_160.wav|pracując na oddziale neurochirurgii dowiedziałam się że powinnam myć zęby lewą ręką żeby mój mózg nauczył się częściej ją angażować
 /home/174520hj/dataset/CS4_161.wav|to dobra rada
 /home/174520hj/dataset/CS4_162.wav|badania wykazały bowiem że u muzyków grających lewą dłonią na instrumentach strunowych obszar kory mózgowej który steruje tą dłonią jest większy w porównaniu z grupą kontrolną
