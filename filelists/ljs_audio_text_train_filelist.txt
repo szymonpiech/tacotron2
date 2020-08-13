@@ -1,11 +1,7 @@
 /home/174520hj/dataset/CS0_0.wav|Wydawnictwo Marginesy oraz audioteka pl przedstawiają.
-
 /home/174520hj/dataset/CS0_1.wav|Kaja Nordengen.
-
 /home/174520hj/dataset/CS0_10.wav|Autyzm jest spowodowany rozwojową zmianą w mózgu, którą wywołuje wiele różnych czynników.
-
 /home/174520hj/dataset/CS0_11.wav|Właśnie to wspomnienie z czasów studiów stanowi dla mnie miernik tego, jak szybko dokonuje się postęp w badaniach nad mózgiem.
-
 /home/174520hj/dataset/CS0_12.wav|powinniśmy się z tego cieszyć a jednocześnie być pokorni wobec roli jaką nowoczesne technologie odgrywają w rozwoju wiedzy medycznej
 /home/174520hj/dataset/CS0_13.wav|wiele ważnych pytań naukowych naszych czasów to te same pytania które ludzkość stawia sobie od tysięcy lat
 /home/174520hj/dataset/CS0_14.wav|Dzięki rozwojowi pionierskich narzędzi i metod badawczych mamy niebywałą okazję szukać odpowiedzi na nie w samym mózgu.
@@ -15,7 +11,6 @@
 /home/174520hj/dataset/CS0_18.wav|Rozumieć, jak funkcjonuje nasz mózg i w jaki sposób współuczestniczy we wszystkich procesach zachodzących w organizmie, to rozumieć, kim jesteśmy jako ludzie i jaki mamy potencjał.
 /home/174520hj/dataset/CS0_19.wav|Szersza wiedza otwiera również inne niż dotychczas obszary oceny i działania w sytuacjach, kiedy z mózgiem dzieje się coś złego.
 /home/174520hj/dataset/CS0_2.wav|Mózg rządzi.
-
 /home/174520hj/dataset/CS0_20.wav|Potrafimy odróżnić objawy jego chorób od charakteru i osobowości człowieka.
 /home/174520hj/dataset/CS0_21.wav|Wiemy, że choroby mózgu są spowodowane błędami systemu.
 /home/174520hj/dataset/CS0_22.wav|Jeśli naukowcy wiedzą więcej na temat działania zdrowego mózgu, mogą skuteczniej szukać odpowiedzi na pytanie, gdzie pojawił się błąd i jak można go ewentualnie naprawić.
@@ -27,7 +22,6 @@
 /home/174520hj/dataset/CS0_28.wav|Ówczesna technologia komunikacyjna była prosta w porównaniu z cyfrowymi animacjami trzy d wykorzystywanymi we współczesnych programach naukowych.
 /home/174520hj/dataset/CS0_29.wav|wystarczała plansza z rysunkiem, przedstawiającym stosunkowo mało skomplikowaną sieć neuronową.
 /home/174520hj/dataset/CS0_3.wav|Twój jedyny niezastąpiony narząd.
-
 /home/174520hj/dataset/CS0_30.wav|widzowie, podążając wzrokiem za wskaźnikiem profesora, śledzili linie na rysunku biegnące od jednej komórki nerwowej do drugiej i tworzące szlak sygnałowy, po którym są przesyłane impulsy nerwowe.
 /home/174520hj/dataset/CS0_31.wav|Per Andersen wysnuł hipotezę, że ta unikatowa ścieżka aktywności neuronowej w tkance ma funkcjonalne odzwierciedlenie w postaci równie unikatowej myśli.
 /home/174520hj/dataset/CS0_32.wav|Najlepszy przykład na to, jak sprawić. by wiedza trafiła pod strzechy.
@@ -71,7 +65,6 @@
 /home/174520hj/dataset/CS0_68.wav|Jeśli ktoś wcześniej wyraził na to zgodę, można pobrać z jego zwłok narządy do transplantacji i uratować życie innych ludzi.
 /home/174520hj/dataset/CS0_69.wav|Bez większości z nich nie można żyć, ale są one na szczęście zastępowalne.
 /home/174520hj/dataset/CS0_7.wav|Mózg jest najbardziej niezwykłym, skomplikowanym i zagadkowym narządem jaki znamy.
-
 /home/174520hj/dataset/CS0_70.wav|Dzięki pobraniu szpiku kostnego możemy otrzymać zupełnie nowy układ odpornościowy.
 /home/174520hj/dataset/CS0_71.wav|Możemy też przeszczepić serce, wątrobę, płuca, nerki i trzustkę.
 /home/174520hj/dataset/CS0_72.wav|Nikt jeszcze nie podjął się jednak transplantacji ludzkiego mózgu.
@@ -83,7 +76,6 @@
 /home/174520hj/dataset/CS0_78.wav|Rozmowa o mózgu wywołuje wiele ciekawych pytań.
 /home/174520hj/dataset/CS0_79.wav|Kim jesteśmy? Co sprawia że my to my? Co to jest osobowość? Czym jest wolna wola? Gdzie zaczyna się myśl?
 /home/174520hj/dataset/CS0_8.wav|W latach osiemdziesiątych, jako studentka psychologii uczyłam się, że autyzm u dzieci wynika z chłodu emocjonalnego ich matek.
-
 /home/174520hj/dataset/CS0_80.wav|Czasem odpowiedzi, a przynajmniej wnioski płynące z historii pacjentów i nowych odkryć naukowych, są jasne, pewne kwestie pozostają jednak nadal zagadką.
 /home/174520hj/dataset/CS0_81.wav|Miejmy nadzieję, że w niedalekiej przyszłości, kiełkujące talenty badawcze i jasne umysły uczonych znajdą odpowiedzi na nurtujące nas wciąż pytania.
 /home/174520hj/dataset/CS0_82.wav|W końcu mózg, to jedyny narząd, który może badać sam siebie.
@@ -91,7 +83,6 @@
 /home/174520hj/dataset/CS0_84.wav|To mózg sprawia, że my to my, i to dzięki niemu istnieją sport, muzyka i sztuka.
 /home/174520hj/dataset/CS0_85.wav|Mózg naprawdę rządzi.
 /home/174520hj/dataset/CS0_9.wav|Dzisiaj wiemy, że to nieprawda.
-
 /home/174520hj/dataset/CS10_0.wav|mózg zwycięzcy
 /home/174520hj/dataset/CS10_1.wav|w ostatnim roku nauczyłam się przydatnego obcego słowa
 /home/174520hj/dataset/CS10_10.wav|istnieją pewne prawidłowości dotyczące zadań które ludzie odraczają
@@ -1909,7 +1900,6 @@
 /home/174520hj/dataset/CS1_21.wav|Komórki pnia mózgu regulują oddychanie, rytm serca i sen.
 /home/174520hj/dataset/CS1_210.wav|staniemy się atrakcyjni
 /home/174520hj/dataset/CS1_211.wav|Dlatego zysk netto z naszej ewolucji to nie wzrost siły czy szybkości, lecz coraz większa bystrość.
-
 /home/174520hj/dataset/CS1_22.wav|Nigdy nie odpoczywają, bez względu na to, czy śpimy czy czuwamy.
 /home/174520hj/dataset/CS1_23.wav|Z tyłu pnia mózgu leży móżdżek, który odpowiada za koordynację ruchów i utrzymanie równowagi.
 /home/174520hj/dataset/CS1_24.wav|Jeśli móżdżek jest pod wpływem alkoholu, chwiejemy się i zataczamy, a nasze ruchy stają się nieskoordynowane.
@@ -1960,7 +1950,6 @@
 /home/174520hj/dataset/CS1_67.wav|zmiany były na tyle dotkliwe że strząsnęły nas z drzew ale nas nie zabiły
 /home/174520hj/dataset/CS1_68.wav|kiedy cztery miliony lat temu pierwsi ludzie zaczęli chodzić na dwóch nogach po afrykańskiej sawannie ich mózgi ważyły około czterystu gramów
 /home/174520hj/dataset/CS1_69.wav|Chociaż nie musieli się już trzymać gałęzi i mogli wykorzystywać dłonie do innych celów, narzędzi zaczęli używać dopiero dwa miliony lat temu, kiedy ewoluowali w gatunek homo habilis.
-
 /home/174520hj/dataset/CS1_7.wav|Natomiast mózgowie człowieka ukształtowało się dopiero dwieście tysięcy lat temu.
 /home/174520hj/dataset/CS1_70.wav|człowiek zręczny
 /home/174520hj/dataset/CS1_71.wav|wówczas waga mózgu wzrosła do sześciuset gramów
@@ -2035,7 +2024,6 @@
 /home/174520hj/dataset/CS20_47.wav|Wydawnictwo marginesy oraz audioteka pl dziękują za wysłuchanie audiobooka.
 /home/174520hj/dataset/CS20_48.wav|Zapraszamy do pozostawienia swojego komentarza.
 /home/174520hj/dataset/CS20_49.wav|Audioteka.
-
 /home/174520hj/dataset/CS20_5.wav|Nasze myśli są fizycznymi procesami przebiegającymi w mózgu i wynikiem tego, że komórki nerwowe wysyłają odpowiednie sygnały.
 /home/174520hj/dataset/CS20_50.wav|Dobrze opowiedziane historie.
 /home/174520hj/dataset/CS20_6.wav|Podobnie ma się rzecz z naszymi uczuciami.
@@ -2043,7 +2031,6 @@
 /home/174520hj/dataset/CS20_8.wav|I to bez względu na to, czy do pomiaru inteligencji używamy iq, czy korzystamy z definicji psychologa Howarda Gardnera.
 /home/174520hj/dataset/CS20_9.wav|Który wyróżnił kilka jej typów, w tym językową, muzyczną, cielesną i społeczną.
 /home/174520hj/dataset/CS2_0.wav|W pogoni za osobowością.
-
 /home/174520hj/dataset/CS2_1.wav|cogito ergo sum
 /home/174520hj/dataset/CS2_10.wav|jak wszędzie w medycynie natychmiast pojawia się pytanie czy na osobowość wpływają dziedziczenie i środowisko
 /home/174520hj/dataset/CS2_100.wav|i jedno i drugie wpływa na to jak jesteśmy postrzegani
@@ -2156,7 +2143,6 @@
 /home/174520hj/dataset/CS2_198.wav|mały biedny chłopiec stał się charyzmatycznym przywódcą religijnym kilkudziesięciotysięcznej rzeszy ludzi
 /home/174520hj/dataset/CS2_199.wav|nazywał się jim jones
 /home/174520hj/dataset/CS2_2.wav|żnana sentencja francuskiego filozofa Kartezjusza głosi, że skoro myślisz to jesteś.
-
 /home/174520hj/dataset/CS2_20.wav|te które wychowują się w domu pełnym empatii i szacunku prawdopodobnie same będą wyrozumiałe
 /home/174520hj/dataset/CS2_200.wav|z czasem świątynia ludu przekształciła się w sektę
 /home/174520hj/dataset/CS2_201.wav|której członkowie mieszkali spali i pracowali na terenie należącym do wspólnoty
@@ -2233,13 +2219,10 @@
 /home/174520hj/dataset/CS2_28.wav|ale czym jest dusza
 /home/174520hj/dataset/CS2_29.wav|jeśli dusza jest jaźnią to znaczy sumą naszych myśli uczuć wyobrażeń i działań to ma wiele wspólnego z tym co nazywamy osobowością
 /home/174520hj/dataset/CS2_3.wav|Ale kim jesteś?
-
 /home/174520hj/dataset/CS2_30.wav|dwieście lat po kartezjuszu tragiczny los kierownika budowy kolei phineasa gagea przyczynił się do tego że dziś z całą pewnością możemy stwierdzić że siedziba duszy naprawdę mieści się w mózgu
 /home/174520hj/dataset/CS2_31.wav|choć nie w szyszynce
 /home/174520hj/dataset/CS2_32.wav|Gdy wskutek nieszczęśliwego wypadku gejdżowi przebił głowę metalowy pręt, zawieziono go do lekarza.
-
 /home/174520hj/dataset/CS2_33.wav|Pół roku później wydawało się że pacjent jest zdrowy, ale diametralnie zmieniła się jego osobowość.
-
 /home/174520hj/dataset/CS2_34.wav|pręt uszkodził przednią część płatów czołowych co sprawiło że gage przestał dotrzymywać słowa i nie panował nad temperamentem
 /home/174520hj/dataset/CS2_35.wav|nie zdołał również utrzymać się na posadzie
 /home/174520hj/dataset/CS2_36.wav|dwanaście lat po wypadku zmarł jako nałogowy alkoholik samotny i opuszczony
@@ -2267,7 +2250,6 @@
 /home/174520hj/dataset/CS2_58.wav|albo powinniśmy żałować
 /home/174520hj/dataset/CS2_59.wav|uszkodzony płat czołowy powoduje że puszczają nam hamulce i nie kontrolujemy tego co robimy
 /home/174520hj/dataset/CS2_6.wav|Nie jesteś wyłącznie tym co myślisz i czujesz. lecz także tym co robisz i pokazujesz.
-
 /home/174520hj/dataset/CS2_60.wav|phineas gage ranił ludzi wokół siebie
 /home/174520hj/dataset/CS2_61.wav|osoba cierpiąca na zespół czołowy może stać się oziębła emocjonalnie ponieważ przestaje rozumieć jak czują się inni ludzie
 /home/174520hj/dataset/CS2_62.wav|a sama wpada w obojętność i apatię
@@ -2290,7 +2272,6 @@
 /home/174520hj/dataset/CS2_78.wav|pomaga nam przewidzieć konsekwencje działań i dopasować nasze zachowanie do ogólnie przyjętych norm i reguł
 /home/174520hj/dataset/CS2_79.wav|mieści się w niej również pamięć robocza która pozwala nam zatrzymywać wrażenia tak długo aż zostaną ocenione i powiązane z trwającymi procesami i przechowywanymi informacjami
 /home/174520hj/dataset/CS2_8.wav|Już nie tylko filozofowie starają się odnaleźć odpowiedzi na te pytania.
-
 /home/174520hj/dataset/CS2_80.wav|kora przedczołowa jest jak dyrygent kierujący mózgiem
 /home/174520hj/dataset/CS2_81.wav|centrum dowodzenia które zbiera informacje na temat naszego ja
 /home/174520hj/dataset/CS2_82.wav|by stworzyć z nich całościowy obraz
