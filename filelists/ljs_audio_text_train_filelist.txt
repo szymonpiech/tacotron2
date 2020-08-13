@@ -1,4 +1,3 @@
-/home/174520hj/dataset/CS0_0.wav|Wydawnictwo Marginesy oraz audioteka pl przedstawiają.
 /home/174520hj/dataset/CS0_1.wav|Kaja Nordengen.
 /home/174520hj/dataset/CS0_10.wav|Autyzm jest spowodowany rozwojową zmianą w mózgu, którą wywołuje wiele różnych czynników.
 /home/174520hj/dataset/CS0_11.wav|Właśnie to wspomnienie z czasów studiów stanowi dla mnie miernik tego, jak szybko dokonuje się postęp w badaniach nad mózgiem.
@@ -522,7 +521,6 @@
 /home/174520hj/dataset/CS11_239.wav|system szkolnictwa jest opracowany dla przeciętnej
 /home/174520hj/dataset/CS11_24.wav|niektórzy mają genialną pamięć a inni dziurawą
 /home/174520hj/dataset/CS11_240.wav|osoby o bardzo wysokiej i bardzo niskiej inteligencji są w nim często odrzucane
-/home/174520hj/dataset/CS11_241.wav|pytanie brzmi czy wysoka inteligencja jest zawsze czynnikiem sukcesu
 /home/174520hj/dataset/CS11_242.wav|dzieci ponadprzeciętnie inteligentne mogą wymagać dostosowania programu nauczania do ich potrzeb
 /home/174520hj/dataset/CS11_243.wav|jeśli szybko rozwiązują zadanie nad którym reszta klasy ślęczy przez kilka dni mogą zacząć się nudzić i stać się niespokojne
 /home/174520hj/dataset/CS11_244.wav|w dłuższej perspektywie zbyt powolny postęp nauczania i zbyt małe wyzwania w stosunku do możliwości sprawiają że u najbystrzejszych dzieci rozwijają się złe nawyki pracy
@@ -705,7 +703,6 @@
 /home/174520hj/dataset/CS13_126.wav|twórczy mózg
 /home/174520hj/dataset/CS13_127.wav|wzbogacamy naszą codzienność między innymi opowiadając historie
 /home/174520hj/dataset/CS13_128.wav|dzięki mózgowi posiadamy zdolność tworzenia powtarzania i rozumienia historii i baśni co z kolei rozwija nasz mózg
-/home/174520hj/dataset/CS13_129.wav|psycholog donald hebb odkrył że szczury wychowywane jak zwierzęta domowe lepiej rozwiązywały problemy niż szczury zamknięte w klatkach
 /home/174520hj/dataset/CS13_13.wav|najbardziej namacalne dowody kultury człowieka nie mają jednak więcej niż czterdzieści tysięcy lat
 /home/174520hj/dataset/CS13_130.wav|inni naukowcy poszli jego tropem i wskazali na konkretne udoskonalenia które mózg zawdzięczał bardziej stymulującemu środowisku
 /home/174520hj/dataset/CS13_131.wav|tym trudniej zrozumieć dlaczego coraz więcej gmin decyduje się na lokalizację szkół podstawowych w barakach położonych na kawałku asfaltu pozbawionych jakiejkolwiek architektury optymalnej dla rozwijających się mózgów
@@ -718,10 +715,6 @@
 /home/174520hj/dataset/CS13_138.wav|i kora mózgu staje się grubsza
 /home/174520hj/dataset/CS13_139.wav|mało tego wygląda na to że powstaje więcej nowych neuronów
 /home/174520hj/dataset/CS13_14.wav|narzędzia pochodzące z tamtego okresu to już nie tylko przyrządy do kłucia i ręczne siekiery ale także haczyki do łowienia ryb
-/home/174520hj/dataset/CS13_140.wav|wiele wskazuje na to że zewnętrzne bodźce kulturalne książki przedstawienia architektura oraz interakcje z innymi ludźmi mogą opóźniać rozwój demencji po prostu dlatego że mamy większe rezerwy intelektualne
-/home/174520hj/dataset/CS13_141.wav|pan patyk
-/home/174520hj/dataset/CS13_142.wav|to wspaniałe imię
-/home/174520hj/dataset/CS13_143.wav|pasuje do ciebie
 /home/174520hj/dataset/CS13_144.wav|będziesz moim kolegą bo nie ma tu nikogo innego
 /home/174520hj/dataset/CS13_145.wav|ty i ja jesteśmy przyjaciółmi
 /home/174520hj/dataset/CS13_146.wav|powiedział mały gdy znalazł korzeń przypominający człowieka
@@ -777,19 +770,6 @@
 /home/174520hj/dataset/CS13_35.wav|myślimy często że ludzka wydajność ogranicza się do tego co jest w stanie wymyślić mózg jednostki
 /home/174520hj/dataset/CS13_36.wav|ale co dwie głowy to nie jedna
 /home/174520hj/dataset/CS13_37.wav|nasz mózg umożliwia nam nie tylko tworzenie narzędzi dzięki którym możemy skuteczniej uprawiać ziemię ale także komunikowanie się ze sobą
-/home/174520hj/dataset/CS13_38.wav|i uczenie innych tego w czym jesteśmy dobrzy
-/home/174520hj/dataset/CS13_39.wav|kiedy już raz wynaleziono koło kolejne pokolenie nie musiało wymyślać go od nowa
-/home/174520hj/dataset/CS13_4.wav|ludzie epoki kamienia mieszkali w jaskiniach i skórzanych namiotach
-/home/174520hj/dataset/CS13_40.wav|ulepszyło je po to aby następne pokolenie mogło zbudować wóz
-/home/174520hj/dataset/CS13_41.wav|w ten sposób powstały rowery i samochody
-/home/174520hj/dataset/CS13_42.wav|wiele innych gatunków korzysta z narzędzi ale w niewielkim stopniu je udoskonala
-/home/174520hj/dataset/CS13_43.wav|ludzie pracują razem
-/home/174520hj/dataset/CS13_44.wav|zrozumienie dla innych i współpraca wymagają empatii
-/home/174520hj/dataset/CS13_45.wav|mamy specjalne komórki nerwowe które pomagają nam dostrzec w innych ludziach siebie samych
-/home/174520hj/dataset/CS13_46.wav|ta komórka nerwowa która jest aktywna kiedy drapię się po brodzie jest aktywna również wtedy kiedy widzę jak ty drapiesz się po brodzie
-/home/174520hj/dataset/CS13_47.wav|i wcale nie musimy robić tego jednocześnie
-/home/174520hj/dataset/CS13_48.wav|wielu badaczy mózgu uważa że neurony te odgrywają rolę także w kontekście społecznym
-/home/174520hj/dataset/CS13_49.wav|może nawet odpowiadają za empatię
 /home/174520hj/dataset/CS13_5.wav|żyli przeciętnie trochę ponad trzydzieści lat
 /home/174520hj/dataset/CS13_50.wav|te małe lusterka w korze mózgu nazywają się nomen omen neuronami lustrzanymi
 /home/174520hj/dataset/CS13_51.wav|to że możemy mówić i pisać również znacznie ułatwia wymianę doświadczeń i współpracę
@@ -954,7 +934,6 @@
 /home/174520hj/dataset/CS14_44.wav|emocje które decydują o tym czy muzyka nam się podoba czy też nie
 /home/174520hj/dataset/CS14_45.wav|muzyka wpływa na to jak się czujemy
 /home/174520hj/dataset/CS14_46.wav|wybieramy ją zależnie od tego co robimy i w jakim jesteśmy nastroju
-/home/174520hj/dataset/CS14_47.wav|bez względu na to czy słuchamy kygo czy mozarta w naszym przypadku muzyka ma niespotykany u innych gatunków zwierząt wpływ na mózg
 /home/174520hj/dataset/CS14_48.wav|kiedy słuchamy muzyki aktywizuje się jedno z jąder podstawnych a dokładniej jądro półleżące
 /home/174520hj/dataset/CS14_49.wav|jądro półleżące jest także ośrodkiem miłości i pożądania
 /home/174520hj/dataset/CS14_5.wav|wszyscy ruszyli szturmem do sklepów po płyty z muzyką mozarta
@@ -1370,7 +1349,6 @@
 /home/174520hj/dataset/CS17_108.wav|jeśli przywykłeś do palenia papierosów lub zażywania snusu a coś przeszkodzi ci w przyjęciu dziennej dawki lub ją opóźni będziesz odczuwał stres i niepokój
 /home/174520hj/dataset/CS17_109.wav|rzekomo uspokajające działanie nikotyny jest prawdopodobnie związane z ograniczonym zespołem abstynencyjnym
 /home/174520hj/dataset/CS17_11.wav|wszystkie substancje dostarczane organizmowi które wpływają na nasz mózg są uważane za środki odurzające
-/home/174520hj/dataset/CS17_110.wav|papierosy i snus mają na sumieniu wiele ludzkich istnień
 /home/174520hj/dataset/CS17_111.wav|i to nie tylko z powodu nowotworów ale także zawałów serca i udarów mózgu
 /home/174520hj/dataset/CS17_112.wav|warto jednak pamiętać że wyroby tytoniowe to więcej niż nikotyna
 /home/174520hj/dataset/CS17_113.wav|nikotyna sama w sobie może mieć pozytywny wpływ na przebieg wielu chorób mózgu
@@ -1581,7 +1559,6 @@
 /home/174520hj/dataset/CS17_50.wav|taki wspomagacz może się przydać jeśli chore dziecko nie pozwoli ci w nocy zmrużyć oka a następnego dnia musisz dobrze wypaść w pracy
 /home/174520hj/dataset/CS17_51.wav|ale jeśli zamierzasz korzystać z niego na co dzień musisz wiedzieć że twój mózg zawsze będzie się starał zrekompensować sobie to na co go narażasz
 /home/174520hj/dataset/CS17_52.wav|kiedy neuroprzekaźnik czyniący cię zmęczonym i sennym będzie wystarczająco często blokowany przez kawę
-/home/174520hj/dataset/CS17_53.wav|mózg wytworzy jeszcze więcej jego receptorów
 /home/174520hj/dataset/CS17_54.wav|w rezultacie wrócisz niemal w to samo miejsce w którym byś był gdybyś nigdy nie zaczynał pić kawy
 /home/174520hj/dataset/CS17_55.wav|i musisz zacząć pić jeszcze więcej żeby osiągnąć ten sam efekt
 /home/174520hj/dataset/CS17_56.wav|jeśli natomiast rzucisz kawę z dnia na dzień znajdziesz się na minusie
@@ -1778,127 +1755,115 @@
 /home/174520hj/dataset/CS1_0.wav|Rewolucja myślowa.
 /home/174520hj/dataset/CS1_1.wav|Pofałdowana powierzchnia ludzkiego mózgu, przypominająca owoc orzecha włoskiego, to tak zwana kora mózgowa, wypełniona po brzegi komórkami nerwowymi.
 /home/174520hj/dataset/CS1_10.wav|Duża ilość kory mózgowej człowieka to prawdopodobnie konsekwencja epoki lodowcowej.
-/home/174520hj/dataset/CS1_100.wav|dlaczego nie wystarczy mieć duży mózg
-/home/174520hj/dataset/CS1_101.wav|słonie i niektóre walenie mają jeszcze większe mózgi niż my
-/home/174520hj/dataset/CS1_102.wav|mózg płetwala błękitnego waży aż osiem kilogramów a sam płetwal sto ton
-/home/174520hj/dataset/CS1_103.wav|im większe ciało tym większy mózg ale co w takim razie z gorylami które są dwa a nawet trzy razy większe od nas
-/home/174520hj/dataset/CS1_104.wav|czy ich mózgi też są odpowiednio większe
-/home/174520hj/dataset/CS1_105.wav|przeciwnie nasz mózg jest dwa trzy razy większy od mózgu goryla
-/home/174520hj/dataset/CS1_106.wav|tylko walenie i słonie to znaczy największe zwierzęta odpowiednio wodne i lądowe mają większe mózgi od naszego
-/home/174520hj/dataset/CS1_107.wav|mózg człowieka jest największy w stosunku do masy ciała
-/home/174520hj/dataset/CS1_108.wav|iq się jednak mierzy a nie waży więc na nic zda się płetwalowi błękitnemu ośmiokilogramowy mózg
-/home/174520hj/dataset/CS1_109.wav|nie jest tak że dwa mózgi tej samej wielkości mają taką samą liczbę neuronów i taką samą zdolność przeprowadzania złożonych procesów myślowych
+/home/174520hj/dataset/CS1_100.wav|Dlaczego nie wystarczy mieć duży mózg?
+/home/174520hj/dataset/CS1_101.wav|Słonie i niektóre walenie mają jeszcze większe mózgi niż my.
+/home/174520hj/dataset/CS1_102.wav|Mózg płetwala błękitnego waży aż osiem kilogramów, a sam płetwal: sto ton.
+/home/174520hj/dataset/CS1_103.wav|Im większe ciało, tym większy mózg, ale co w takim razie z gorylami, które są dwa a nawet trzy razy większe od nas?
+/home/174520hj/dataset/CS1_104.wav|Czy ich mózgi też są odpowiednio większe?
+/home/174520hj/dataset/CS1_105.wav|Przeciwnie, nasz mózg jest dwa trzy razy większy od mózgu goryla.
+/home/174520hj/dataset/CS1_106.wav|Tylko walenie i słonie, to znaczy największe zwierzęta, odpowiednio wodne i lądowe, mają większe mózgi od naszego.
+/home/174520hj/dataset/CS1_107.wav|Mózg człowieka jest największy w stosunku do masy ciała.
+/home/174520hj/dataset/CS1_109.wav|Nie jest tak, że dwa mózgi tej samej wielkości mają taką samą liczbę neuronów i taką samą zdolność przeprowadzania złożonych procesów myślowych.
 /home/174520hj/dataset/CS1_11.wav|Gatunki posiadające korę mózgową poradziły sobie ze zmianą klimatu lepiej niż te, które jej nie miały.
-/home/174520hj/dataset/CS1_110.wav|oto klasyczny przykład
-/home/174520hj/dataset/CS1_111.wav|einstein mimo że był ojcem teorii względności i laureatem nagrody nobla w dziedzinie fizyki miał mózg mniejszy o dwadzieścia procent od przeciętnego
-/home/174520hj/dataset/CS1_112.wav|tę wiedzę zawdzięczamy nieuczciwemu lekarzowi
-/home/174520hj/dataset/CS1_113.wav|einstein pragnął by po śmierci jego ciało zostało skremowane a prochy rozrzucone
-/home/174520hj/dataset/CS1_114.wav|chciał w ten sposób zapobiec bałwochwalstwu
-/home/174520hj/dataset/CS1_115.wav|jego prośba nie została jednak spełniona ponieważ patolog który przeprowadził sekcję zwłok naukowca ukradł jego mózg i zabrał go do domu
-/home/174520hj/dataset/CS1_116.wav|różne mózgi nie mają również tej samej budowy u naczelnych to znaczy ludzi i małp wielkość komórek nerwowych jest taka sama bez względu na to czy mózg waży osiemdziesiąt czy tysiąc gramów
-/home/174520hj/dataset/CS1_117.wav|innymi słowy dziesięć razy więcej neuronów oznacza dziesięć razy większy mózg
-/home/174520hj/dataset/CS1_118.wav|u gryzoni większe mózgi oznaczają większe komórki nerwowe
-/home/174520hj/dataset/CS1_119.wav|żeby otrzymać dziesięć razy więcej neuronów mózg musi powiększyć się aż czterdzieści razy
+/home/174520hj/dataset/CS1_110.wav|Klasyczny przykład.
+/home/174520hj/dataset/CS1_112.wav|Tę wiedzę zawdzięczamy nieuczciwemu lekarzowi.
+/home/174520hj/dataset/CS1_114.wav|Chciał w ten sposób zapobiec bałwochwalstwu.
+/home/174520hj/dataset/CS1_115.wav|Jego prośba nie została jednak spełniona, ponieważ patolog który przeprowadził sekcję zwłok naukowca, ukradł jego mózg i zabrał go do domu.
+/home/174520hj/dataset/CS1_116.wav|Różne mózgi nie mają również tej samej budowy, u naczelnych to znaczy ludzi i małp, wielkość komórek nerwowych jest taka sama bez względu na to czy mózg waży osiemdziesiąt czy tysiąc gramów.
+/home/174520hj/dataset/CS1_117.wav|Innymi słowy, dziesięć razy więcej neuronów oznacza dziesięć razy większy mózg.
+/home/174520hj/dataset/CS1_118.wav|U gryzoni większe mózgi oznaczają większe komórki nerwowe.
 /home/174520hj/dataset/CS1_12.wav|Dinozaury ze swoim mózgiem gadzim, pozbawionym typowej kory mózgowej, nie były zatem zbyt dobrze przygotowane na upadek meteorytu.
-/home/174520hj/dataset/CS1_120.wav|dlatego mózgi naczelnych zawsze będą miały więcej neuronów niż tej samej wielkości mózgi gryzoni
-/home/174520hj/dataset/CS1_121.wav|im większe te hipotetycznie równe mózgi tym większa dysproporcja w liczbie neuronów
-/home/174520hj/dataset/CS1_122.wav|gdyby mózg szczura miał zawierać tyle samo komórek nerwowych co mózg człowieka musiałby ważyć trzydzieści pięć kilogramów
-/home/174520hj/dataset/CS1_123.wav|mamy więc nie tylko największy mózg w stosunku do masy ciała lecz także o wiele więcej neuronówna gram mózgu niż gryzonie
-/home/174520hj/dataset/CS1_124.wav|ale chociaż mózgi gryzoni i mózgi naczelnych wykazują tak duże różnice podstawowe zasady ich działania są zbieżne
-/home/174520hj/dataset/CS1_125.wav|komórki zdają się rozmawiać ze sobą w ten sam sposób
-/home/174520hj/dataset/CS1_126.wav|dlatego myszy i szczury wykorzystuje się jako zwierzęta doświadczalne by jak najwięcej dowiedzieć się o funkcjonowaniu ich mózgów a tym samym pośrednio naszego mózgu
-/home/174520hj/dataset/CS1_127.wav|niegotowe dzieci biorąc pod uwagę jak obecnie jesteśmy zbudowani nie moglibyśmy mieć dużo większego mózgu
-/home/174520hj/dataset/CS1_128.wav|nie pozwala na to czaszka
-/home/174520hj/dataset/CS1_129.wav|chociaż dzięki pofałdowaniu kora mózgowa się w niej mieści to nasza czaszka jest tak mała że już w chwili narodzin nie ma w niej miejsca na wiele więcej
-/home/174520hj/dataset/CS1_130.wav|a jednocześnie tak duża że jeśli przed narodzinami dziecko nie obróci się w odpowiednią stronę w odpowiednim czasie mamy kłopot
-/home/174520hj/dataset/CS1_131.wav|dlatego ludzkie dzieci rodzą się z niegotowym mózgiem kiedy głowa może jeszcze przecisnąć się przez kanał rodny
-/home/174520hj/dataset/CS1_132.wav|minusem tej sytuacji jest to że mają długie dzieciństwo a co za tym idzie przez długi czas są uzależnione od swoich rodziców
-/home/174520hj/dataset/CS1_133.wav|rodzimy małe kruche stworzenia których mózg osiąga pełnię rozwoju już poza macicą i dlatego musimy włożyć wiele energii w ich wychowanie
-/home/174520hj/dataset/CS1_134.wav|chociaż ludzie są podatni na zranienie i potrzebują ochrony przez niemal dwa dziesięciolecia liczba ludności na świecie stale wzrasta i wynosi obecnie ponad siedem miliardów
-/home/174520hj/dataset/CS1_135.wav|tylko w ciągu ostatnich pięćdziesięciu lat się podwoiła
-/home/174520hj/dataset/CS1_136.wav|jak to możliwe że słabe fizycznie nagie małpy które rodzą bezbronne dzieci zdobyły tak silną pozycję
-/home/174520hj/dataset/CS1_137.wav|ani nie biegamy najszybciej ani nie nurkujemy najgłębiej ani nie widzimy dobrze w ciemności a przecież zwierzęta drapieżne aby przeżyć tradycyjnie są wyposażone w coś co daje im przewagę nad innymi
-/home/174520hj/dataset/CS1_138.wav|mocne szczęki rzędy ostrych zębów paraliżujący jad lub miażdżącą siłę a ich potencjalne ofiary wykorzystują do ochrony gruby pancerz lub ubarwienie maskujące
-/home/174520hj/dataset/CS1_139.wav|inteligencja to sztuka
+/home/174520hj/dataset/CS1_121.wav|Im większe te hipotetycznie równe mózgi, tym większa dysproporcja w liczbie neuronów.
+/home/174520hj/dataset/CS1_122.wav|Gdyby mózg szczura miał zawierać tyle samo komórek nerwowych co mózg człowieka, musiałby ważyć trzydzieści pięć kilogramów.
+/home/174520hj/dataset/CS1_123.wav|Mamy więc nie tylko największy mózg w stosunku do masy ciała, lecz także o wiele więcej neuronówna gram mózgu niż gryzonie.
+/home/174520hj/dataset/CS1_124.wav|Ale chociaż mózgi gryzoni i mózgi naczelnych wykazują tak duże różnice, podstawowe zasady ich działania są zbieżne.
+/home/174520hj/dataset/CS1_125.wav|Komórki zdają się rozmawiać ze sobą w ten sam sposób.
+/home/174520hj/dataset/CS1_126.wav|Dlatego myszy i szczury wykorzystuje się jako zwierzęta doświadczalne, by jak najwięcej dowiedzieć się o funkcjonowaniu ich mózgów, a tym samym pośrednio naszego mózgu.
+/home/174520hj/dataset/CS1_128.wav|Nie pozwala na to czaszka.
+/home/174520hj/dataset/CS1_129.wav|Chociaż dzięki pofałdowaniu kora mózgowa się w niej mieści, to nasza czaszka jest tak mała, że już w chwili narodzin nie ma w niej miejsca na wiele więcej.
+/home/174520hj/dataset/CS1_130.wav|A jednocześnie tak duża, że jeśli przed narodzinami dziecko nie obróci się w odpowiednią stronę w odpowiednim czasie, mamy kłopot.
+/home/174520hj/dataset/CS1_131.wav|Dlatego ludzkie dzieci rodzą się z niegotowym mózgiem, kiedy głowa może jeszcze przecisnąć się przez kanał rodny.
+/home/174520hj/dataset/CS1_132.wav|Minusem tej sytuacji jest to że mają długie dzieciństwo, a co za tym idzie, przez długi czas są uzależnione od swoich rodziców.
+/home/174520hj/dataset/CS1_133.wav|Rodzimy małe kruche stworzenia, których mózg osiąga pełnię rozwoju już poza macicą i dlatego musimy włożyć wiele energii w ich wychowanie.
+/home/174520hj/dataset/CS1_134.wav|Chociaż ludzie są podatni na zranienie i potrzebują ochrony przez niemal dwa dziesięciolecia, liczba ludności na świecie stale wzrasta i wynosi obecnie ponad siedem miliardów.
+/home/174520hj/dataset/CS1_135.wav|Tylko w ciągu ostatnich pięćdziesięciu lat się podwoiła.
+/home/174520hj/dataset/CS1_136.wav|Jak to możliwe, że słabe fizycznie nagie małpy które rodzą bezbronne dzieci, zdobyły tak silną pozycję?
+/home/174520hj/dataset/CS1_137.wav|Ani nie biegamy najszybciej, ani nie nurkujemy najgłębiej, ani nie widzimy dobrze w ciemności, a przecież zwierzęta drapieżne, aby przeżyć tradycyjnie są wyposażone w coś co daje im przewagę nad innymi.
+/home/174520hj/dataset/CS1_138.wav|Mocne szczęki, rzędy ostrych zębów, paraliżujący jad lub miażdżącą siłę, a ich potencjalne ofiary wykorzystują do ochrony gruby pancerz, lub ubarwienie maskujące.
+/home/174520hj/dataset/CS1_139.wav|Inteligencja to sztuka.
 /home/174520hj/dataset/CS1_14.wav|Był wielkości cytryny.
-/home/174520hj/dataset/CS1_140.wav|z punktu widzenia anatomii człowiek był nowoczesny pod każdym względem również stop pięćdziesiąt tysięcy lat temu chociaż nie zachowały się dowody na to że umiał wtedy myśleć abstrakcyjnie lub symbolicznie
-/home/174520hj/dataset/CS1_141.wav|prawie czterdzieści tysięcy lat temu zaczęliśmy tworzyć dzieła sztuki biżuterię i skomplikowane narzędzia takie jak menażki czy haczyki wędkarskie
-/home/174520hj/dataset/CS1_142.wav|wyrabialiśmy je żeby zrekompensować sobie brak odpowiednich atrybutów fizycznych
-/home/174520hj/dataset/CS1_143.wav|na tym etapie rozwoju musiała nastąpić zmiana w mózgu która rozbudziła kreatywność
-/home/174520hj/dataset/CS1_144.wav|może zaszła jakaś mutacja genetyczna
-/home/174520hj/dataset/CS1_145.wav|a może chodziło o darwinowskie survival of the fittest czyli o to że najbardziej kreatywni i inteligentni w stadzie zostali uznani za najatrakcyjniejszych i dzięki temu mieli największą szansę przekazać swoje geny
-/home/174520hj/dataset/CS1_146.wav|tego nikt nie wie na pewno
-/home/174520hj/dataset/CS1_147.wav|przeskok od wykorzystania kamienia który przy odrobinie dobrej woli można nazwać siekierą do budowy piramid był ogromny
-/home/174520hj/dataset/CS1_148.wav|piramidy wznoszono już cztery tysiące lat temu
-/home/174520hj/dataset/CS1_149.wav|każda z nich składa się z około dwóch milionów trzystu tysięcy bloków skalnych a każdy blok waży przeciętnie dwie i pół tony i jest tak idealnie sześcienny że różnica w długości boków wynosi maksymalnie jedną dziesiątą procent
+/home/174520hj/dataset/CS1_140.wav|Punktu widzenia anatomii, człowiek był nowoczesny pod każdym względem również sto pięćdziesiąt tysięcy lat temu, chociaż nie zachowały się dowody na to, że umiał wtedy myśleć abstrakcyjnie lub symbolicznie.
+/home/174520hj/dataset/CS1_141.wav|Prawie czterdzieści tysięcy lat temu zaczęliśmy tworzyć dzieła sztuki, biżuterię i skomplikowane narzędzia, takie jak menażki czy haczyki wędkarskie.
+/home/174520hj/dataset/CS1_142.wav|Wyrabialiśmy je, żeby zrekompensować sobie brak odpowiednich atrybutów fizycznych.
+/home/174520hj/dataset/CS1_143.wav|Na tym etapie rozwoju, musiała nastąpić zmiana w mózgu, która rozbudziła kreatywność.
+/home/174520hj/dataset/CS1_144.wav|Może zaszła jakaś mutacja genetyczna?
+/home/174520hj/dataset/CS1_146.wav|Tego nikt nie wie na pewno.
+/home/174520hj/dataset/CS1_147.wav|Przeskok od wykorzystania kamienia, który przy odrobinie dobrej woli można nazwać siekierą do budowy piramid, był ogromny.
+/home/174520hj/dataset/CS1_148.wav|Piramidy wznoszono już cztery tysiące lat temu.
+/home/174520hj/dataset/CS1_149.wav|Każda z nich składa się z około dwóch milionów trzystu tysięcy bloków skalnych, a każdy blok waży przeciętnie dwie i pół tony i jest tak idealnie sześcienny, że różnica w długości boków wynosi maksymalnie jedną dziesiątą procent.
 /home/174520hj/dataset/CS1_15.wav|Jeśli do tego weźmiemy pod uwagę, że ten minimózg nie miał kory, nie powinno nikogo dziwić, że obecnie stegozaury widujemy jedynie w filmach i muzeach.
-/home/174520hj/dataset/CS1_150.wav|ale to nie mięśnie w każdym razie nie przede wszystkim przeniosły te bloki lecz sztuka inżynierska
-/home/174520hj/dataset/CS1_151.wav|mózg
-/home/174520hj/dataset/CS1_152.wav|kilka tysięcy lat później obwód ziemi obliczono tak precyzyjnie że odbiegał on od wartości którą obecnie operujemy jedynie o dwa procent
-/home/174520hj/dataset/CS1_153.wav|i to dzięki zmierzeniu długości cienia rzucanego przez słońce w dwóch różnych miastach
-/home/174520hj/dataset/CS1_154.wav|minęło kilka kolejnych tysiącleci a my skonstruowaliśmy i wysłaliśmy na marsa roboty
-/home/174520hj/dataset/CS1_155.wav|od wierzchołków drzew do gullrekka
-/home/174520hj/dataset/CS1_156.wav|ważna jest nie tylko wielkość mózgu lecz także to które jego części tworzą tę wielkość
-/home/174520hj/dataset/CS1_157.wav|jesteśmy inteligentniejsi od zwierząt zarówno dzięki temu że mamy proporcjonalnie duży mózg jak i dzięki dużej powierzchni kory mózgowej w porównaniu z korą innych gatunków
-/home/174520hj/dataset/CS1_158.wav|w ludzkim mózgu znajduje się przeciętnie osiemdziesiąt sześć miliardów komórek nerwowych
-/home/174520hj/dataset/CS1_159.wav|z czego szesnaście miliardów w korze
+/home/174520hj/dataset/CS1_150.wav|Ale to nie mięśnie, w każdym razie nie przede wszystkim, przeniosły te bloki, lecz sztuka inżynierska.
+/home/174520hj/dataset/CS1_151.wav|Mózg
+/home/174520hj/dataset/CS1_152.wav|Kilka tysięcy lat później obwód ziemi obliczono tak precyzyjnie, że odbiegał on od wartości którą obecnie operujemy jedynie o dwa procent.
+/home/174520hj/dataset/CS1_153.wav|I to dzięki zmierzeniu długości cienia rzucanego przez słońce w dwóch różnych miastach.
+/home/174520hj/dataset/CS1_154.wav|Minęło kilka kolejnych tysiącleci, a my skonstruowaliśmy i wysłaliśmy na marsa roboty.
+/home/174520hj/dataset/CS1_155.wav|Od wierzchołków drzew do gyllrekka.
+/home/174520hj/dataset/CS1_158.wav|W ludzkim mózgu znajduje się przeciętnie osiemdziesiąt sześć miliardów komórek nerwowych.
+/home/174520hj/dataset/CS1_159.wav|Z czego szesnaście miliardów w korze.
 /home/174520hj/dataset/CS1_16.wav|Chociaż to kora mózgowa czyni z nas najbardziej inteligentny gatunek na ziemi, nie poradzilibyśmy sobie bez głębiej położonych części mózgu.
-/home/174520hj/dataset/CS1_160.wav|żaden inny gatunek nie może pochwalić się większą liczbą neuronów w tej strukturze
-/home/174520hj/dataset/CS1_161.wav|jest ona siedzibą myśli mowy osobowości i umiejętności radzenia sobie w trudnych sytuacjach
-/home/174520hj/dataset/CS1_162.wav|kora mózgowa czyni z nas ludzi
-/home/174520hj/dataset/CS1_163.wav|dzięki korze mózgowej brylujemy wśród zwierząt kiedy w piątkowy wieczór zasiadamy na kanapie żeby obejrzeć gullrekka
-/home/174520hj/dataset/CS1_164.wav|jon almaas z nytt po nytt z kamienną twarzą podaje jakąś informację po czym ukazuje się materiał filmowy który opowiada o czymś dokładnie odwrotnym
-/home/174520hj/dataset/CS1_165.wav|wybuchamy śmiechem
-/home/174520hj/dataset/CS1_166.wav|mózg odczytał ironię
-/home/174520hj/dataset/CS1_167.wav|kora mózgowa pomaga nam nie tylko odbierać uczucia lecz także rozumieć w lot że komunikatu wypowiedzianego pozornie ze śmiertelną powagą w rzeczywistości nie należy brać serio
-/home/174520hj/dataset/CS1_168.wav|czujesz się jak ósmy cud świata kiedy tak siedzisz na kanapie
-/home/174520hj/dataset/CS1_169.wav|powinieneś
+/home/174520hj/dataset/CS1_160.wav|Żaden inny gatunek nie może pochwalić się większą liczbą neuronów w tej strukturze.
+/home/174520hj/dataset/CS1_161.wav|Jest ona siedzibą myśli, mowy, osobowości i umiejętności radzenia sobie w trudnych sytuacjach.
+/home/174520hj/dataset/CS1_162.wav|Kora mózgowa czyni z nas ludzi.
+/home/174520hj/dataset/CS1_163.wav|Dzięki korze mózgowej, brylujemy wśród zwierząt, kiedy w piątkowy wieczór zasiadamy na kanapie żeby obejrzeć gyllrekka.
+/home/174520hj/dataset/CS1_165.wav|Wybuchamy śmiechem.
+/home/174520hj/dataset/CS1_166.wav|Mózg odczytał ironię.
+/home/174520hj/dataset/CS1_167.wav|Kora mózgowa pomaga nam nie tylko odbierać uczucia, lecz także rozumieć w lot, że komunikatu wypowiedzianego pozornie ze śmiertelną powagą, w rzeczywistości nie należy brać serio.
+/home/174520hj/dataset/CS1_168.wav|Czujesz się jak ósmy cud świata, kiedy tak siedzisz na kanapie?
+/home/174520hj/dataset/CS1_169.wav|Powinieneś.
 /home/174520hj/dataset/CS1_17.wav|Strukturą, która leży najgłębiej i ma absolutnie fundamentalne znaczenie dla naszej egzystencji, jest właśnie mózg gadzi.
-/home/174520hj/dataset/CS1_170.wav|nasz zupełnie niepowtarzalny mózg sprawia że jesteśmy jedynymi istotami które mają poczucie humoru i posługują się mową
-/home/174520hj/dataset/CS1_171.wav|zwierzęta również się komunikują ale wyłącznie po to by ostrzec się nawzajem przed niebezpieczeństwem
-/home/174520hj/dataset/CS1_172.wav|wyrazić radość
-/home/174520hj/dataset/CS1_173.wav|zasygnalizować głód lub zwabić partnerkę
-/home/174520hj/dataset/CS1_174.wav|my natomiast którzy umiemy czytać pisać i rozmawiać możemy wyartykułować niemal wszystko
-/home/174520hj/dataset/CS1_175.wav|potrafimy użyć wyrafinowanych narzędzi by napisać sztukę skomponować
-/home/174520hj/dataset/CS1_176.wav|arię operową
-/home/174520hj/dataset/CS1_177.wav|lub zaśmiać się z cudzego żartu
-/home/174520hj/dataset/CS1_178.wav|miejsce na wszystko
-/home/174520hj/dataset/CS1_179.wav|kora mózgowa dzieli się na płaty zgodnie z ich umiejscowieniem w czaszce
-/home/174520hj/dataset/CS1_180.wav|chociaż wiele cech jest związanych z określonym obszarem mózgu lub konkretną jego częścią poszczególne płaty nie działają niezależnie od siebie
-/home/174520hj/dataset/CS1_181.wav|by móc funkcjonować wszystkie komórki nerwowe w mózgu muszą należeć do sieci neuronów
-/home/174520hj/dataset/CS1_182.wav|nawet funkcje za które odpowiadają odrębne ośrodki są uzależnione od współpracy ze skupiskami komórek w różnych rejonach mózgu
-/home/174520hj/dataset/CS1_183.wav|płat ciemieniowy sprawia że czujemy kiedy ktoś głaszcze nas po policzku i kiedy łzy spływają nam po twarzy
-/home/174520hj/dataset/CS1_184.wav|płat skroniowy odpowiada za pamięć słuch i powonienie
-/home/174520hj/dataset/CS1_185.wav|płat potyliczny jest kluczowy dla naszego wzroku
-/home/174520hj/dataset/CS1_186.wav|płat czołowy powoduje że ssaki są w stanie kontrolować ruchy
-/home/174520hj/dataset/CS1_187.wav|ludzie mają dwa ośrodki mowy w dominującej półkuli mózgu
-/home/174520hj/dataset/CS1_188.wav|u wszystkich osób praworęcznych dominuje lewa półkula chociaż ośrodki mowy znajdują się w lewej półkuli również u siedemdziesiąt procent leworęcznych
-/home/174520hj/dataset/CS1_189.wav|ośrodek dzięki któremu jesteśmy w stanie mówić i ośrodek który sprawia że rozumiemy mowę są zlokalizowane po tej samej stronie
+/home/174520hj/dataset/CS1_170.wav|Nasz zupełnie niepowtarzalny mózg sprawia, że jesteśmy jedynymi istotami, które mają poczucie humoru i posługują się mową.
+/home/174520hj/dataset/CS1_171.wav|Zwierzęta również się komunikują, ale wyłącznie po to, by ostrzec się nawzajem przed niebezpieczeństwem.
+/home/174520hj/dataset/CS1_172.wav|Wyrazić radość.
+/home/174520hj/dataset/CS1_173.wav|Zasygnalizować głód lub zwabić partnerkę.
+/home/174520hj/dataset/CS1_174.wav|My natomiast, którzy umiemy czytać, pisać i rozmawiać, możemy wyartykułować niemal wszystko.
+/home/174520hj/dataset/CS1_176.wav|Arię operową.
+/home/174520hj/dataset/CS1_177.wav|Lub zaśmiać się z cudzego żartu.
+/home/174520hj/dataset/CS1_178.wav|Miejsce na wszystko.
+/home/174520hj/dataset/CS1_179.wav|Kora mózgowa dzieli się na płaty zgodnie z ich umiejscowieniem w czaszce.
+/home/174520hj/dataset/CS1_180.wav|Chociaż wiele cech jest związanych z określonym obszarem mózgu lub konkretną jego częścią, poszczególne płaty nie działają niezależnie od siebie.
+/home/174520hj/dataset/CS1_181.wav|By móc funkcjonować, wszystkie komórki nerwowe w mózgu muszą należeć do sieci neuronów.
+/home/174520hj/dataset/CS1_182.wav|Nawet funkcje za które odpowiadają odrębne ośrodki, są uzależnione od współpracy ze skupiskami komórek, w różnych rejonach mózgu.
+/home/174520hj/dataset/CS1_183.wav|Płat ciemieniowy, sprawia że czujemy kiedy ktoś głaszcze nas po policzku i kiedy łzy spływają nam po twarzy.
+/home/174520hj/dataset/CS1_184.wav|Płat skroniowy, odpowiada za pamięć, słuch i powonienie.
+/home/174520hj/dataset/CS1_185.wav|Płat potyliczny jest kluczowy dla naszego wzroku.
+/home/174520hj/dataset/CS1_186.wav|Płat czołowy, powoduje że ssaki są w stanie kontrolować ruchy.
+/home/174520hj/dataset/CS1_187.wav|Ludzie mają dwa ośrodki mowy w dominującej półkuli mózgu.
+/home/174520hj/dataset/CS1_188.wav|U wszystkich osób praworęcznych dominuje lewa półkula, chociaż ośrodki mowy znajdują się w lewej półkuli również u siedemdziesięciu procent leworęcznych.
+/home/174520hj/dataset/CS1_189.wav|Ośrodek dzięki, któremu jesteśmy w stanie mówić i ośrodek który sprawia, że rozumiemy mowę, są zlokalizowane po tej samej stronie.
 /home/174520hj/dataset/CS1_19.wav|Pień mózgu to idealny stróż.
-/home/174520hj/dataset/CS1_190.wav|pierwszy znajduje się w płacie czołowym a drugi między płatem skroniowym i ciemieniowym
-/home/174520hj/dataset/CS1_191.wav|jeśli zostanie uszkodzony ośrodek mowy położony z tyłu będziesz trajkotał używając słów których ani ty ani nikt inny nie zrozumie
-/home/174520hj/dataset/CS1_192.wav|po prostu twój mózg zacznie wymyślać słowa które nie istnieją
-/home/174520hj/dataset/CS1_193.wav|nie zrozumiesz także co mówią inni
-/home/174520hj/dataset/CS1_194.wav|jeśli natomiast zostanie uszkodzony obszar mowy w płacie czołowym zrozumiesz o co cię pytają lecz nie będziesz umiał sformułować odpowiedzi
-/home/174520hj/dataset/CS1_195.wav|płat czołowy pełni jednak wiele innych unikalnych funkcji
-/home/174520hj/dataset/CS1_196.wav|w jego przedniej części znajduje się obszar nazywany korą przedczołową
-/home/174520hj/dataset/CS1_197.wav|to on odpowiada za osobowość i zdolność planowania kora
-/home/174520hj/dataset/CS1_198.wav|przedczołowa jest najmłodszą częścią mózgu i to nie tylko w ujęciu ewolucyjnym ponieważ rozwija się najpóźniej także u każdego z nas
-/home/174520hj/dataset/CS1_199.wav|poszczególne obszary kory mózgowej pozwalają nam myśleć analitycznie
+/home/174520hj/dataset/CS1_190.wav|Pierwszy znajduje się w płacie czołowym, a drugi między płatem skroniowym i ciemieniowym.
+/home/174520hj/dataset/CS1_191.wav|Jeśli zostanie uszkodzony ośrodek mowy położony z tyłu, będziesz trajkotał używając słów, których ani ty, ani nikt inny nie zrozumie.
+/home/174520hj/dataset/CS1_192.wav|po prostu twój mózg zacznie wymyślać słowa, które nie istnieją.
+/home/174520hj/dataset/CS1_193.wav|Nie zrozumiesz także co mówią inni.
+/home/174520hj/dataset/CS1_194.wav|Jeśli natomiast zostanie uszkodzony obszar mowy w płacie czołowym, zrozumiesz o co cię pytają, lecz nie będziesz umiał sformułować odpowiedzi.
+/home/174520hj/dataset/CS1_195.wav|Płat czołowy pełni jednak wiele innych unikalnych funkcji.
+/home/174520hj/dataset/CS1_196.wav|W jego przedniej części znajduje się obszar nazywany korą przedczołową.
+/home/174520hj/dataset/CS1_198.wav|Przedczołowa jest najmłodszą częścią mózgu i to nie tylko w ujęciu ewolucyjnym ,ponieważ rozwija się najpóźniej także u każdego z nas.
+/home/174520hj/dataset/CS1_199.wav|Poszczególne obszary kory mózgowej pozwalają nam myśleć analitycznie.
 /home/174520hj/dataset/CS1_2.wav|Stanowiła rewolucję w historii ewolucji.
 /home/174520hj/dataset/CS1_20.wav|Dba o to, żeby wszystko funkcjonowało bez zarzutu i żebyśmy nie musieli zaprzątać sobie tym głowy.
-/home/174520hj/dataset/CS1_200.wav|przewidywać konsekwencje naszych działań i planować przyszłość
-/home/174520hj/dataset/CS1_201.wav|ta część mózgu czyni z nas matematyków poetów i kompozytorów
-/home/174520hj/dataset/CS1_202.wav|nie silniejsi lecz bystrzejsi
-/home/174520hj/dataset/CS1_203.wav|wszystko ma związek z seksem
-/home/174520hj/dataset/CS1_204.wav|w ujęciu ewolucyjnym
-/home/174520hj/dataset/CS1_205.wav|mózg człowieka nie rozwinąłby się w tak skomplikowaną strukturę gdyby nie dawało to naszym przodkom przewagi w przekazywaniu genów
-/home/174520hj/dataset/CS1_206.wav|ci którzy nie potrafili szybko rozwiązywać nowych problemów i nie uczyli się na błędach nie dożywali wieku w którym mogliby zacząć się rozmnażać
-/home/174520hj/dataset/CS1_207.wav|we współczesnym społeczeństwie mózg pomaga nam radzić sobie w różnych sytuacjach tak abyśmy zyskiwali przyjaciół a nie wrogów
-/home/174520hj/dataset/CS1_208.wav|mózg sprawia że jesteśmy w stanie oszczędzać pieniądze przez dłuższy czas by później osiągnąć dalekosiężny cel
-/home/174520hj/dataset/CS1_209.wav|jeśli jesteśmy mądrzy i dobrze rozgrywamy różne sytuacje życiowe zdobędziemy lojalnych wspólników ciekawą pracę i oddanych przyjaciół
+/home/174520hj/dataset/CS1_200.wav|Przewidywać konsekwencje naszych działań i planować przyszłość.
+/home/174520hj/dataset/CS1_201.wav|Ta część mózgu czyni z nas matematyków, poetów i kompozytorów.
+/home/174520hj/dataset/CS1_202.wav|Nie silniejsi lecz bystrzejsi.
+/home/174520hj/dataset/CS1_203.wav|Wszystko ma związek z seksem.
+/home/174520hj/dataset/CS1_204.wav|W ujęciu ewolucyjnym.
+/home/174520hj/dataset/CS1_205.wav|Mózg człowieka nie rozwinąłby się w tak skomplikowaną strukturę, gdyby nie dawało to naszym przodkom przewagi w przekazywaniu genów.
+/home/174520hj/dataset/CS1_206.wav|Ci którzy nie potrafili szybko rozwiązywać nowych problemów i nie uczyli się na błędach, nie dożywali wieku w którym mogliby zacząć się rozmnażać.
+/home/174520hj/dataset/CS1_207.wav|We współczesnym społeczeństwie, mózg pomaga nam radzić sobie w różnych sytuacjach, tak abyśmy zyskiwali przyjaciół a nie wrogów.
+/home/174520hj/dataset/CS1_208.wav|Mózg sprawia, że jesteśmy w stanie oszczędzać pieniądze przez dłuższy czas, by później osiągnąć dalekosiężny cel.
+/home/174520hj/dataset/CS1_209.wav|Jeśli jesteśmy mądrzy i dobrze rozgrywamy różne sytuacje życiowe, zdobędziemy lojalnych wspólników, ciekawą pracę i oddanych przyjaciół.
 /home/174520hj/dataset/CS1_21.wav|Komórki pnia mózgu regulują oddychanie, rytm serca i sen.
-/home/174520hj/dataset/CS1_210.wav|staniemy się atrakcyjni
+/home/174520hj/dataset/CS1_210.wav|Staniemy się atrakcyjni.
 /home/174520hj/dataset/CS1_211.wav|Dlatego zysk netto z naszej ewolucji to nie wzrost siły czy szybkości, lecz coraz większa bystrość.
 /home/174520hj/dataset/CS1_22.wav|Nigdy nie odpoczywają, bez względu na to, czy śpimy czy czuwamy.
 /home/174520hj/dataset/CS1_23.wav|Z tyłu pnia mózgu leży móżdżek, który odpowiada za koordynację ruchów i utrzymanie równowagi.
@@ -1922,67 +1887,62 @@
 /home/174520hj/dataset/CS1_41.wav|Jednym z takich ważnych jąder w układzie limbicznym jest ciało migdałowate, które leży tuż za skronią.
 /home/174520hj/dataset/CS1_42.wav|Dawniej anatomowie nazywali struktury mózgu kierując się ich podobieństwem do czegoś znanego.
 /home/174520hj/dataset/CS1_43.wav|Łacińskie słowo amygdalum oznacza migdał.
-/home/174520hj/dataset/CS1_44.wav|dwa pierwsze f mają związek właśnie z nim.
-/home/174520hj/dataset/CS1_45.wav|komórki nerwowe tego migdała odpowiadają za nasze reakcje emocjonalne
-/home/174520hj/dataset/CS1_46.wav|to one sprawiają że może nam się wyrwać kilka niecenzuralnych słów kiedy kierowca odjedzie z przystanku w chwili gdy podbiegniemy do autobusu i że nakręcamy się na nowo opowiadając tę historię podczas lunchu
-/home/174520hj/dataset/CS1_47.wav|ciało migdałowate wpływa również na naszą motywację
-/home/174520hj/dataset/CS1_48.wav|to ono ponosi przynajmniej częściowo winę za to że wróćmy jeszcze do wspomnianej sytuacji biegniemy zlani potem żeby zdążyć na autobus który podjechał na przystanek chociaż niedługo ma przyjechać następny
-/home/174520hj/dataset/CS1_49.wav|ten mechanizm działa też kiedy tego samego wieczoru wracamy w ciemności do domu i słysząc za sobą czyjeś kroki nieco przyspieszamy
+/home/174520hj/dataset/CS1_44.wav|Dwa pierwsze f mają związek właśnie z nim.
+/home/174520hj/dataset/CS1_45.wav|Komórki nerwowe tego migdała odpowiadają za nasze reakcje emocjonalne.
+/home/174520hj/dataset/CS1_46.wav|To one sprawiają, że może nam się wyrwać kilka niecenzuralnych słów, kiedy kierowca odjedzie z przystanku w chwili, gdy podbiegniemy do autobusu i że nakręcamy się na nowo opowiadając tę historię podczas lunchu.
+/home/174520hj/dataset/CS1_47.wav|Ciało migdałowate wpływa również na naszą motywację.
+/home/174520hj/dataset/CS1_48.wav|Ono ponosi, przynajmniej częściowo winę za to, że wróćmy jeszcze do wspomnianej sytuacji, biegniemy zlani potem, żeby zdążyć na autobus, który podjechał na przystanek chociaż niedługo ma przyjechać następny.
+/home/174520hj/dataset/CS1_49.wav|Ten mechanizm, działa też kiedy tego samego wieczoru wracamy w ciemności do domu i słysząc za sobą czyjeś kroki nieco przyspieszamy.
 /home/174520hj/dataset/CS1_5.wav|Po kolejnych dwustu pięćdziesięciu milionach lat rozwinął się mózg ssaczy, który obecnie nazywamy układem limbicznym.
-/home/174520hj/dataset/CS1_50.wav|i nawet gdybyśmy znajdowali się akurat w bezpiecznym miejscu i nie mieli czego się bać czulibyśmy intensywny niepokój gdyby nasze ciało migdałowate zostało pobudzone elektrycznie
-/home/174520hj/dataset/CS1_51.wav|za ciałem migdałowatym znajduje się długi na trzy cztery centymetry element przypominający kształtem kiełbaskę który również wchodzi w skład starszej części mózgu
-/home/174520hj/dataset/CS1_52.wav|kiełbaska ta nosi nazwę hipokamp czyli konik morski
-/home/174520hj/dataset/CS1_53.wav|odpowiada za pamięć i orientację przestrzenną
-/home/174520hj/dataset/CS1_54.wav|może pomóc nam wykuć na blachę tabliczkę mnożenia ale nawet jeśli nauczymy się jej tak że aż rozboli nas hipokamp nie staniemy się od tego lepszymi matematykami
-/home/174520hj/dataset/CS1_55.wav|rozumienie matematyki zawdzięczamy bowiem korze czołowej
-/home/174520hj/dataset/CS1_56.wav|w samym środku mózgu znajdują się dwa wzgórza
-/home/174520hj/dataset/CS1_57.wav|przesyłają one sygnały ze wszystkich zakątków sensorycznego uniwersum do kory mózgowej uwzględniając najświeższe wiadomości pochodzące od zmysłów
-/home/174520hj/dataset/CS1_58.wav|gdybyśmy mieli porównać struktury mózgu do ludzi to dwa wzgórza byłyby osobami które znają wszystkie plotki i we wszystko wtykają nos
-/home/174520hj/dataset/CS1_59.wav|wielkie autostrady wypustek neuronów przechodzą bowiem przez oba wzgórza i łączą się z innymi drogami by stworzyć skomplikowane obiegi informacji elektrycznych które pędzą według skoordynowanych powtarzalnych wzorców
+/home/174520hj/dataset/CS1_50.wav|I nawet gdybyśmy znajdowali się akurat w bezpiecznym miejscu i nie mieli czego się bać, czulibyśmy intensywny niepokój, gdyby nasze ciało migdałowate zostało pobudzone elektrycznie.
+/home/174520hj/dataset/CS1_51.wav|Za ciałem migdałowatym, znajduje się długi na trzy cztery centymetry element przypominający kształtem kiełbaskę, który również wchodzi w skład starszej części mózgu.
+/home/174520hj/dataset/CS1_52.wav|Kiełbaska ta nosi nazwę hipokamp, czyli konik morski.
+/home/174520hj/dataset/CS1_53.wav|Odpowiada za pamięć i orientację przestrzenną.
+/home/174520hj/dataset/CS1_54.wav|Może pomóc nam wykuć na blachę tabliczkę mnożenia, ale nawet jeśli nauczymy się jej tak, że aż rozboli nas hipokamp, nie staniemy się od tego lepszymi matematykami.
+/home/174520hj/dataset/CS1_55.wav|Rozumienie matematyki zawdzięczamy bowiem korze czołowej.
+/home/174520hj/dataset/CS1_56.wav|W samym środku mózgu, znajdują się dwa wzgórza.
+/home/174520hj/dataset/CS1_57.wav|Przesyłają one sygnały ze wszystkich zakątków sensorycznego uniwersum do kory mózgowej, uwzględniając najświeższe wiadomości pochodzące od zmysłów.
+/home/174520hj/dataset/CS1_58.wav|Gdybyśmy mieli porównać struktury mózgu do ludzi, to dwa wzgórza byłyby osobami które znają wszystkie plotki i we wszystko wtykają nos.
+/home/174520hj/dataset/CS1_59.wav|Wielkie autostrady wypustek neuronów przechodzą bowiem przez oba wzgórza i łączą się z innymi drogami, by stworzyć skomplikowane obiegi informacji elektrycznych, które pędzą według skoordynowanych, powtarzalnych wzorców.
 /home/174520hj/dataset/CS1_6.wav|Kresomózgowie i kora mózgowa rozwinęły się u ssaków dwieście milionów lat temu.
-/home/174520hj/dataset/CS1_60.wav|genialne małpy
-/home/174520hj/dataset/CS1_61.wav|u małp człekokształtnych szybko wykształcił się większy mózg
-/home/174520hj/dataset/CS1_62.wav|zachował się u nich zarówno mózg gadzi jak i układ limbiczny
-/home/174520hj/dataset/CS1_63.wav|za zwiększenie objętości mózgu odpowiadało jednak coś innego kora mózgowa
-/home/174520hj/dataset/CS1_64.wav|dawno dawno temu nasi przodkowie mieszkali na wierzchołkach drzew w dżungli afrykańskiej dopóki diametralnie nie zmienił się klimat
-/home/174520hj/dataset/CS1_65.wav|w tamtych czasach przypominał on kolejkę górską na przemian następowały minizlodowacenia i fale upałów
-/home/174520hj/dataset/CS1_66.wav|ekstremalne zjawiska pogodowe wpływały na stworzenia którym udało się je przeżyć a większości się nie udało
-/home/174520hj/dataset/CS1_67.wav|zmiany były na tyle dotkliwe że strząsnęły nas z drzew ale nas nie zabiły
-/home/174520hj/dataset/CS1_68.wav|kiedy cztery miliony lat temu pierwsi ludzie zaczęli chodzić na dwóch nogach po afrykańskiej sawannie ich mózgi ważyły około czterystu gramów
+/home/174520hj/dataset/CS1_60.wav|Genialne małpy.
+/home/174520hj/dataset/CS1_61.wav|U małp człekokształtnych szybko wykształcił się większy mózg.
+/home/174520hj/dataset/CS1_62.wav|Zachował się u nich, zarówno mózg gadzi, jak i układ limbiczny.
+/home/174520hj/dataset/CS1_63.wav|Za zwiększenie objętości mózgu odpowiadało jednak coś innego, kora mózgowa.
+/home/174520hj/dataset/CS1_64.wav|Dawno dawno temu, nasi przodkowie mieszkali na wierzchołkach drzew w dżungli afrykańskiej, dopóki diametralnie nie zmienił się klimat.
+/home/174520hj/dataset/CS1_65.wav|W tamtych czasach przypominał on kolejkę górską, na przemian następowały minizlodowacenia i fale upałów.
+/home/174520hj/dataset/CS1_68.wav|Kiedy cztery miliony lat temu pierwsi ludzie zaczęli chodzić na dwóch nogach po afrykańskiej sawannie, ich mózgi ważyły około czterystu gramów.
 /home/174520hj/dataset/CS1_69.wav|Chociaż nie musieli się już trzymać gałęzi i mogli wykorzystywać dłonie do innych celów, narzędzi zaczęli używać dopiero dwa miliony lat temu, kiedy ewoluowali w gatunek homo habilis.
 /home/174520hj/dataset/CS1_7.wav|Natomiast mózgowie człowieka ukształtowało się dopiero dwieście tysięcy lat temu.
-/home/174520hj/dataset/CS1_70.wav|człowiek zręczny
-/home/174520hj/dataset/CS1_71.wav|wówczas waga mózgu wzrosła do sześciuset gramów
-/home/174520hj/dataset/CS1_72.wav|homo habilis nie korzystał jednak ze szczególnie wymyślnych przyrządów
-/home/174520hj/dataset/CS1_73.wav|były to głównie otoczaki którymi uderzał w inne przedmioty
-/home/174520hj/dataset/CS1_74.wav|żeby nadać temu faktowi powagi te zaostrzone otoczaki nazwano prasiekierami
-/home/174520hj/dataset/CS1_75.wav|był to przełom
-/home/174520hj/dataset/CS1_76.wav|ale człowiek nie jest jedyną istotą która potrafi się posługiwać narzędziami
-/home/174520hj/dataset/CS1_77.wav|delfiny wykorzystują gąbki do ochrony nosów podczas rozbijania skorupiaków o skaliste dno oceanu
-/home/174520hj/dataset/CS1_78.wav|darwinka kaktusowa używa cierni kaktusa do wyławiania larw z dziur
-/home/174520hj/dataset/CS1_79.wav|a szympansy za pomocą gałęzi wydobywają termity z pni drzew
+/home/174520hj/dataset/CS1_71.wav|Wówczas waga mózgu wzrosła do sześciuset gramów.
+/home/174520hj/dataset/CS1_72.wav|Homo habilis nie korzystał jednak ze szczególnie wymyślnych przyrządów.
+/home/174520hj/dataset/CS1_73.wav|Były to głównie otoczaki, którymi uderzał w inne przedmioty.
+/home/174520hj/dataset/CS1_74.wav|Żeby nadać temu faktowi powagi, te zaostrzone otoczaki nazwano prasiekierami.
+/home/174520hj/dataset/CS1_75.wav|Był to przełom.
+/home/174520hj/dataset/CS1_76.wav|Ale człowiek nie jest jedyną istotą która potrafi się posługiwać narzędziami.
+/home/174520hj/dataset/CS1_77.wav|Delfiny wykorzystują gąbki do ochrony nosów, podczas rozbijania skorupiaków o skaliste dno oceanu.
+/home/174520hj/dataset/CS1_78.wav|Darwinka kaktusowa używa cierni kaktusa do wyławiania larw z dziur.
+/home/174520hj/dataset/CS1_79.wav|A szympansy, za pomocą gałęzi, wydobywają termity z pni drzew.
 /home/174520hj/dataset/CS1_8.wav|Punktu widzenia ewolucji to tak jakby to było wczoraj.
-/home/174520hj/dataset/CS1_80.wav|zwłaszcza to ostatnie robi wrażenie ale trochę potrwa zanim szympansy skomponują symfonię
-/home/174520hj/dataset/CS1_81.wav|w historii ewolucji człowieka musiało wydarzyć się coś więcej
-/home/174520hj/dataset/CS1_82.wav|coś co sprawia że nasze myśli są czymś wyjątkowym
-/home/174520hj/dataset/CS1_83.wav|minął kolejny milion lat i gatunek homo habilis zastąpił homo erectus
-/home/174520hj/dataset/CS1_84.wav|człowiek wyprostowany który opanował sztukę posługiwania się ogniem i zaczął polować
-/home/174520hj/dataset/CS1_85.wav|prymitywne części mózgu miały na niego mniejszy wpływ niż na jego przodków
-/home/174520hj/dataset/CS1_86.wav|mózg powiększył się niemal dwukrotnie i teraz ważył około tysiąca gramów
-/home/174520hj/dataset/CS1_87.wav|zamiast uciekać przed ogniem homo erectus zrozumiał że ogień może stać się jego sprzymierzeńcem
-/home/174520hj/dataset/CS1_88.wav|dostarczał ciepła światła i zapewniał ochronę w dalszej wędrówce w świat
-/home/174520hj/dataset/CS1_89.wav|około dwustu tysięcy lat temu ukształtował się człowiek współczesny
+/home/174520hj/dataset/CS1_80.wav|Zwłaszcza to ostatnie robi wrażenie, ale trochę potrwa, zanim szympansy skomponują symfonię.
+/home/174520hj/dataset/CS1_82.wav|Coś co sprawia, że nasze myśli są czymś wyjątkowym.
+/home/174520hj/dataset/CS1_83.wav|Minął kolejny milion lat i gatunek homo habilis zastąpił homo erectus.
+/home/174520hj/dataset/CS1_85.wav|prymitywne części mózgu miały na niego mniejszy wpływ niż na jego przodków.
+/home/174520hj/dataset/CS1_86.wav|mózg powiększył się niemal dwukrotnie i teraz ważył około tysiąca gramów.
+/home/174520hj/dataset/CS1_87.wav|zamiast uciekać przed ogniem, homo erectus zrozumiał, że ogień może stać się jego sprzymierzeńcem.
+/home/174520hj/dataset/CS1_88.wav|dostarczał ciepła, światła i zapewniał ochronę w dalszej wędrówce w świat.
+/home/174520hj/dataset/CS1_89.wav|Koło dwustu tysięcy lat temu ukształtował się człowiek współczesny.
 /home/174520hj/dataset/CS1_9.wav|Mózg gadzi.
 /home/174520hj/dataset/CS1_90.wav|homo sapiens
-/home/174520hj/dataset/CS1_91.wav|człowiek rozumny
-/home/174520hj/dataset/CS1_92.wav|z mózgiem ważącym od tysiąca dwustu do tysiąca czterystu gramów
-/home/174520hj/dataset/CS1_93.wav|a więc trzykrotnie cięższym od mózgu jego przodka który jako pierwszy stanął na dwóch nogach żyjącego zaledwie trzy miliony osiemsiet tysięcy lat wcześniej
-/home/174520hj/dataset/CS1_94.wav|wraz z powiększającym się mózgiem rozwinęliśmy inteligencję która jest czymś absolutnie unikatowym
-/home/174520hj/dataset/CS1_95.wav|właściwym wyłącznie człowiekowi
-/home/174520hj/dataset/CS1_96.wav|warto jednak zauważyć że istnieje wystarczająco dużo przykładów na to że rozmiar to nie wszystko
-/home/174520hj/dataset/CS1_97.wav|delfiny i szympansy mają prawie tak duże mózgi jak my
-/home/174520hj/dataset/CS1_98.wav|ale nie mogą mierzyć się z nami pod względem inteligencji
-/home/174520hj/dataset/CS1_99.wav|również mózg krowy jest podobnej wielkości co mózg człowieka a jednak nie czyni to z mućki istoty szczególnie rozumnej i kreatywnej
+/home/174520hj/dataset/CS1_91.wav|Człowiek rozumny.
+/home/174520hj/dataset/CS1_92.wav|Z mózgiem ważącym od tysiąca dwustu do tysiąca czterystu gramów.
+/home/174520hj/dataset/CS1_93.wav|A więc trzykrotnie cięższym od mózgu jego przodka, który jako pierwszy stanął na dwóch nogach, żyjącego zaledwie trzy miliony osiemsiet tysięcy lat wcześniej.
+/home/174520hj/dataset/CS1_94.wav|Wraz z powiększającym się mózgiem, rozwinęliśmy inteligencję, która jest czymś absolutnie unikatowym.
+/home/174520hj/dataset/CS1_95.wav|Właściwym wyłącznie człowiekowi.
+/home/174520hj/dataset/CS1_96.wav|Warto jednak zauważyć ,że istnieje wystarczająco dużo przykładów na to, że rozmiar to nie wszystko.
+/home/174520hj/dataset/CS1_97.wav|Delfiny i szympansy mają prawie tak duże mózgi jak my.
+/home/174520hj/dataset/CS1_98.wav|Ale nie mogą mierzyć się z nami pod względem inteligencji.
+/home/174520hj/dataset/CS1_99.wav|Również mózg krowy jest podobnej wielkości co mózg człowieka, a jednak nie czyni to z mućki istoty szczególnie rozumnej i kreatywnej.
 /home/174520hj/dataset/CS20_0.wav|Dalsza droga.
 /home/174520hj/dataset/CS20_1.wav|Książka pokazuje, jak kluczową rolę odgrywa mózg.
 /home/174520hj/dataset/CS20_10.wav|Uczenie się jest także procesem fizycznym, to zmiany w mózgu dają nam możliwość bycia elastycznymi.
@@ -2010,7 +1970,6 @@
 /home/174520hj/dataset/CS20_32.wav|Kiedy dowiemy się jak przebiega komunikacja między komórkami nerwowymi, zrobimy krok w stronę zrozumienia mózgu.
 /home/174520hj/dataset/CS20_33.wav|I dzięki temu otrzymamy narzędzia badawcze, niezbędne do tego by móc zrozumieć na przykład epilepsję, depresję czy chorobę Alzheimera.
 /home/174520hj/dataset/CS20_34.wav|Często czułam coś w rodzaju zazdrości, kiedy moi koledzy mogli odnieść swoje projekty badawcze do powszechnie znanych chorób, które dotykają wiele osób.
-/home/174520hj/dataset/CS20_35.wav|Odkryję zagadkę raka - mogą powiedzieć.
 /home/174520hj/dataset/CS20_36.wav|Ja natomiast mogę wyjaśnić, dlaczego ważne jest, aby kwas n acetylaspartylglutaminowy uwalniał się z pęcherzyków postsynaptycznych w synapsach pobudzających.
 /home/174520hj/dataset/CS20_37.wav|Trudne ale jednocześnie ekscytujące.
 /home/174520hj/dataset/CS20_38.wav|I stanowi wyzwanie.
@@ -2030,269 +1989,231 @@
 /home/174520hj/dataset/CS20_7.wav|Również inteligencja stanowi rezultat tego jak jest zbudowany nasz mózg i jak komunikują się ze sobą komórki nerwowe.
 /home/174520hj/dataset/CS20_8.wav|I to bez względu na to, czy do pomiaru inteligencji używamy iq, czy korzystamy z definicji psychologa Howarda Gardnera.
 /home/174520hj/dataset/CS20_9.wav|Który wyróżnił kilka jej typów, w tym językową, muzyczną, cielesną i społeczną.
-/home/174520hj/dataset/CS2_0.wav|W pogoni za osobowością.
-/home/174520hj/dataset/CS2_1.wav|cogito ergo sum
-/home/174520hj/dataset/CS2_10.wav|jak wszędzie w medycynie natychmiast pojawia się pytanie czy na osobowość wpływają dziedziczenie i środowisko
-/home/174520hj/dataset/CS2_100.wav|i jedno i drugie wpływa na to jak jesteśmy postrzegani
-/home/174520hj/dataset/CS2_101.wav|gdybyśmy odsunęli na bok płat skroniowy
-/home/174520hj/dataset/CS2_102.wav|zobaczylibyśmy leżący za nim obszar kory mózgowej zwany wyspą
-/home/174520hj/dataset/CS2_103.wav|podczas gdy płaty ciemieniowe pomagają nam rozumieć że ręce i nogi znajdujące się blisko nas należą do nas
-/home/174520hj/dataset/CS2_104.wav|dzięki wyspie rozpoznajemy siebie na zdjęciach i identyfikujemy nasze wspomnienia
-/home/174520hj/dataset/CS2_105.wav|ten sam obszar kory mózgowej wykorzystujemy do tego by znaleźć słowa które nas charakteryzują
-/home/174520hj/dataset/CS2_106.wav|móżdżek o którym wcześniej sądzono że odpowiada jedynie za koordynację ruchową zdaje się mieć również znaczenie dla pewnych cech osobowości
-/home/174520hj/dataset/CS2_107.wav|bez dobrze funkcjonującego móżdżku mówilibyśmy co nam ślina na język przyniesie
-/home/174520hj/dataset/CS2_108.wav|i robilibyśmy to co by nam właśnie strzeliło do głowy
-/home/174520hj/dataset/CS2_109.wav|nie mielibyśmy urządzenia zabezpieczającego nas przed popełnieniem gafy
-/home/174520hj/dataset/CS2_11.wav|i jak zawsze pada odpowiedź
-/home/174520hj/dataset/CS2_110.wav|trochę tak jak w przypadku uszkodzenia płata czołowego
-/home/174520hj/dataset/CS2_111.wav|poza tym bylibyśmy labilni emocjonalnie
-/home/174520hj/dataset/CS2_112.wav|to znaczy że bardzo łatwo przechodzilibyśmy na przykład od śmiechu do płaczu lub od płaczu do agresji
-/home/174520hj/dataset/CS2_113.wav|osobowość to również nasza postawa życiowa i wybory których dokonujemy
-/home/174520hj/dataset/CS2_114.wav|wiele wskazuje na to że od podjęcia decyzji do uświadomienia jej sobie mija cała sekunda
-/home/174520hj/dataset/CS2_115.wav|nie oznacza to że ktoś inny podejmuje decyzje za nas
-/home/174520hj/dataset/CS2_116.wav|lecz że na początku tego procesu nasza świadomość nie jest w niego zaangażowana
-/home/174520hj/dataset/CS2_117.wav|wydaje nam się że świadomie postanawiamy podnieść rękę
-/home/174520hj/dataset/CS2_118.wav|a następnie ją podnosimy
-/home/174520hj/dataset/CS2_119.wav|ale w rzeczywistości ten ruch zostaje zaplanowany zanim podejmiemy taką decyzję
-/home/174520hj/dataset/CS2_12.wav|i tak i nie
-/home/174520hj/dataset/CS2_120.wav|większość badań nad świadomymi wyborami jest dość prosta
-/home/174520hj/dataset/CS2_121.wav|uczestnik wpatrując się w zegar ma zdecydować którą ręką prawą czy lewą naciśnie przycisk
-/home/174520hj/dataset/CS2_122.wav|jest proszony o to by zapamiętać gdzie znajdowała się wskazówka w chwili kiedy podjął decyzję
-/home/174520hj/dataset/CS2_123.wav|ale zanim wykonał ruch
-/home/174520hj/dataset/CS2_124.wav|gdyby badany miał na głowie elektrody pomiarowe można byłoby zobaczyć i przewidzieć którą rękę wybierze zanim on sam jak twierdzi podejmie tę decyzję
-/home/174520hj/dataset/CS2_125.wav|nie przeprowadzono żadnych dogłębnych badań dotyczących bardziej skomplikowanych wyborów
-/home/174520hj/dataset/CS2_126.wav|na przykład wyboru drogi życiowej lub partnera
-/home/174520hj/dataset/CS2_127.wav|nawet jeśli okazałoby się że również tego typu decyzje są do pewnego stopnia podejmowane bez udziału świadomości to nadal są to nasze decyzje
-/home/174520hj/dataset/CS2_128.wav|my jesteśmy swoim mózgiem
-/home/174520hj/dataset/CS2_129.wav|rozszczepiony mózg
-/home/174520hj/dataset/CS2_13.wav|wszyscy którzy mają rodzeństwo lub własne dzieci mogą się przekonać w praktyce że osobowości nie tworzy wyłącznie środowisko
-/home/174520hj/dataset/CS2_130.wav|rozszczepiona osobowość
-/home/174520hj/dataset/CS2_131.wav|co wynika z tego że osobowość nie jest zlokalizowana w jednym miejscu
-/home/174520hj/dataset/CS2_132.wav|prawie wszystkie płaty mózgowe wpływają na nasze cechy które razem tworzą właśnie osobowość
-/home/174520hj/dataset/CS2_133.wav|informacje między prawą i lewą półkulą mózgu przechodzą przez ciało modzelowate które stanowi arterię komunikacyjną zbudowaną z istoty białej
-/home/174520hj/dataset/CS2_134.wav|autostradę złożoną z wielu setek milionów pasm
-/home/174520hj/dataset/CS2_135.wav|łączy ona obie półkule a tym samym również prawy i lewy płat czołowy ciemieniowy i skroniowy
-/home/174520hj/dataset/CS2_136.wav|choć zdarza się to rzadko i wyłącznie w przypadku ciężkich chorób nadal bywa tak że lekarze zmuszeni wybrać mniejsze zło przecinają ciało modzelowate
-/home/174520hj/dataset/CS2_137.wav|większym złem jest najczęściej epilepsja
-/home/174520hj/dataset/CS2_138.wav|a przecięcie ciała modzelowatego ma zapobiec rozprzestrzenianiu się jej na obie półkule
-/home/174520hj/dataset/CS2_139.wav|po takiej operacji niektórzy pacjenci doświadczają tego że mają jak gdyby dwa mózgi które myślą inaczej
-/home/174520hj/dataset/CS2_14.wav|rodzeństwo wychowujące się razem może mieć zupełnie różne temperamenty system wartości lub podejście do życia
-/home/174520hj/dataset/CS2_140.wav|jedna półkula chce żeby pacjent zdjął spodnie a druga żeby ich nie zdejmował
-/home/174520hj/dataset/CS2_141.wav|rezultat jest taki że prawa ręka zaczyna walczyć z lewą i obie ciągną spodnie w przeciwne strony
-/home/174520hj/dataset/CS2_142.wav|każda półkula mózgu ma własne myśli uczucia przeżycia i wspomnienia innymi słowy mamy do czynienia z dwoma różnymi umysłami
-/home/174520hj/dataset/CS2_143.wav|pytanie brzmi
-/home/174520hj/dataset/CS2_144.wav|czy rozszczepienie mózgu rzeczywiście skutkuje rozszczepieniem osobowości
-/home/174520hj/dataset/CS2_145.wav|ta kwestia była i jest przedmiotem licznych dyskusji i testów
-/home/174520hj/dataset/CS2_146.wav|wiele wskazuje na to że jeśli ktoś ma dwie osobowości po jednej w każdej półkuli mózgu to są one bardzo do siebie podobne
-/home/174520hj/dataset/CS2_147.wav|nie powinno to zresztą dziwić skoro neurochirurdzy dokonują operacji rozdzielenia półkul u dorosłych pacjentów
-/home/174520hj/dataset/CS2_148.wav|doktor jekyll i pan hyde
-/home/174520hj/dataset/CS2_149.wav|to co nazywamy fachowo dysocjacją absolutnie nie jest tym samym co rozszczepienie mózgu
-/home/174520hj/dataset/CS2_15.wav|mimo to środowisko w którym dorastamy ma znaczenie
-/home/174520hj/dataset/CS2_150.wav|łagodnego stanu dysocjacji na pewno sam nieraz doświadczasz
-/home/174520hj/dataset/CS2_151.wav|kiedy nie słyszysz co ktoś do ciebie mówi ponieważ jesteś skupiony na czymś zupełnie innym
-/home/174520hj/dataset/CS2_152.wav|mam jednak nadzieję że najbardziej spektakularnej formy tego zaburzenia osobowości wielorakiej nigdy nie odczułeś na własnej skórze
-/home/174520hj/dataset/CS2_153.wav|w takim przypadku u tej samej osoby występują co najmniej dwie różne osobowości
-/home/174520hj/dataset/CS2_154.wav|które nigdy nie ujawniają się jednocześnie
-/home/174520hj/dataset/CS2_155.wav|i co warto podkreślić są to osobowości o różnych preferencjach i wzorach zachowań
-/home/174520hj/dataset/CS2_156.wav|każda z nich ma własną pamięć i nie rejestruje tego co dzieje się z innymi
-/home/174520hj/dataset/CS2_157.wav|zarówno w literaturze jak i w przypadkach klinicznych osobowości te bardzo się od siebie różnią
-/home/174520hj/dataset/CS2_158.wav|co więcej często są swoimi całkowitymi przeciwieństwami
-/home/174520hj/dataset/CS2_159.wav|doktor jekyll i pan hyde pod wieloma względami stanowią realistyczny przykład rozdwojenia jaźni
-/home/174520hj/dataset/CS2_16.wav|zarówno wychowanie jak i modele ról wpływają na zmiany w mózgu dziecka
-/home/174520hj/dataset/CS2_160.wav|doktor jekyll jest miłym i lubianym lekarzem pan hyde natomiast to ucieleśnienie zła
-/home/174520hj/dataset/CS2_161.wav|w powieści stevensona rozszczepienie osobowości stanowi konsekwencję eksperymentu którego dokonuje na sobie doktor jekyll
-/home/174520hj/dataset/CS2_162.wav|w rzeczywistości przyczyn dysocjacyjnych zaburzeń tożsamości należy oczywiście szukać zupełnie gdzie indziej
-/home/174520hj/dataset/CS2_163.wav|możesz się zmienić
-/home/174520hj/dataset/CS2_164.wav|trochę
-/home/174520hj/dataset/CS2_165.wav|synapsy potencjały błonowe i neuroprzekaźniki tworzą razem naszą osobowość
-/home/174520hj/dataset/CS2_166.wav|synapsy to połączenia komórek nerwowych
-/home/174520hj/dataset/CS2_167.wav|myśli uczucia i wola powstają w wyniku procesów chemicznych i fizycznych zachodzących w mózgu
-/home/174520hj/dataset/CS2_168.wav|jesteśmy biologią ale nie jej niewolnikami
-/home/174520hj/dataset/CS2_169.wav|na mózg można wpływać
-/home/174520hj/dataset/CS2_17.wav|dzieci patrzą i się uczą
-/home/174520hj/dataset/CS2_170.wav|zachowanie da się modyfikować
-/home/174520hj/dataset/CS2_171.wav|złe nawyki zmieniać a temperament kontrolować
-/home/174520hj/dataset/CS2_172.wav|nawet jeśli część twojego mózgu wysyła do ośrodka mowy sygnał że ten garnek był tak gorący że aż powinieneś zakląć to z odsieczą przychodzi ci płat czołowy dzięki czemu nie wypowiadasz niecenzuralnych słów w obecności dzieci sąsiadki
-/home/174520hj/dataset/CS2_173.wav|albo jeśli jesteś o krok od wysłania mejla który napisałaś w złości
-/home/174520hj/dataset/CS2_174.wav|i w ostatniej chwili postanawiasz go usunąć
-/home/174520hj/dataset/CS2_175.wav|możesz pogłaskać się z ulgą po czole i podziękować korze która się za nim znajduje
-/home/174520hj/dataset/CS2_176.wav|jeśli twój partner uważa podobnie jak mój że brudne ubranie można rzucić na podłogę w sypialni zamiast włożyć je do kosza na bieliznę
-/home/174520hj/dataset/CS2_177.wav|to pamiętaj że mózg jest plastyczny
-/home/174520hj/dataset/CS2_178.wav|nawyki można zmieniać do końca życia
-/home/174520hj/dataset/CS2_179.wav|jeśli jednak oczekujesz zmian w sprawach fundamentalnych to lepiej zjedz tę żabę albo po prostu znajdź sobie innego partnera
-/home/174520hj/dataset/CS2_18.wav|te które stykają się z przemocą częściej niestety same stają się brutalne
-/home/174520hj/dataset/CS2_180.wav|osobowość jest tak nieodłącznie związana z mózgiem z którym przyszliśmy na świat i wychowania które odebraliśmy że okazuje się zaskakująco stała
-/home/174520hj/dataset/CS2_181.wav|modyfikować da się tylko niektóre cechy i w życiu codziennym powinno nam to wystarczyć
-/home/174520hj/dataset/CS2_182.wav|mózgi w stadach
-/home/174520hj/dataset/CS2_183.wav|ludzie to zwierzęta stadne
-/home/174520hj/dataset/CS2_184.wav|przychodzimy na świat z mózgiem który sprawia że potrafimy współpracować i słuchać rozkazów
-/home/174520hj/dataset/CS2_185.wav|bez tego społeczeństwo nie mogłoby sprawnie funkcjonować
-/home/174520hj/dataset/CS2_186.wav|ale co byśmy zrobili gdybyśmy nagle znaleźli się w środowisku w którym obowiązują destrukcyjne normy narzucone przez jeszcze bardziej destrukcyjnego lidera
-/home/174520hj/dataset/CS2_187.wav|co robimy kiedy cechy które przez tysiące lat były uznawane za ważne są wykorzystywane na naszą zgubę
-/home/174520hj/dataset/CS2_188.wav|w latach trzydziestych ubiegłego wieku w biednym domu w stanie indiana w usa dorastał pewien chłopiec
-/home/174520hj/dataset/CS2_189.wav|jego matka harowała a ojciec był alkoholikiem
-/home/174520hj/dataset/CS2_19.wav|te które mają religijnych przyjaciół częściej same stają się religijne
-/home/174520hj/dataset/CS2_190.wav|dzieci z sąsiedztwa opowiadały później że chłopiec miał obsesję na punkcie religii i śmierci
-/home/174520hj/dataset/CS2_191.wav|kiedyś zadźgał kota na ulicy tylko po to by móc odprawić jego pogrzeb
-/home/174520hj/dataset/CS2_192.wav|w końcu inni przestali się z nim bawić
-/home/174520hj/dataset/CS2_193.wav|chłopiec czuł się odrzucony
-/home/174520hj/dataset/CS2_194.wav|gdy był nastolatkiem identyfikował się z afroamerykanami którzy także żyli na marginesie społeczeństwa
-/home/174520hj/dataset/CS2_195.wav|dzięki wierze odnalazł poczucie przynależności
-/home/174520hj/dataset/CS2_196.wav|a gdy miał dwadzieścia kilka lat założył własną wspólnotę którą nazwał świątynią ludu
-/home/174520hj/dataset/CS2_197.wav|przyjmowała ona wszystkich chętnych bez względu na kolor skóry czy pochodzenie
-/home/174520hj/dataset/CS2_198.wav|mały biedny chłopiec stał się charyzmatycznym przywódcą religijnym kilkudziesięciotysięcznej rzeszy ludzi
-/home/174520hj/dataset/CS2_199.wav|nazywał się jim jones
-/home/174520hj/dataset/CS2_2.wav|żnana sentencja francuskiego filozofa Kartezjusza głosi, że skoro myślisz to jesteś.
-/home/174520hj/dataset/CS2_20.wav|te które wychowują się w domu pełnym empatii i szacunku prawdopodobnie same będą wyrozumiałe
-/home/174520hj/dataset/CS2_200.wav|z czasem świątynia ludu przekształciła się w sektę
-/home/174520hj/dataset/CS2_201.wav|której członkowie mieszkali spali i pracowali na terenie należącym do wspólnoty
-/home/174520hj/dataset/CS2_202.wav|i rzadko kontaktowali się z ludźmi z zewnątrz
-/home/174520hj/dataset/CS2_203.wav|jim jones stał się autorytarnym władcą decydującym o tym kto ma kogo poślubić i rozprawiającym się brutalnie z tymi którzy odważyli się go krytykować
-/home/174520hj/dataset/CS2_204.wav|gdy oburzenie amerykanów jego praktykami zaczęło narastać jones przeniósł wspólnotę do ameryki południowej do założonej przez siebie plantacji
-/home/174520hj/dataset/CS2_205.wav|którą nazwał jonestown
-/home/174520hj/dataset/CS2_206.wav|osiemnastego listopada tysiąc dziewięćset siedemdziesiątego ósmego roku dziewięciuset dziewięciu członków sekty na jego rozkaz targnęło się na swoje życie
-/home/174520hj/dataset/CS2_207.wav|rodzice zmusili dzieci do wypicia trucizny zanim sami ją przyjęli
-/home/174520hj/dataset/CS2_208.wav|największe zbiorowe samobójstwo w historii stało się faktem
-/home/174520hj/dataset/CS2_209.wav|dlaczego nikt się nie zbuntował
-/home/174520hj/dataset/CS2_21.wav|natomiast u osób dorosłych rzadko obserwuje się zmiany cech osobowości
-/home/174520hj/dataset/CS2_210.wav|co się stało z postawami i wartościami które definiowały osobowość członków sekty jako indywidualne istoty
-/home/174520hj/dataset/CS2_211.wav|pojęcie prania mózgu zostało wprowadzone przez jednego z agentów cia
-/home/174520hj/dataset/CS2_212.wav|który w ten sposób tłumaczył dlaczego amerykańscy żołnierze po wypuszczeniu z niewoli w chinach lub korei północnej popierali komunizm i nie chcieli wracać do usa
-/home/174520hj/dataset/CS2_213.wav|zjawisku temu poświęcono zaskakująco niewiele badań
-/home/174520hj/dataset/CS2_214.wav|za to całkiem sporo wiemy o tym jak myślimy w grupie
-/home/174520hj/dataset/CS2_215.wav|badania dowodzą niezbicie że na zwykłych ludzi można wpłynąć tak by robili rzeczy których normalnie nigdy by nie zrobili
-/home/174520hj/dataset/CS2_216.wav|pewien amerykański nauczyciel historii który nie potrafił wytłumaczyć swoim uczniom jak to możliwe że hitler zdobył poparcie dla swoich idei
-/home/174520hj/dataset/CS2_217.wav|postanowił pokazać im ten mechanizm przeprowadzając eksperyment
-/home/174520hj/dataset/CS2_218.wav|z uczniów swojej klasy utworzył grupę trzecia fala
-/home/174520hj/dataset/CS2_219.wav|która na wzór nazistowski opierała się na dyscyplinie i wspólnocie
-/home/174520hj/dataset/CS2_22.wav|siedziba duszy
-/home/174520hj/dataset/CS2_220.wav|po zaledwie kilku dniach ron jones stwierdził że eksperyment zaczyna wymykać się spod kontroli i postanowił go zakończyć
-/home/174520hj/dataset/CS2_221.wav|ogłosił że następnego dnia odbędzie się wiec na którym zaprezentuje im przywódcę
-/home/174520hj/dataset/CS2_222.wav|gdy zjawili się członkowie trzeciej fali liczącej już wtedy kilkaset osób nauczyciel pokazał im zdjęcie hitlera
-/home/174520hj/dataset/CS2_223.wav|wielu uczniów rozpłakało się gdy zrozumiało że znaleźli się wśród tych którzy dali się porwać ideologii
-/home/174520hj/dataset/CS2_224.wav|gdy obejrzałam oparty na tej historii film fala byłam pewna że sprzeciwiłabym się presji tłumu
-/home/174520hj/dataset/CS2_225.wav|byłam pewna że mój mózg nie dałby się zwieść
-/home/174520hj/dataset/CS2_226.wav|nie jest jednak powiedziane że byłabym tak niezłomna
-/home/174520hj/dataset/CS2_227.wav|chciałabym w to wierzyć
-/home/174520hj/dataset/CS2_228.wav|ale amerykański naukowiec stanley milgram wykazał w swoich pracach że sześćdziesiąt procent przeciętnie inteligentnych ludzi jest potencjalnie gotowych skrzywdzić bliźniego jeśli otrzyma taki rozkaz
-/home/174520hj/dataset/CS2_229.wav|co istotne w pierwszej części eksperymentu badani byli zapewniani że odpowiedzialność ponosi ten kto wydał rozkaz i nie znajdowali się w tym samym pomieszczeniu co osoba którą poddawano cierpieniom
-/home/174520hj/dataset/CS2_23.wav|kartezjuszowi zawdzięczamy dużo więcej niż tylko stwierdzenie że jesteśmy ponieważ myślimy
-/home/174520hj/dataset/CS2_230.wav|aż dziewięćdziesiąt procent badanych spełniało polecenie jeśli mogło uniknąć bezpośredniego zaangażowania w czynność sprawiającą komuś ból
-/home/174520hj/dataset/CS2_231.wav|to znaczy gdy ktoś inny wykonywał za nich brudną robotę
-/home/174520hj/dataset/CS2_232.wav|w drugiej części eksperymentu
-/home/174520hj/dataset/CS2_233.wav|kiedy badani siedzieli razem z osobą która głośno protestowała i mogłaby doznać uszczerbku na zdrowiu rozkaz wypełniało mniej osób
-/home/174520hj/dataset/CS2_234.wav|badanie wykazało że płeć uczestników eksperymentu nie odgrywała żadnej roli
-/home/174520hj/dataset/CS2_235.wav|ochotnicy wykonujący polecenia do samego końca czuli wyraźny dyskomfort
-/home/174520hj/dataset/CS2_236.wav|chociaż ich mózg produkował hormony stresu które powodowały że pocili się i jąkali
-/home/174520hj/dataset/CS2_237.wav|robili to co im kazano
-/home/174520hj/dataset/CS2_238.wav|obecnie wiemy że łatwiej jest oprzeć się presji grupy i myśleniu grupowemu jeśli potrafimy rozpoznać jego symptomy
-/home/174520hj/dataset/CS2_239.wav|wiele osób twierdzi że dwóch najtragiczniejszych wypadków w historii nasa można było uniknąć
-/home/174520hj/dataset/CS2_24.wav|był on również przekonany o tym że dusza i ciało są od siebie oddzielone i że dusza jest czymś niematerialnym
-/home/174520hj/dataset/CS2_240.wav|gdyby ktoś przeciwstawił się zespołowi
-/home/174520hj/dataset/CS2_241.wav|w obu przypadkach informowano o błędach w konstrukcji wahadłowców
-/home/174520hj/dataset/CS2_242.wav|ale silne pragnienie zdecydowanej większości by po raz kolejny nie przekładać startu sprawiło że mniejszość milczała
-/home/174520hj/dataset/CS2_243.wav|w obu katastrofach wahadłowca challenger w tysiąc dziewięćset osiemdziesiątym szóstym roku
-/home/174520hj/dataset/CS2_244.wav|i columbia w roku dwa tysiące trzecim
-/home/174520hj/dataset/CS2_245.wav|zginęli wszyscy członkowie załogi
-/home/174520hj/dataset/CS2_246.wav|w jakich sytuacjach istnieje największe prawdopodobieństwo że wyłączymy krytyczne myślenie i poddamy się presji grupy
-/home/174520hj/dataset/CS2_247.wav|chociaż czasem płat czołowy podpowiada nam że powinniśmy zignorować to czego wcześniej się nauczyliśmy by spełniać oczekiwania i przestrzegać zasad
-/home/174520hj/dataset/CS2_248.wav|to nie zawsze ma rację
-/home/174520hj/dataset/CS2_249.wav|rozpoznając symptomy myślenia grupowego możemy mu się przeciwstawić
-/home/174520hj/dataset/CS2_25.wav|uważał że wszystkie informacje które otrzymujemy o otaczającym nas świecie są przesyłane przez szyszynkę
-/home/174520hj/dataset/CS2_250.wav|badacz mózgu irving janis stwierdził że należy zachować wyjątkową czujność jeśli współpracujemy ściśle z ważnymi dla nas ludźmi
-/home/174520hj/dataset/CS2_251.wav|właśnie wtedy możemy nieświadomie unikać wygłaszania opinii i dzielenia się uwagami które mogą zdenerwować innych
-/home/174520hj/dataset/CS2_252.wav|jeśli do tego pracujemy w stresie
-/home/174520hj/dataset/CS2_253.wav|nie stykamy się z poglądami osób z zewnątrz
-/home/174520hj/dataset/CS2_254.wav|i mamy wyraźnego przywódcę
-/home/174520hj/dataset/CS2_255.wav|jesteśmy szczególnie narażeni na to że ulegniemy presji grupy
-/home/174520hj/dataset/CS2_256.wav|lampka ostrzegawcza powinna nam się zaświecić już wtedy gdy zaobserwujemy że ci którzy wyrażają jakąś wątpliwość są proszeni by nie siać zamętu
-/home/174520hj/dataset/CS2_257.wav|autocenzura jest niezdrowa dla grupy
-/home/174520hj/dataset/CS2_258.wav|stwarza iluzję zgodności która może doprowadzić do tego że nikt nie wystąpi z konstruktywną krytyką
-/home/174520hj/dataset/CS2_259.wav|a może więcej osób ma uwagi do projektu nad którym właśnie pracujemy
-/home/174520hj/dataset/CS2_26.wav|nazwał tak ten gruczoł po prostu dlatego że przypomina on z wyglądu szyszkę
-/home/174520hj/dataset/CS2_260.wav|ale nie odzywa się ze strachu przed wykluczeniem
-/home/174520hj/dataset/CS2_261.wav|miejmy to z tyłu głowy następnym razem kiedy nie będziemy potrafili zdecydować czy nie odzywać się by nie psuć miłej atmosfery czy wypowiedzieć głośno swoją opinię
-/home/174520hj/dataset/CS2_262.wav|powiedziałam z tyłu głowy
-/home/174520hj/dataset/CS2_263.wav|chodziło mi oczywiście o przód
-/home/174520hj/dataset/CS2_264.wav|płat czołowy
-/home/174520hj/dataset/CS2_27.wav|stamtąd wszystkie informacje miały trafiać dalej do naszej niematerialnej duszy
-/home/174520hj/dataset/CS2_28.wav|ale czym jest dusza
-/home/174520hj/dataset/CS2_29.wav|jeśli dusza jest jaźnią to znaczy sumą naszych myśli uczuć wyobrażeń i działań to ma wiele wspólnego z tym co nazywamy osobowością
+/home/174520hj/dataset/CS2_10.wav|Jak wszędzie w medycynie, natychmiast pojawia się pytanie, czy na osobowość wpływają dziedziczenie i środowisko.
+/home/174520hj/dataset/CS2_100.wav|I jedno i drugie wpływa na to jak jesteśmy postrzegani.
+/home/174520hj/dataset/CS2_101.wav|Gdybyśmy odsunęli na bok płat skroniowy.
+/home/174520hj/dataset/CS2_102.wav|Zobaczylibyśmy leżący za nim obszar kory mózgowej zwany wyspą.
+/home/174520hj/dataset/CS2_105.wav|Ten sam obszar kory mózgowej, wykorzystujemy do tego, by znaleźć słowa które nas charakteryzują.
+/home/174520hj/dataset/CS2_106.wav|Móżdżek, o którym wcześniej sądzono, że odpowiada jedynie za koordynację ruchową, zdaje się mieć również znaczenie dla pewnych cech osobowości.
+/home/174520hj/dataset/CS2_107.wav|Bez dobrze funkcjonującego móżdżku, mówilibyśmy co nam ślina na język przyniesie.
+/home/174520hj/dataset/CS2_108.wav|I robilibyśmy to, co by nam właśnie strzeliło do głowy.
+/home/174520hj/dataset/CS2_109.wav|Nie mielibyśmy urządzenia zabezpieczającego nas przed popełnieniem gafy.
+/home/174520hj/dataset/CS2_11.wav|I jak zawsze pada odpowiedź.
+/home/174520hj/dataset/CS2_110.wav|Trochę, tak jak w przypadku uszkodzenia płata czołowego.
+/home/174520hj/dataset/CS2_111.wav|Poza tym, bylibyśmy labilni emocjonalnie.
+/home/174520hj/dataset/CS2_112.wav|To znaczy, że bardzo łatwo przechodzilibyśmy na przykład od śmiechu do płaczu, lub od płaczu do agresji.
+/home/174520hj/dataset/CS2_113.wav|Osobowość, to również nasza postawa życiowa i wybory których dokonujemy.
+/home/174520hj/dataset/CS2_114.wav|Wiele wskazuje na to, że od podjęcia decyzji do uświadomienia jej sobie, mija cała sekunda.
+/home/174520hj/dataset/CS2_115.wav|Nie oznacza to, że ktoś inny podejmuje decyzje za nas.
+/home/174520hj/dataset/CS2_116.wav|lecz, że na początku tego procesu, nasza świadomość nie jest w niego zaangażowana.
+/home/174520hj/dataset/CS2_117.wav|Wydaje nam się, że świadomie postanawiamy podnieść rękę.
+/home/174520hj/dataset/CS2_118.wav|a następnie ją podnosimy.
+/home/174520hj/dataset/CS2_119.wav|ale w rzeczywistości ten ruch zostaje zaplanowany zanim podejmiemy taką decyzję.
+/home/174520hj/dataset/CS2_12.wav|I tak i nie.
+/home/174520hj/dataset/CS2_120.wav|Większość badań nad świadomymi wyborami jest dość prosta.
+/home/174520hj/dataset/CS2_122.wav|Jest proszony o to ,by zapamiętać ,gdzie znajdowała się wskazówka w chwili kiedy podjął decyzję.
+/home/174520hj/dataset/CS2_123.wav|Ale zanim wykonał ruch.
+/home/174520hj/dataset/CS2_124.wav|Gdyby badany miał na głowie elektrody pomiarowe, można byłoby zobaczyć i przewidzieć którą rękę wybierze, zanim on sam jak twierdzi, podejmie tę decyzję.
+/home/174520hj/dataset/CS2_125.wav|Nie przeprowadzono żadnych dogłębnych badań dotyczących bardziej skomplikowanych wyborów.
+/home/174520hj/dataset/CS2_126.wav|Przykład wyboru drogi życiowej lub partnera.
+/home/174520hj/dataset/CS2_129.wav|Rozszczepiony mózg.
+/home/174520hj/dataset/CS2_13.wav|Wszyscy którzy mają rodzeństwo lub własne dzieci, mogą się przekonać w praktyce, że osobowości nie tworzy wyłącznie środowisko.
+/home/174520hj/dataset/CS2_130.wav|Rozszczepiona osobowość?
+/home/174520hj/dataset/CS2_131.wav|Co wynika z tego, że osobowość nie jest zlokalizowana w jednym miejscu?
+/home/174520hj/dataset/CS2_132.wav|Prawie wszystkie płaty mózgowe wpływają na nasze cechy, które razem tworzą właśnie osobowość.
+/home/174520hj/dataset/CS2_133.wav|Informacje między prawą i lewą półkulą mózgu, przechodzą przez ciało modzelowate, które stanowi arterię komunikacyjną, zbudowaną z istoty białej.
+/home/174520hj/dataset/CS2_134.wav|Autostradę, złożoną z wielu setek milionów pasm.
+/home/174520hj/dataset/CS2_135.wav|Łączy ona obie półkule, a tym samym również prawy i lewy płat czołowy, ciemieniowy i skroniowy.
+/home/174520hj/dataset/CS2_136.wav|Zdarza się to rzadko i wyłącznie w przypadku ciężkich chorób ,nadal bywa tak, że lekarze zmuszeni wybrać mniejsze zło, przecinają ciało modzelowate.
+/home/174520hj/dataset/CS2_137.wav|Większym złem jest najczęściej epilepsja.
+/home/174520hj/dataset/CS2_138.wav|A przecięcie ciała modzelowatego ma zapobiec rozprzestrzenianiu się jej na obie półkule.
+/home/174520hj/dataset/CS2_14.wav|Rodzeństwo wychowujące się razem może mieć zupełnie różne temperamenty, system wartości lub podejście do życia.
+/home/174520hj/dataset/CS2_140.wav|Jedna półkula chce, żeby pacjent zdjął spodnie, a druga żeby ich nie zdejmował.
+/home/174520hj/dataset/CS2_141.wav|Rezultat jest taki, że prawa ręka zaczyna walczyć z lewą i obie ciągną spodnie w przeciwne strony.
+/home/174520hj/dataset/CS2_142.wav|Każda półkula mózgu ma własne myśli, uczucia, przeżycia i wspomnienia. Innymi słowy mamy do czynienia z dwoma różnymi umysłami.
+/home/174520hj/dataset/CS2_144.wav|Czy rozszczepienie mózgu rzeczywiście skutkuje rozszczepieniem osobowości?
+/home/174520hj/dataset/CS2_146.wav|Wiele wskazuje na to, że jeśli ktoś ma dwie osobowości, po jednej w każdej półkuli mózgu, to są one bardzo do siebie podobne.
+/home/174520hj/dataset/CS2_147.wav|Powinno to zresztą dziwić, skoro neurochirurdzy dokonują operacji rozdzielenia półkul u dorosłych pacjentów.
+/home/174520hj/dataset/CS2_149.wav|To co nazywamy fachowo dysocjacją absolutnie nie jest tym samym, co rozszczepienie mózgu.
+/home/174520hj/dataset/CS2_15.wav|Mimo to, środowisko w którym dorastamy ma znaczenie.
+/home/174520hj/dataset/CS2_150.wav|Łagodnego stanu dysocjacji, na pewno sam nieraz doświadczasz.
+/home/174520hj/dataset/CS2_151.wav|Kiedy nie słyszysz, co ktoś do ciebie mówi, ponieważ jesteś skupiony na czymś zupełnie innym.
+/home/174520hj/dataset/CS2_152.wav|Mam jednak nadzieję, że najbardziej spektakularnej formy tego zaburzenia osobowości wielorakiej, nigdy nie odczułeś na własnej skórze.
+/home/174520hj/dataset/CS2_154.wav|Które nigdy nie ujawniają się jednocześnie.
+/home/174520hj/dataset/CS2_155.wav|I co warto podkreślić, są to osobowości o różnych preferencjach i wzorach zachowań.
+/home/174520hj/dataset/CS2_156.wav|Każda z nich ma własną pamięć i nie rejestruje tego co dzieje się z innymi.
+/home/174520hj/dataset/CS2_157.wav|Zarówno w literaturze jak i w przypadkach klinicznych, osobowości te bardzo się od siebie różnią.
+/home/174520hj/dataset/CS2_158.wav|Co więcej, często są swoimi całkowitymi przeciwieństwami.
+/home/174520hj/dataset/CS2_16.wav|Zarówno wychowanie, jak i modele ról, wpływają na zmiany w mózgu dziecka.
+/home/174520hj/dataset/CS2_162.wav|W rzeczywistości, przyczyn dysocjacyjnych zaburzeń tożsamości należy oczywiście szukać zupełnie gdzie indziej.
+/home/174520hj/dataset/CS2_163.wav|Możesz się zmienić.
+/home/174520hj/dataset/CS2_164.wav|Trochę.
+/home/174520hj/dataset/CS2_165.wav|Synapsy, potencjały błonowe i neuroprzekaźniki, tworzą razem naszą osobowość.
+/home/174520hj/dataset/CS2_166.wav|Synapsy to połączenia komórek nerwowych.
+/home/174520hj/dataset/CS2_167.wav|Myśli, uczucia i wola, powstają w wyniku procesów chemicznych i fizycznych zachodzących w mózgu.
+/home/174520hj/dataset/CS2_168.wav|Jesteśmy biologią, ale nie jej niewolnikami.
+/home/174520hj/dataset/CS2_169.wav|Na mózg można wpływać.
+/home/174520hj/dataset/CS2_17.wav|Dzieci patrzą i się uczą.
+/home/174520hj/dataset/CS2_170.wav|Zachowanie da się modyfikować.
+/home/174520hj/dataset/CS2_171.wav|Złe nawyki zmieniać, a temperament kontrolować.
+/home/174520hj/dataset/CS2_172.wav|Nawet jeśli część twojego mózgu wysyła do ośrodka mowy sygnał, że ten garnek był tak gorący że aż powinieneś zakląć, to z odsieczą przychodzi ci płat czołowy, dzięki czemu nie wypowiadasz niecenzuralnych słów w obecności dzieci sąsiadki.
+/home/174520hj/dataset/CS2_173.wav|Albo jeśli jesteś o krok od wysłania mejla który napisałaś w złości.
+/home/174520hj/dataset/CS2_174.wav|I w ostatniej chwili postanawiasz go usunąć.
+/home/174520hj/dataset/CS2_175.wav|Możesz pogłaskać się z ulgą po czole i podziękować korze, która się za nim znajduje.
+/home/174520hj/dataset/CS2_176.wav|Jeśli twój partner uważa podobnie, jak mój, że brudne ubranie można rzucić na podłogę w sypialni, zamiast włożyć je do kosza na bieliznę.
+/home/174520hj/dataset/CS2_177.wav|Pamiętaj, że mózg jest plastyczny.
+/home/174520hj/dataset/CS2_178.wav|Nawyki można zmieniać do końca życia.
+/home/174520hj/dataset/CS2_179.wav|Jeśli jednak oczekujesz zmian w sprawach fundamentalnych, to lepiej zjedz tę żabę, albo po prostu znajdź sobie innego partnera.
+/home/174520hj/dataset/CS2_18.wav|Te które stykają się z przemocą, częściej niestety same stają się brutalne.
+/home/174520hj/dataset/CS2_180.wav|Osobowość jest tak nieodłącznie związana z mózgiem, z którym przyszliśmy na świat i wychowania które odebraliśmy, że okazuje się zaskakująco stała.
+/home/174520hj/dataset/CS2_181.wav|Modyfikować da się tylko niektóre cechy i w życiu codziennym powinno nam to wystarczyć.
+/home/174520hj/dataset/CS2_182.wav|Mózgi w stadach.
+/home/174520hj/dataset/CS2_183.wav|Ludzie to zwierzęta stadne.
+/home/174520hj/dataset/CS2_184.wav|Przychodzimy na świat z mózgiem, który sprawia, że potrafimy współpracować i słuchać rozkazów.
+/home/174520hj/dataset/CS2_185.wav|Bez tego społeczeństwo nie mogłoby sprawnie funkcjonować.
+/home/174520hj/dataset/CS2_186.wav|Ale co byśmy zrobili, gdybyśmy nagle znaleźli się w środowisku, w którym obowiązują destrukcyjne normy narzucone przez jeszcze bardziej destrukcyjnego lidera?
+/home/174520hj/dataset/CS2_187.wav|Co robimy, kiedy cechy które przez tysiące lat były uznawane za ważne, są wykorzystywane na naszą zgubę?
+/home/174520hj/dataset/CS2_189.wav|Jego matka harowała, a ojciec był alkoholikiem.
+/home/174520hj/dataset/CS2_19.wav|Te które mają religijnych przyjaciół, częściej same stają się religijne.
+/home/174520hj/dataset/CS2_190.wav|Dzieci z sąsiedztwa opowiadały później, że chłopiec miał obsesję na punkcie religii i śmierci.
+/home/174520hj/dataset/CS2_191.wav|Kiedyś zadźgał kota na ulicy, tylko po to, by móc odprawić jego pogrzeb.
+/home/174520hj/dataset/CS2_192.wav|W końcu, inni przestali się z nim bawić.
+/home/174520hj/dataset/CS2_194.wav|Gdy był nastolatkiem, identyfikował się z afroamerykanami, którzy także żyli na marginesie społeczeństwa.
+/home/174520hj/dataset/CS2_195.wav|Dzięki wierze odnalazł poczucie przynależności.
+/home/174520hj/dataset/CS2_196.wav|a gdy miał dwadzieścia kilka lat, założył własną wspólnotę, którą nazwał świątynią ludu.
+/home/174520hj/dataset/CS2_197.wav|Przyjmowała ona wszystkich chętnych, bez względu na kolor skóry czy pochodzenie.
+/home/174520hj/dataset/CS2_198.wav|Mały ,biedny chłopiec, stał się charyzmatycznym przywódcą religijnym, kilkudziesięciotysięcznej rzeszy ludzi.
+/home/174520hj/dataset/CS2_2.wav|Znana sentencja francuskiego filozofa Kartezjusza głosi, że skoro myślisz to jesteś.
+/home/174520hj/dataset/CS2_20.wav|Te które wychowują się w domu pełnym empatii i szacunku, prawdopodobnie same będą wyrozumiałe.
+/home/174520hj/dataset/CS2_200.wav|Z czasem, świątynia ludu przekształciła się w sektę.
+/home/174520hj/dataset/CS2_201.wav|Której członkowie mieszkali, spali i pracowali na terenie należącym do wspólnoty.
+/home/174520hj/dataset/CS2_202.wav|I rzadko kontaktowali się z ludźmi z zewnątrz.
+/home/174520hj/dataset/CS2_206.wav|osiemnastego listopada tysiąc dziewięćset siedemdziesiątego ósmego roku, dziewięciuset dziewięciu członków sekty, na jego rozkaz, targnęło się na swoje życie.
+/home/174520hj/dataset/CS2_207.wav|Rodzice, zmusili dzieci do wypicia trucizny, zanim sami ją przyjęli.
+/home/174520hj/dataset/CS2_208.wav|Największe zbiorowe samobójstwo w historii stało się faktem.
+/home/174520hj/dataset/CS2_209.wav|Dlaczego nikt się nie zbuntował?
+/home/174520hj/dataset/CS2_21.wav|Natomiast u osób dorosłych rzadko obserwuje się zmiany cech osobowości.
+/home/174520hj/dataset/CS2_210.wav|Co się stało z postawami i wartościami, które definiowały osobowość członków sekty jako indywidualne istoty?
+/home/174520hj/dataset/CS2_212.wav|Który w ten sposób tłumaczył dlaczego amerykańscy żołnierze, po wypuszczeniu z niewoli w chinach lub korei północnej, popierali komunizm i nie chcieli wracać do usa.
+/home/174520hj/dataset/CS2_213.wav|Zjawisku temu poświęcono zaskakująco niewiele badań.
+/home/174520hj/dataset/CS2_214.wav|Za to całkiem sporo wiemy o tym jak myślimy w grupie.
+/home/174520hj/dataset/CS2_215.wav|Badania dowodzą niezbicie, że na zwykłych ludzi można wpłynąć tak ,by robili rzeczy których normalnie nigdy by nie zrobili.
+/home/174520hj/dataset/CS2_216.wav|Pewien amerykański nauczyciel historii, który nie potrafił wytłumaczyć swoim uczniom, jak to możliwe że hitler zdobył poparcie dla swoich idei.
+/home/174520hj/dataset/CS2_217.wav|Postanowił pokazać im ten mechanizm, przeprowadzając eksperyment.
+/home/174520hj/dataset/CS2_218.wav|Z uczniów swojej klasy utworzył grupę trzecia fala.
+/home/174520hj/dataset/CS2_219.wav|Która na wzór nazistowski, opierała się na dyscyplinie i wspólnocie.
+/home/174520hj/dataset/CS2_22.wav|Siedziba duszy.
+/home/174520hj/dataset/CS2_221.wav|Ogłosił, że następnego dnia odbędzie się wiec, na którym zaprezentuje im przywódcę.
+/home/174520hj/dataset/CS2_223.wav|Wielu uczniów, rozpłakało się gdy zrozumiało, że znaleźli się wśród tych, którzy dali się porwać ideologii.
+/home/174520hj/dataset/CS2_224.wav|Gdy obejrzałam oparty na tej historii film fala ,byłam pewna, że sprzeciwiłabym się presji tłumu.
+/home/174520hj/dataset/CS2_225.wav|Byłam pewna, że mój mózg nie dałby się zwieść.
+/home/174520hj/dataset/CS2_226.wav|Nie jest jednak powiedziane, że byłabym tak niezłomna.
+/home/174520hj/dataset/CS2_227.wav|Chciałabym w to wierzyć.
+/home/174520hj/dataset/CS2_229.wav|Co istotne, w pierwszej części eksperymentu badani byli zapewniani, że odpowiedzialność ponosi ten, kto wydał rozkaz i nie znajdowali się w tym samym pomieszczeniu, co osoba którą poddawano cierpieniom.
+/home/174520hj/dataset/CS2_23.wav|Kartezjuszowi zawdzięczamy dużo więcej niż tylko stwierdzenie, że jesteśmy ponieważ myślimy.
+/home/174520hj/dataset/CS2_230.wav|Aż dziewięćdziesiąt procent badanych, spełniało polecenie, jeśli mogło uniknąć bezpośredniego zaangażowania w czynność sprawiającą komuś ból.
+/home/174520hj/dataset/CS2_231.wav|To znaczy, gdy ktoś inny wykonywał za nich brudną robotę.
+/home/174520hj/dataset/CS2_232.wav|W drugiej części eksperymentu.
+/home/174520hj/dataset/CS2_233.wav|Kiedy badani siedzieli razem z osobą, która głośno protestowała i mogłaby doznać uszczerbku na zdrowiu, rozkaz wypełniało mniej osób.
+/home/174520hj/dataset/CS2_234.wav|Badanie wykazało, że płeć uczestników eksperymentu nie odgrywała żadnej roli.
+/home/174520hj/dataset/CS2_235.wav|Ochotnicy wykonujący polecenia, do samego końca czuli wyraźny dyskomfort.
+/home/174520hj/dataset/CS2_236.wav|Chociaż ich mózg produkował hormony stresu, które powodowały, że pocili się i jąkali.
+/home/174520hj/dataset/CS2_237.wav|Robili to, co im kazano.
+/home/174520hj/dataset/CS2_238.wav|Obecnie wiemy, że łatwiej jest oprzeć się presji grupy i myśleniu grupowemu, jeśli potrafimy rozpoznać jego symptomy.
+/home/174520hj/dataset/CS2_239.wav|Wiele osób twierdzi, że dwóch najtragiczniejszych wypadków w historii nasa można było uniknąć.
+/home/174520hj/dataset/CS2_24.wav|Był on również przekonany o tym, że dusza i ciało są od siebie oddzielone i że dusza jest czymś niematerialnym.
+/home/174520hj/dataset/CS2_240.wav|Gdyby ktoś przeciwstawił się zespołowi.
+/home/174520hj/dataset/CS2_241.wav|W obu przypadkach, informowano o błędach w konstrukcji wahadłowców.
+/home/174520hj/dataset/CS2_242.wav|Ale silne pragnienie zdecydowanej większości, by po raz kolejny nie przekładać startu, sprawiło że mniejszość milczała.
+/home/174520hj/dataset/CS2_245.wav|Zginęli wszyscy członkowie załogi.
+/home/174520hj/dataset/CS2_246.wav|W jakich sytuacjach istnieje największe prawdopodobieństwo, że wyłączymy krytyczne myślenie i poddamy się presji grupy?
+/home/174520hj/dataset/CS2_247.wav|Chociaż czasem płat czołowy podpowiada nam, że powinniśmy zignorować to czego wcześniej się nauczyliśmy, by spełniać oczekiwania i przestrzegać zasad.
+/home/174520hj/dataset/CS2_248.wav|To nie zawsze ma rację.
+/home/174520hj/dataset/CS2_249.wav|Rozpoznając symptomy myślenia grupowego możemy mu się przeciwstawić.
+/home/174520hj/dataset/CS2_25.wav|Uważał, że wszystkie informacje które otrzymujemy o otaczającym nas świecie są przesyłane przez szyszynkę.
+/home/174520hj/dataset/CS2_251.wav|Właśnie wtedy, możemy nieświadomie unikać wygłaszania opinii i dzielenia się uwagami, które mogą zdenerwować innych.
+/home/174520hj/dataset/CS2_252.wav|Jeśli do tego pracujemy w stresie.
+/home/174520hj/dataset/CS2_253.wav|Nie stykamy się z poglądami osób z zewnątrz.
+/home/174520hj/dataset/CS2_254.wav|I mamy wyraźnego przywódcę.
+/home/174520hj/dataset/CS2_255.wav|Jesteśmy szczególnie narażeni na to, że ulegniemy presji grupy.
+/home/174520hj/dataset/CS2_256.wav|Lampka ostrzegawcza powinna nam się zaświecić już wtedy, gdy zaobserwujemy, że ci którzy wyrażają jakąś wątpliwość są proszeni, by nie siać zamętu.
+/home/174520hj/dataset/CS2_259.wav|A może więcej osób ma uwagi do projektu nad którym właśnie pracujemy.
+/home/174520hj/dataset/CS2_26.wav|Nazwał tak ten gruczoł po prostu dlatego, że przypomina on z wyglądu szyszkę.
+/home/174520hj/dataset/CS2_260.wav|Ale nie odzywa się ze strachu przed wykluczeniem.
+/home/174520hj/dataset/CS2_261.wav|Miejmy to z tyłu głowy następnym razem, kiedy nie będziemy potrafili zdecydować, czy nie odzywać się by nie psuć miłej atmosfery, czy wypowiedzieć głośno swoją opinię.
+/home/174520hj/dataset/CS2_262.wav|Powiedziałam z tyłu głowy?
+/home/174520hj/dataset/CS2_263.wav|Chodziło mi oczywiście o przód.
+/home/174520hj/dataset/CS2_264.wav|Płat czołowy.
+/home/174520hj/dataset/CS2_27.wav|Stamtąd, wszystkie informacje miały trafiać dalej do naszej niematerialnej duszy.
+/home/174520hj/dataset/CS2_28.wav|Ale czym jest dusza?
+/home/174520hj/dataset/CS2_29.wav|Jeśli dusza jest jaźnią, to znaczy sumą naszych myśli, uczuć, wyobrażeń i działań, to ma wiele wspólnego z tym, co nazywamy osobowością.
 /home/174520hj/dataset/CS2_3.wav|Ale kim jesteś?
-/home/174520hj/dataset/CS2_30.wav|dwieście lat po kartezjuszu tragiczny los kierownika budowy kolei phineasa gagea przyczynił się do tego że dziś z całą pewnością możemy stwierdzić że siedziba duszy naprawdę mieści się w mózgu
-/home/174520hj/dataset/CS2_31.wav|choć nie w szyszynce
+/home/174520hj/dataset/CS2_31.wav|Choć nie w szyszynce.
 /home/174520hj/dataset/CS2_32.wav|Gdy wskutek nieszczęśliwego wypadku gejdżowi przebił głowę metalowy pręt, zawieziono go do lekarza.
 /home/174520hj/dataset/CS2_33.wav|Pół roku później wydawało się że pacjent jest zdrowy, ale diametralnie zmieniła się jego osobowość.
-/home/174520hj/dataset/CS2_34.wav|pręt uszkodził przednią część płatów czołowych co sprawiło że gage przestał dotrzymywać słowa i nie panował nad temperamentem
-/home/174520hj/dataset/CS2_35.wav|nie zdołał również utrzymać się na posadzie
-/home/174520hj/dataset/CS2_36.wav|dwanaście lat po wypadku zmarł jako nałogowy alkoholik samotny i opuszczony
-/home/174520hj/dataset/CS2_37.wav|jego historia stała się tragiczną klasyką dla nas badaczy mózgu nie dlatego że był on jedynym człowiekiem u którego doszło do zmian osobowościowych na skutek traumatycznego uszkodzenia mózgu
-/home/174520hj/dataset/CS2_38.wav|lecz dlatego że był pierwszym znanym człowiekiem cierpiącym na tak zwany zespół czołowy
-/home/174520hj/dataset/CS2_39.wav|przeszliśmy długą drogę od przekonania że osobowość jest czymś niematerialnym i nieuchwytnym do stwierdzenia że uszkodzenie płatów czołowych może nieść ze sobą dramatyczne konsekwencje
-/home/174520hj/dataset/CS2_40.wav|kartezjusz nie mógł mieć racji we wszystkim
-/home/174520hj/dataset/CS2_41.wav|jaźń jest fizyczna
-/home/174520hj/dataset/CS2_42.wav|okazało się natomiast że szyszynka odgrywa ważną rolę w regulacji naszego rytmu dobowego
-/home/174520hj/dataset/CS2_43.wav|grecki lekarz galen tysiąc czterysta lat przed kartezjuszem
-/home/174520hj/dataset/CS2_44.wav|twierdził że dusza jest płynem który znajduje się wewnątrz i wokół naszego mózgu
-/home/174520hj/dataset/CS2_45.wav|to znaczy płynem mózgowo rdzeniowym
-/home/174520hj/dataset/CS2_46.wav|liczni filozofowie teologowie i naukowcy wysuwali przeróżne teorie na temat siedziby duszy
-/home/174520hj/dataset/CS2_47.wav|to że dzisiaj możemy śmiać się z wielu z nich jest dobrym znakiem
-/home/174520hj/dataset/CS2_48.wav|nauka poszła naprzód
-/home/174520hj/dataset/CS2_49.wav|płat czołowy
-/home/174520hj/dataset/CS2_50.wav|uszkodzenie płata czołowego skutkuje zanikiem wielu cech osobowości co sprawia że wszystkie osoby z tego rodzaju defektem są do siebie podobne
-/home/174520hj/dataset/CS2_51.wav|ale za co właściwie odpowiada zdrowy płat czołowy
-/home/174520hj/dataset/CS2_52.wav|otóż pozwala nam planować przyszłość
-/home/174520hj/dataset/CS2_53.wav|tę umiejętność stracił phineas gage
-/home/174520hj/dataset/CS2_54.wav|po co zrywać się rano z łóżka by zdążyć do pracy skoro człowiek nie martwi się tym że jutro mogą go zwolnić
-/home/174520hj/dataset/CS2_55.wav|oprócz tego płat czołowy trzyma nas w ryzach
-/home/174520hj/dataset/CS2_56.wav|innymi słowy jeśli ta część mózgu nie funkcjonuje właściwie tracimy samokontrolę
-/home/174520hj/dataset/CS2_57.wav|i możemy robić rzeczy których będziemy żałować
-/home/174520hj/dataset/CS2_58.wav|albo powinniśmy żałować
-/home/174520hj/dataset/CS2_59.wav|uszkodzony płat czołowy powoduje że puszczają nam hamulce i nie kontrolujemy tego co robimy
-/home/174520hj/dataset/CS2_6.wav|Nie jesteś wyłącznie tym co myślisz i czujesz. lecz także tym co robisz i pokazujesz.
-/home/174520hj/dataset/CS2_60.wav|phineas gage ranił ludzi wokół siebie
-/home/174520hj/dataset/CS2_61.wav|osoba cierpiąca na zespół czołowy może stać się oziębła emocjonalnie ponieważ przestaje rozumieć jak czują się inni ludzie
-/home/174520hj/dataset/CS2_62.wav|a sama wpada w obojętność i apatię
-/home/174520hj/dataset/CS2_63.wav|taka osoba staje się również mało elastyczna
-/home/174520hj/dataset/CS2_64.wav|wielu badaczy mózgu chcąc sprawdzić czy pacjent utracił zdolność dostosowania się do zmiennych reguł gry chętnie korzysta z talii kart
-/home/174520hj/dataset/CS2_65.wav|testujący daje badanemu sygnały jak mają zostać ułożone karty
-/home/174520hj/dataset/CS2_66.wav|badany z czasem domyśla się że trzeba posegregować je
-/home/174520hj/dataset/CS2_67.wav|tak aby czarne znalazły się na jednej kupce a czerwone na drugiej
-/home/174520hj/dataset/CS2_68.wav|kiedy po chwili testujący nie pozwala badanemu położyć pika na treflu naturalną reakcją jest lekka dezorientacja po której powinna pojawić się refleksja
-/home/174520hj/dataset/CS2_69.wav|że reguły zostały zmienione i odtąd należy układać karty według koloru
-/home/174520hj/dataset/CS2_7.wav|ale czy jaźń to coś stałego
-/home/174520hj/dataset/CS2_70.wav|osobie z uszkodzonym płatem czołowym trudno będzie zaakceptować zmienione reguły
-/home/174520hj/dataset/CS2_71.wav|i dlatego z uporem maniaka będzie kłaść na jednym stosie i piki i trefle
-/home/174520hj/dataset/CS2_72.wav|dyrygent w czole
-/home/174520hj/dataset/CS2_73.wav|płat czołowy to jednak nie tylko organizator naszych cech osobowości
-/home/174520hj/dataset/CS2_74.wav|bez niego nie bylibyśmy w stanie ruszyć palcem
-/home/174520hj/dataset/CS2_75.wav|każdym naszym ruchem steruje przede wszystkim tylna część płata czołowego
-/home/174520hj/dataset/CS2_76.wav|jego przednia część z kolei czyni z nas ludzi moralnych i obdarzonych poczuciem humoru
-/home/174520hj/dataset/CS2_77.wav|to kora przedczołowa
-/home/174520hj/dataset/CS2_78.wav|pomaga nam przewidzieć konsekwencje działań i dopasować nasze zachowanie do ogólnie przyjętych norm i reguł
-/home/174520hj/dataset/CS2_79.wav|mieści się w niej również pamięć robocza która pozwala nam zatrzymywać wrażenia tak długo aż zostaną ocenione i powiązane z trwającymi procesami i przechowywanymi informacjami
+/home/174520hj/dataset/CS2_34.wav|Pręt uszkodził przednią część płatów czołowych, co sprawiło że gejdż przestał dotrzymywać słowa i nie panował nad temperamentem.
+/home/174520hj/dataset/CS2_35.wav|Nie zdołał również utrzymać się na posadzie.
+/home/174520hj/dataset/CS2_36.wav|Dwanaście lat po wypadku, zmarł jako nałogowy alkoholik, samotny i opuszczony.
+/home/174520hj/dataset/CS2_37.wav|Jego historia stała się tragiczną klasyką dla nas badaczy mózgu.
+/home/174520hj/dataset/CS2_38.wav|Nie dlatego, że był on jedynym człowiekiem u którego doszło do zmian osobowościowych, na skutek traumatycznego uszkodzenia mózgu, lecz dlatego że był pierwszym znanym człowiekiem cierpiącym na tak zwany zespół czołowy.
+/home/174520hj/dataset/CS2_39.wav|Przeszliśmy długą drogę od przekonania, że osobowość jest czymś niematerialnym i nieuchwytnym, do stwierdzenia że uszkodzenie płatów czołowych może nieść ze sobą dramatyczne konsekwencje.
+/home/174520hj/dataset/CS2_40.wav|Kartezjusz nie mógł mieć racji we wszystkim.
+/home/174520hj/dataset/CS2_41.wav|Jaźń jest fizyczna.
+/home/174520hj/dataset/CS2_42.wav|Kazało się natomiast, że szyszynka odgrywa ważną rolę w regulacji naszego rytmu dobowego.
+/home/174520hj/dataset/CS2_43.wav|Grecki lekarz Galen tysiąc czterysta lat przed kartezjuszem.
+/home/174520hj/dataset/CS2_45.wav|To znaczy płynem mózgowo rdzeniowym.
+/home/174520hj/dataset/CS2_46.wav|Liczni filozofowie, teologowie i naukowcy wysuwali przeróżne teorie na temat siedziby duszy.
+/home/174520hj/dataset/CS2_47.wav|To, że dzisiaj możemy śmiać się z wielu z nich, jest dobrym znakiem.
+/home/174520hj/dataset/CS2_48.wav|Nauka poszła naprzód.
+/home/174520hj/dataset/CS2_49.wav|Płat czołowy.
+/home/174520hj/dataset/CS2_50.wav|Uszkodzenie płata czołowego, skutkuje zanikiem wielu cech osobowości, co sprawia że wszystkie osoby z tego rodzaju defektem są do siebie podobne.
+/home/174520hj/dataset/CS2_51.wav|Ale za co właściwie odpowiada zdrowy płat czołowy?
+/home/174520hj/dataset/CS2_52.wav|Otóż pozwala nam planować przyszłość.
+/home/174520hj/dataset/CS2_57.wav|I możemy robić rzeczy których będziemy żałować.
+/home/174520hj/dataset/CS2_58.wav|Albo powinniśmy żałować.
+/home/174520hj/dataset/CS2_59.wav|Uszkodzony płat czołowy powoduje, że puszczają nam hamulce i nie kontrolujemy tego co robimy.
+/home/174520hj/dataset/CS2_6.wav|Nie jesteś wyłącznie tym co myślisz i czujesz, lecz także tym co robisz i pokazujesz.
+/home/174520hj/dataset/CS2_61.wav|Osoba cierpiąca na zespół czołowy może stać się oziębła emocjonalnie, ponieważ przestaje rozumieć jak czują się inni ludzie.
+/home/174520hj/dataset/CS2_62.wav|A sama wpada w obojętność i apatię.
+/home/174520hj/dataset/CS2_63.wav|Osoba staje się również mało elastyczna.
+/home/174520hj/dataset/CS2_64.wav|Wielu badaczy mózgu, chcąc sprawdzić czy pacjent utracił zdolność dostosowania się do zmiennych reguł gry, chętnie korzysta z talii kart.
+/home/174520hj/dataset/CS2_65.wav|Testujący daje badanemu sygnały, jak mają zostać ułożone karty.
+/home/174520hj/dataset/CS2_66.wav|Badany z czasem domyśla się, że trzeba posegregować je.
+/home/174520hj/dataset/CS2_67.wav|Aby czarne znalazły się na jednej kupce, a czerwone na drugiej.
+/home/174520hj/dataset/CS2_68.wav|Kiedy po chwili testujący nie pozwala badanemu położyć pika na treflu, naturalną reakcją jest lekka dezorientacja, po której powinna pojawić się refleksja.
+/home/174520hj/dataset/CS2_69.wav|Że reguły zostały zmienione i odtąd, należy układać karty według koloru.
+/home/174520hj/dataset/CS2_7.wav|Ale czy jaźń to coś stałego?
+/home/174520hj/dataset/CS2_70.wav|Osobie z uszkodzonym płatem czołowym trudno będzie zaakceptować zmienione reguły.
+/home/174520hj/dataset/CS2_71.wav|I dlatego z uporem maniaka będzie kłaść na jednym stosie i piki i trefle.
+/home/174520hj/dataset/CS2_72.wav|Dyrygent w czole.
+/home/174520hj/dataset/CS2_73.wav|Płat czołowy to jednak nie tylko organizator naszych cech osobowości.
+/home/174520hj/dataset/CS2_74.wav|Bez niego nie bylibyśmy w stanie ruszyć palcem.
+/home/174520hj/dataset/CS2_75.wav|Każdym naszym ruchem steruje przede wszystkim tylna część płata czołowego.
+/home/174520hj/dataset/CS2_76.wav|Jego przednia część z kolei, czyni z nas ludzi moralnych i obdarzonych poczuciem humoru.
+/home/174520hj/dataset/CS2_77.wav|To kora przedczołowa.
+/home/174520hj/dataset/CS2_78.wav|Pomaga nam przewidzieć konsekwencje działań i dopasować nasze zachowanie do ogólnie przyjętych norm i reguł.
+/home/174520hj/dataset/CS2_79.wav|Mieści się w niej również pamięć robocza, która pozwala nam zatrzymywać wrażenia, tak długo aż zostaną ocenione i powiązane z trwającymi procesami i przechowywanymi informacjami.
 /home/174520hj/dataset/CS2_8.wav|Już nie tylko filozofowie starają się odnaleźć odpowiedzi na te pytania.
-/home/174520hj/dataset/CS2_80.wav|kora przedczołowa jest jak dyrygent kierujący mózgiem
-/home/174520hj/dataset/CS2_81.wav|centrum dowodzenia które zbiera informacje na temat naszego ja
-/home/174520hj/dataset/CS2_82.wav|by stworzyć z nich całościowy obraz
-/home/174520hj/dataset/CS2_83.wav|odbiera sygnały nerwowe zarówno z innych części kory mózgowej jak i z głębiej usytuowanych obszarów mózgu gadziego
-/home/174520hj/dataset/CS2_84.wav|odgrywa nadrzędną rolę w łączeniu tak skomplikowanych funkcji jak pamięć intelekt i uczucia
-/home/174520hj/dataset/CS2_85.wav|właśnie zdolność ich integracji tworzy podwaliny osobowości i sumienia
-/home/174520hj/dataset/CS2_86.wav|które są charakterystyczne dla człowieka
-/home/174520hj/dataset/CS2_87.wav|i które różnią go od innych zwierząt
-/home/174520hj/dataset/CS2_88.wav|osobowość nie leży wyłącznie w czole
-/home/174520hj/dataset/CS2_89.wav|chociaż płaty czołowe mają decydujące znaczenie w kształtowaniu osobowości to tak skomplikowany system jak ona wymaga ścisłej współpracy między poszczególnymi obszarami mózgu
-/home/174520hj/dataset/CS2_9.wav|zajmują się tym również badacze mózgu
-/home/174520hj/dataset/CS2_90.wav|na pytanie kim jesteś większość z nas odpowiada podając imię nazwisko wiek miejsce zamieszkania i rodzaj wykonywanej pracy
-/home/174520hj/dataset/CS2_91.wav|za tego typu informacje czyli suche fakty odpowiadają płaty ciemieniowe
-/home/174520hj/dataset/CS2_92.wav|to również one sprawiają że dłonie w których trzymasz tę książkę rozpoznajesz jako własne
-/home/174520hj/dataset/CS2_93.wav|podobnie kolana na których ona leży
-/home/174520hj/dataset/CS2_94.wav|gdybyś doznał uszkodzenia jednego z płatów ciemieniowych na przykład w wyniku udaru mógłbyś się obudzić i stwierdzić że ręka leżąca na łóżku należy do kogoś innego
-/home/174520hj/dataset/CS2_95.wav|innymi słowy
-/home/174520hj/dataset/CS2_96.wav|płat ciemieniowy pozwala ci rozpoznawać siebie
-/home/174520hj/dataset/CS2_97.wav|i dotyczy to nie tylko twoich cech fizycznych
-/home/174520hj/dataset/CS2_98.wav|lecz także tego co myślisz i jak się oceniasz
-/home/174520hj/dataset/CS2_99.wav|w płatach skroniowych mieści się centrum uczuć i pamięci
+/home/174520hj/dataset/CS2_80.wav|Kora przedczołowa jest jak dyrygent kierujący mózgiem.
+/home/174520hj/dataset/CS2_81.wav|Centrum dowodzenia, które zbiera informacje na temat naszego ja.
+/home/174520hj/dataset/CS2_82.wav|By stworzyć z nich całościowy obraz.
+/home/174520hj/dataset/CS2_83.wav|Odbiera sygnały nerwowe, zarówno z innych części kory mózgowej, jak i z głębiej usytuowanych obszarów mózgu gadziego.
+/home/174520hj/dataset/CS2_84.wav|Odgrywa nadrzędną rolę w łączeniu tak skomplikowanych funkcji, jak pamięć, intelekt i uczucia.
+/home/174520hj/dataset/CS2_85.wav|Właśnie zdolność ich integracji tworzy podwaliny osobowości i sumienia.
+/home/174520hj/dataset/CS2_86.wav|Które są charakterystyczne dla człowieka.
+/home/174520hj/dataset/CS2_87.wav|Które różnią go od innych zwierząt.
+/home/174520hj/dataset/CS2_88.wav|Osobowość nie leży wyłącznie w czole.
+/home/174520hj/dataset/CS2_9.wav|Zajmują się tym również badacze mózgu.
+/home/174520hj/dataset/CS2_90.wav|Na pytanie kim jesteś większość z nas odpowiada podając imię, nazwisko, wiek, miejsce zamieszkania i rodzaj wykonywanej pracy.
+/home/174520hj/dataset/CS2_91.wav|za tego typu informacje, czyli suche fakty, odpowiadają płaty ciemieniowe.
+/home/174520hj/dataset/CS2_92.wav|To również one sprawiają, że dłonie w których trzymasz tę książkę, rozpoznajesz jako własne.
+/home/174520hj/dataset/CS2_93.wav|Podobnie, kolana na których ona leży.
+/home/174520hj/dataset/CS2_94.wav|Gdybyś doznał uszkodzenia jednego z płatów ciemieniowych ,na przykład w wyniku udaru, mógłbyś się obudzić i stwierdzić, że ręka leżąca na łóżku należy do kogoś innego.
+/home/174520hj/dataset/CS2_95.wav|Innymi słowy.
+/home/174520hj/dataset/CS2_96.wav|Płat ciemieniowy pozwala ci rozpoznawać siebie.
+/home/174520hj/dataset/CS2_97.wav|I dotyczy to nie tylko twoich cech fizycznych.
+/home/174520hj/dataset/CS2_98.wav|Lecz także tego co myślisz i jak się oceniasz.
+/home/174520hj/dataset/CS2_99.wav|Płatach skroniowych mieści się centrum uczuć i pamięci.
 /home/174520hj/dataset/CS3_0.wav|czy osobowość może zachorować
 /home/174520hj/dataset/CS3_1.wav|chore cechy osobowości nie oznaczają że osoba która je ma jest chora
 /home/174520hj/dataset/CS3_10.wav|ale wiąże się z tak patologicznymi cechami że cierpiąca na nie osoba stwarza problemy sobie lub swojemu otoczeniu
@@ -2378,7 +2299,6 @@
 /home/174520hj/dataset/CS3_61.wav|silnie pobudzeni pacjenci często uspokajali się po tej procedurze ale ich osobowość ulegała zmianie
 /home/174520hj/dataset/CS3_62.wav|stawali się apatyczni bezwolni
 /home/174520hj/dataset/CS3_63.wav|tracili samokontrolę spontaniczność i przestawali rozpoznawać siebie
-/home/174520hj/dataset/CS3_64.wav|to że portugalski neurolog który wymyślił ten zabieg otrzymał nagrodę nobla w dziedzinie medycyny za leczenie pacjentów z halucynacjami świadczy o tym że jeszcze niecałe siedemdziesiąt lat temu nasza wiedza na temat ludzkiej psychiki była niewielka
 /home/174520hj/dataset/CS3_65.wav|kora przedczołowa stanowiła zagadkę aż do drugiej połowy ubiegłego wieku
 /home/174520hj/dataset/CS3_66.wav|i uważano ją za stosunkowo nieistotną część mózgu
 /home/174520hj/dataset/CS3_67.wav|niestety od wypadku phineasa gagea w tysiąc osiemset cztedziestym ósmym roku musiało minąć wiele lat zanim środowisko naukowe odkryło że płaty czołowe są siedzibą osobowości
@@ -2657,7 +2577,6 @@
 /home/174520hj/dataset/CS4_44.wav|różnica między tymi dwoma obszarami jest jednak tak niewyraźna że moim i wielu innych osób zdaniem powinno się je traktować łącznie
 /home/174520hj/dataset/CS4_45.wav|granica między pamięcią krótkotrwałą i długotrwałą również jest nieostra
 /home/174520hj/dataset/CS4_46.wav|ale istnieje przynajmniej jasno określona granica anatomiczna
-/home/174520hj/dataset/CS4_47.wav|którą uwidoczniły skutki operacji wycięcia części płatów skroniowych
 /home/174520hj/dataset/CS4_48.wav|h m mógł oglądać w kółko te same filmy i nic nie wskazywało na to że je rozpoznaje
 /home/174520hj/dataset/CS4_49.wav|mimo to potrafił zapamiętać na wiele minut przypadkowe słowa lub liczby o ile nie był rozkojarzony
 /home/174520hj/dataset/CS4_5.wav|w tysiąc dziewięćset trzydziestym trzecim roku w wypadku rowerowym h m doznał urazu głowy i od tego czasu cierpiał na epilepsję
@@ -2670,9 +2589,6 @@
 /home/174520hj/dataset/CS4_56.wav|uśmiechasz się
 /home/174520hj/dataset/CS4_57.wav|aż w końcu dociera do ciebie że ostatnie słowo miało intonację wznoszącą i domyślasz się że zadano ci pytanie którego nie dosłyszałeś
 /home/174520hj/dataset/CS4_58.wav|pamięć robocza jest ograniczona aby coś zapamiętać musimy poddać to obróbce
-/home/174520hj/dataset/CS4_59.wav|posortować informacje
-/home/174520hj/dataset/CS4_6.wav|to choroba lub zaburzenie w którym dochodzi do napadów padaczkowych spowodowanych tym że aktywność komórek nerwowych w jakimś obszarze lub w całym mózgu wymyka się spod kontroli
-/home/174520hj/dataset/CS4_60.wav|co jest dla mnie ważne
 /home/174520hj/dataset/CS4_61.wav|czego brakuje
 /home/174520hj/dataset/CS4_62.wav|co chciałbym wiedzieć
 /home/174520hj/dataset/CS4_63.wav|czy zgadzam się z przypuszczeniami
@@ -2742,10 +2658,6 @@
 /home/174520hj/dataset/CS5_12.wav|to tak jak z przyjaźnią
 /home/174520hj/dataset/CS5_120.wav|albo przez rozpoznawanie ich albo przez pamięć aktywną
 /home/174520hj/dataset/CS5_121.wav|kiedy coś rozpoznajemy porównujemy to co widzimy lub słyszymy z pamięcią
-/home/174520hj/dataset/CS5_122.wav|w naszym mózgu istnieje nawet oddzielny ośrodek rozpoznawania twarzy który jest niewyobrażalnie bardziej zaawansowany i przydatny od jakiegokolwiek opisu
-/home/174520hj/dataset/CS5_123.wav|nawet gdyby w pokoju siedziało dwieście lub dwa tysiące mężczyzn bez trudu rozpoznałbyś swojego ojca
-/home/174520hj/dataset/CS5_124.wav|ale czy potrafiłbyś opisać go tak dokładnie by obca osoba potrafiła zrobić to samo
-/home/174520hj/dataset/CS5_125.wav|rozpoznawanie jest dużo bardziej pasywnym procesem niż wspominanie
 /home/174520hj/dataset/CS5_126.wav|klik i gotowe
 /home/174520hj/dataset/CS5_127.wav|bez wysiłku bez długich rozmyślań
 /home/174520hj/dataset/CS5_128.wav|ludzie których często widujemy tworzą z czasem bardzo charakterystyczny wzór aktywności w naszym mózgu
@@ -2825,7 +2737,6 @@
 /home/174520hj/dataset/CS5_195.wav|kiedy zaprezentował tę niezwykłą umiejętność przed scenarzystą barrym morrowem ten postanowił o nim napisać
 /home/174520hj/dataset/CS5_196.wav|cztery lata później powstał rain man
 /home/174520hj/dataset/CS5_197.wav|film nagrodzony czterema oscarami
-/home/174520hj/dataset/CS5_198.wav|ten wyjątkowy człowiek nazywał się kim peek
 /home/174520hj/dataset/CS5_199.wav|z kuchennego okna w moim domu rodzinnym roztaczał się widok na drzewo na którym roiło się od najróżniejszego ptactwa
 /home/174520hj/dataset/CS5_2.wav|ale ja miałam niebywałe szczęście spotkać samego terjego lemo
 /home/174520hj/dataset/CS5_20.wav|nasze synapsy się uczą
@@ -2843,7 +2754,6 @@
 /home/174520hj/dataset/CS5_210.wav|ale nie mógł zapiąć koszuli
 /home/174520hj/dataset/CS5_211.wav|pamięć przez nos
 /home/174520hj/dataset/CS5_212.wav|i niebawem przytłoczony ponurym dniem i widokami smutnego jutra machinalnie podniosłem do ust łyżeczkę herbaty w której rozmoczyłem kawałek magdalenki
-/home/174520hj/dataset/CS5_213.wav|ale w tej samej chwili kiedy łyk pomieszany z okruchami ciasta dotknął mego podniebienia zadrżałem
 /home/174520hj/dataset/CS5_214.wav|czując że się we mnie dzieje coś niezwykłego
 /home/174520hj/dataset/CS5_215.wav|owładnęła mną rozkoszna słodycz
 /home/174520hj/dataset/CS5_216.wav|odosobniona
@@ -2870,7 +2780,6 @@
 /home/174520hj/dataset/CS5_235.wav|trwalsze
 /home/174520hj/dataset/CS5_236.wav|wierniejsze
 /home/174520hj/dataset/CS5_237.wav|długo jeszcze jak dusze przypominają sobie
-/home/174520hj/dataset/CS5_238.wav|czekają
 /home/174520hj/dataset/CS5_239.wav|spodziewają się na ruinie wszystkiego i dźwigają niestrudzenie na swojej znikomej kropelce olbrzymią budowlę wspomnienia
 /home/174520hj/dataset/CS5_24.wav|ale jeśli nie przestajesz ćwiczyć z czasem nogi same zaczynają tańczyć
 /home/174520hj/dataset/CS5_240.wav|całe combray i jego okolice
@@ -2931,7 +2840,6 @@
 /home/174520hj/dataset/CS5_290.wav|by móc tłumić coś nieświadomie lub wypierać świadomie najpierw musi powstać wspomnienie
 /home/174520hj/dataset/CS5_291.wav|kiedy przeżywamy coś traumatycznego często zapada nam to w pamięć na stałe
 /home/174520hj/dataset/CS5_292.wav|podstawowa prawidłowość jest taka że traumy pamiętamy wyjątkowo dobrze
-/home/174520hj/dataset/CS5_3.wav|norweskiego lekarza który odkrył ltp
 /home/174520hj/dataset/CS5_30.wav|ale najciekawsze rzeczy dzieją się gdzie indziej
 /home/174520hj/dataset/CS5_31.wav|informacje nie są zapisywane w pojedynczych synapsach lecz w całej sieci neuronowej
 /home/174520hj/dataset/CS5_32.wav|sieć składa się z wielu synaps ale także z autostrad prowadzących od a do b
@@ -2942,7 +2850,6 @@
 /home/174520hj/dataset/CS5_37.wav|co sprawia że sygnały rozchodzą się szybko
 /home/174520hj/dataset/CS5_38.wav|komórki budujące mielinę
 /home/174520hj/dataset/CS5_39.wav|mogą udzielać pierwszeństwa szlakom sygnałowym o szczególnym znaczeniu
-/home/174520hj/dataset/CS5_4.wav|a to odkrycie było warte nobla
 /home/174520hj/dataset/CS5_40.wav|i izolować je z wyjątkową starannością
 /home/174520hj/dataset/CS5_41.wav|dużo izolacji oznacza dużą prędkość i niewielkie ryzyko korka na drodze
 /home/174520hj/dataset/CS5_42.wav|innymi słowy ważne sieci neuronowe mają zapewnione nie tylko bardziej wydolne synapsy lecz także wydajniejsze szlaki sygnałowe
@@ -3058,7 +2965,6 @@
 /home/174520hj/dataset/CS6_140.wav|teraźniejszość i przeszłość widzi jednocześnie
 /home/174520hj/dataset/CS6_141.wav|każde nawet najmniejsze zdarzenie w teraźniejszości
 /home/174520hj/dataset/CS6_142.wav|przypomina jej szereg wcześniejszych przeżyć których natychmiast doświadcza ponownie
-/home/174520hj/dataset/CS6_143.wav|większość nazywa jej pamięć darem od losu
 /home/174520hj/dataset/CS6_144.wav|ale ona sama określa ją jako ciężar
 /home/174520hj/dataset/CS6_145.wav|a j i kim peek są znani dzięki swojej genialnej pamięci
 /home/174520hj/dataset/CS6_146.wav|h m przeszedł natomiast do historii dzięki niewyobrażalnej niepamięci
@@ -3201,7 +3107,6 @@
 /home/174520hj/dataset/CS7_132.wav|a komórki siatki w korze mózgu tuż za nim
 /home/174520hj/dataset/CS7_133.wav|oznacza to że dwa rodzaje komórek najważniejszych dla naszej orientacji przestrzennej są zlokalizowane wyłącznie w płacie skroniowym
 /home/174520hj/dataset/CS7_134.wav|o ile nam wiadomo
-/home/174520hj/dataset/CS7_135.wav|komórki kierunku głowy znajdują się jednak nie tylko w korze za hipokampem lecz także w paru innych obszarach korowych
 /home/174520hj/dataset/CS7_136.wav|a poza tym we wzgórzu i jądrach podstawnych
 /home/174520hj/dataset/CS7_137.wav|kiedy orientujemy się w otoczeniu potrzebujemy więcej niż wbudowana mapa kompas i prędkościomierz
 /home/174520hj/dataset/CS7_138.wav|potrzebujemy widzenia z płata potylicznego by rozpoznawać punkty orientacyjne
