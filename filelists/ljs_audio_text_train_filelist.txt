@@ -1,6 +1,11 @@
+/home/174520hj/dataset/CS0_0.wav|Wydawnictwo Marginesy oraz audioteka pl przedstawiają.
+
 /home/174520hj/dataset/CS0_1.wav|Kaja Nordengen.
+
 /home/174520hj/dataset/CS0_10.wav|Autyzm jest spowodowany rozwojową zmianą w mózgu, którą wywołuje wiele różnych czynników.
+
 /home/174520hj/dataset/CS0_11.wav|Właśnie to wspomnienie z czasów studiów stanowi dla mnie miernik tego, jak szybko dokonuje się postęp w badaniach nad mózgiem.
+
 /home/174520hj/dataset/CS0_12.wav|powinniśmy się z tego cieszyć a jednocześnie być pokorni wobec roli jaką nowoczesne technologie odgrywają w rozwoju wiedzy medycznej
 /home/174520hj/dataset/CS0_13.wav|wiele ważnych pytań naukowych naszych czasów to te same pytania które ludzkość stawia sobie od tysięcy lat
 /home/174520hj/dataset/CS0_14.wav|Dzięki rozwojowi pionierskich narzędzi i metod badawczych mamy niebywałą okazję szukać odpowiedzi na nie w samym mózgu.
@@ -10,6 +15,7 @@
 /home/174520hj/dataset/CS0_18.wav|Rozumieć, jak funkcjonuje nasz mózg i w jaki sposób współuczestniczy we wszystkich procesach zachodzących w organizmie, to rozumieć, kim jesteśmy jako ludzie i jaki mamy potencjał.
 /home/174520hj/dataset/CS0_19.wav|Szersza wiedza otwiera również inne niż dotychczas obszary oceny i działania w sytuacjach, kiedy z mózgiem dzieje się coś złego.
 /home/174520hj/dataset/CS0_2.wav|Mózg rządzi.
+
 /home/174520hj/dataset/CS0_20.wav|Potrafimy odróżnić objawy jego chorób od charakteru i osobowości człowieka.
 /home/174520hj/dataset/CS0_21.wav|Wiemy, że choroby mózgu są spowodowane błędami systemu.
 /home/174520hj/dataset/CS0_22.wav|Jeśli naukowcy wiedzą więcej na temat działania zdrowego mózgu, mogą skuteczniej szukać odpowiedzi na pytanie, gdzie pojawił się błąd i jak można go ewentualnie naprawić.
@@ -21,6 +27,7 @@
 /home/174520hj/dataset/CS0_28.wav|Ówczesna technologia komunikacyjna była prosta w porównaniu z cyfrowymi animacjami trzy d wykorzystywanymi we współczesnych programach naukowych.
 /home/174520hj/dataset/CS0_29.wav|wystarczała plansza z rysunkiem, przedstawiającym stosunkowo mało skomplikowaną sieć neuronową.
 /home/174520hj/dataset/CS0_3.wav|Twój jedyny niezastąpiony narząd.
+
 /home/174520hj/dataset/CS0_30.wav|widzowie, podążając wzrokiem za wskaźnikiem profesora, śledzili linie na rysunku biegnące od jednej komórki nerwowej do drugiej i tworzące szlak sygnałowy, po którym są przesyłane impulsy nerwowe.
 /home/174520hj/dataset/CS0_31.wav|Per Andersen wysnuł hipotezę, że ta unikatowa ścieżka aktywności neuronowej w tkance ma funkcjonalne odzwierciedlenie w postaci równie unikatowej myśli.
 /home/174520hj/dataset/CS0_32.wav|Najlepszy przykład na to, jak sprawić. by wiedza trafiła pod strzechy.
@@ -64,6 +71,7 @@
 /home/174520hj/dataset/CS0_68.wav|Jeśli ktoś wcześniej wyraził na to zgodę, można pobrać z jego zwłok narządy do transplantacji i uratować życie innych ludzi.
 /home/174520hj/dataset/CS0_69.wav|Bez większości z nich nie można żyć, ale są one na szczęście zastępowalne.
 /home/174520hj/dataset/CS0_7.wav|Mózg jest najbardziej niezwykłym, skomplikowanym i zagadkowym narządem jaki znamy.
+
 /home/174520hj/dataset/CS0_70.wav|Dzięki pobraniu szpiku kostnego możemy otrzymać zupełnie nowy układ odpornościowy.
 /home/174520hj/dataset/CS0_71.wav|Możemy też przeszczepić serce, wątrobę, płuca, nerki i trzustkę.
 /home/174520hj/dataset/CS0_72.wav|Nikt jeszcze nie podjął się jednak transplantacji ludzkiego mózgu.
@@ -75,6 +83,7 @@
 /home/174520hj/dataset/CS0_78.wav|Rozmowa o mózgu wywołuje wiele ciekawych pytań.
 /home/174520hj/dataset/CS0_79.wav|Kim jesteśmy? Co sprawia że my to my? Co to jest osobowość? Czym jest wolna wola? Gdzie zaczyna się myśl?
 /home/174520hj/dataset/CS0_8.wav|W latach osiemdziesiątych, jako studentka psychologii uczyłam się, że autyzm u dzieci wynika z chłodu emocjonalnego ich matek.
+
 /home/174520hj/dataset/CS0_80.wav|Czasem odpowiedzi, a przynajmniej wnioski płynące z historii pacjentów i nowych odkryć naukowych, są jasne, pewne kwestie pozostają jednak nadal zagadką.
 /home/174520hj/dataset/CS0_81.wav|Miejmy nadzieję, że w niedalekiej przyszłości, kiełkujące talenty badawcze i jasne umysły uczonych znajdą odpowiedzi na nurtujące nas wciąż pytania.
 /home/174520hj/dataset/CS0_82.wav|W końcu mózg, to jedyny narząd, który może badać sam siebie.
@@ -82,6 +91,7 @@
 /home/174520hj/dataset/CS0_84.wav|To mózg sprawia, że my to my, i to dzięki niemu istnieją sport, muzyka i sztuka.
 /home/174520hj/dataset/CS0_85.wav|Mózg naprawdę rządzi.
 /home/174520hj/dataset/CS0_9.wav|Dzisiaj wiemy, że to nieprawda.
+
 /home/174520hj/dataset/CS10_0.wav|mózg zwycięzcy
 /home/174520hj/dataset/CS10_1.wav|w ostatnim roku nauczyłam się przydatnego obcego słowa
 /home/174520hj/dataset/CS10_10.wav|istnieją pewne prawidłowości dotyczące zadań które ludzie odraczają
@@ -521,6 +531,7 @@
 /home/174520hj/dataset/CS11_239.wav|system szkolnictwa jest opracowany dla przeciętnej
 /home/174520hj/dataset/CS11_24.wav|niektórzy mają genialną pamięć a inni dziurawą
 /home/174520hj/dataset/CS11_240.wav|osoby o bardzo wysokiej i bardzo niskiej inteligencji są w nim często odrzucane
+/home/174520hj/dataset/CS11_241.wav|pytanie brzmi czy wysoka inteligencja jest zawsze czynnikiem sukcesu
 /home/174520hj/dataset/CS11_242.wav|dzieci ponadprzeciętnie inteligentne mogą wymagać dostosowania programu nauczania do ich potrzeb
 /home/174520hj/dataset/CS11_243.wav|jeśli szybko rozwiązują zadanie nad którym reszta klasy ślęczy przez kilka dni mogą zacząć się nudzić i stać się niespokojne
 /home/174520hj/dataset/CS11_244.wav|w dłuższej perspektywie zbyt powolny postęp nauczania i zbyt małe wyzwania w stosunku do możliwości sprawiają że u najbystrzejszych dzieci rozwijają się złe nawyki pracy
@@ -703,6 +714,7 @@
 /home/174520hj/dataset/CS13_126.wav|twórczy mózg
 /home/174520hj/dataset/CS13_127.wav|wzbogacamy naszą codzienność między innymi opowiadając historie
 /home/174520hj/dataset/CS13_128.wav|dzięki mózgowi posiadamy zdolność tworzenia powtarzania i rozumienia historii i baśni co z kolei rozwija nasz mózg
+/home/174520hj/dataset/CS13_129.wav|psycholog donald hebb odkrył że szczury wychowywane jak zwierzęta domowe lepiej rozwiązywały problemy niż szczury zamknięte w klatkach
 /home/174520hj/dataset/CS13_13.wav|najbardziej namacalne dowody kultury człowieka nie mają jednak więcej niż czterdzieści tysięcy lat
 /home/174520hj/dataset/CS13_130.wav|inni naukowcy poszli jego tropem i wskazali na konkretne udoskonalenia które mózg zawdzięczał bardziej stymulującemu środowisku
 /home/174520hj/dataset/CS13_131.wav|tym trudniej zrozumieć dlaczego coraz więcej gmin decyduje się na lokalizację szkół podstawowych w barakach położonych na kawałku asfaltu pozbawionych jakiejkolwiek architektury optymalnej dla rozwijających się mózgów
@@ -715,6 +727,10 @@
 /home/174520hj/dataset/CS13_138.wav|i kora mózgu staje się grubsza
 /home/174520hj/dataset/CS13_139.wav|mało tego wygląda na to że powstaje więcej nowych neuronów
 /home/174520hj/dataset/CS13_14.wav|narzędzia pochodzące z tamtego okresu to już nie tylko przyrządy do kłucia i ręczne siekiery ale także haczyki do łowienia ryb
+/home/174520hj/dataset/CS13_140.wav|wiele wskazuje na to że zewnętrzne bodźce kulturalne książki przedstawienia architektura oraz interakcje z innymi ludźmi mogą opóźniać rozwój demencji po prostu dlatego że mamy większe rezerwy intelektualne
+/home/174520hj/dataset/CS13_141.wav|pan patyk
+/home/174520hj/dataset/CS13_142.wav|to wspaniałe imię
+/home/174520hj/dataset/CS13_143.wav|pasuje do ciebie
 /home/174520hj/dataset/CS13_144.wav|będziesz moim kolegą bo nie ma tu nikogo innego
 /home/174520hj/dataset/CS13_145.wav|ty i ja jesteśmy przyjaciółmi
 /home/174520hj/dataset/CS13_146.wav|powiedział mały gdy znalazł korzeń przypominający człowieka
@@ -735,6 +751,7 @@
 /home/174520hj/dataset/CS13_16.wav|by wydostać na ląd obiad który pływał w rzekach i fiordach ludzie epoki kamienia łupanego musieli się naradzić
 /home/174520hj/dataset/CS13_160.wav|pomaga to połączyć elementy które nie mają ze sobą wiele wspólnego
 /home/174520hj/dataset/CS13_161.wav|do badania kreatywności wykorzystuje się najczęściej nowoczesne metody neuroobrazowania takie jak rezonans magnetyczny mri i pozytonowa tomografia emisyjna
+/home/174520hj/dataset/CS13_162.wav|pet
 /home/174520hj/dataset/CS13_163.wav|szczególny rodzaj mri pozwala zobaczyć które obszary mózgu są najbardziej ukrwione podczas rozwiązywania określonego typu zadań
 /home/174520hj/dataset/CS13_164.wav|pet umożliwia zaś zaobserwowanie które struktury mózgu zużywają najwięcej glukozy
 /home/174520hj/dataset/CS13_165.wav|przy pewnych zadaniach angażujących motorykę czucie skórne i mowę widać wyraźny podział funkcji mózgowych
@@ -769,6 +786,9 @@
 /home/174520hj/dataset/CS13_35.wav|myślimy często że ludzka wydajność ogranicza się do tego co jest w stanie wymyślić mózg jednostki
 /home/174520hj/dataset/CS13_36.wav|ale co dwie głowy to nie jedna
 /home/174520hj/dataset/CS13_37.wav|nasz mózg umożliwia nam nie tylko tworzenie narzędzi dzięki którym możemy skuteczniej uprawiać ziemię ale także komunikowanie się ze sobą
+/home/174520hj/dataset/CS13_38.wav|i uczenie innych tego w czym jesteśmy dobrzy
+/home/174520hj/dataset/CS13_39.wav|kiedy już raz wynaleziono koło kolejne pokolenie nie musiało wymyślać go od nowa
+/home/174520hj/dataset/CS13_4.wav|ludzie epoki kamienia mieszkali w jaskiniach i skórzanych namiotach
 /home/174520hj/dataset/CS13_40.wav|ulepszyło je po to aby następne pokolenie mogło zbudować wóz
 /home/174520hj/dataset/CS13_41.wav|w ten sposób powstały rowery i samochody
 /home/174520hj/dataset/CS13_42.wav|wiele innych gatunków korzysta z narzędzi ale w niewielkim stopniu je udoskonala
@@ -943,6 +963,7 @@
 /home/174520hj/dataset/CS14_44.wav|emocje które decydują o tym czy muzyka nam się podoba czy też nie
 /home/174520hj/dataset/CS14_45.wav|muzyka wpływa na to jak się czujemy
 /home/174520hj/dataset/CS14_46.wav|wybieramy ją zależnie od tego co robimy i w jakim jesteśmy nastroju
+/home/174520hj/dataset/CS14_47.wav|bez względu na to czy słuchamy kygo czy mozarta w naszym przypadku muzyka ma niespotykany u innych gatunków zwierząt wpływ na mózg
 /home/174520hj/dataset/CS14_48.wav|kiedy słuchamy muzyki aktywizuje się jedno z jąder podstawnych a dokładniej jądro półleżące
 /home/174520hj/dataset/CS14_49.wav|jądro półleżące jest także ośrodkiem miłości i pożądania
 /home/174520hj/dataset/CS14_5.wav|wszyscy ruszyli szturmem do sklepów po płyty z muzyką mozarta
@@ -1358,6 +1379,7 @@
 /home/174520hj/dataset/CS17_108.wav|jeśli przywykłeś do palenia papierosów lub zażywania snusu a coś przeszkodzi ci w przyjęciu dziennej dawki lub ją opóźni będziesz odczuwał stres i niepokój
 /home/174520hj/dataset/CS17_109.wav|rzekomo uspokajające działanie nikotyny jest prawdopodobnie związane z ograniczonym zespołem abstynencyjnym
 /home/174520hj/dataset/CS17_11.wav|wszystkie substancje dostarczane organizmowi które wpływają na nasz mózg są uważane za środki odurzające
+/home/174520hj/dataset/CS17_110.wav|papierosy i snus mają na sumieniu wiele ludzkich istnień
 /home/174520hj/dataset/CS17_111.wav|i to nie tylko z powodu nowotworów ale także zawałów serca i udarów mózgu
 /home/174520hj/dataset/CS17_112.wav|warto jednak pamiętać że wyroby tytoniowe to więcej niż nikotyna
 /home/174520hj/dataset/CS17_113.wav|nikotyna sama w sobie może mieć pozytywny wpływ na przebieg wielu chorób mózgu
@@ -1489,6 +1511,7 @@
 /home/174520hj/dataset/CS17_227.wav|haszysz
 /home/174520hj/dataset/CS17_228.wav|mamy w mózgu naturalne neuroprzekaźniki zwane endokannabinoidami
 /home/174520hj/dataset/CS17_229.wav|naśladują je haszysz i marihuana
+/home/174520hj/dataset/CS17_23.wav|człowiek wymyślił jednak substancje które można wąchać palić jeść pić lub wstrzykiwać
 /home/174520hj/dataset/CS17_230.wav|środki pozyskiwane z konopi
 /home/174520hj/dataset/CS17_231.wav|klasyczne neurotransmitery uwalniają się z komórki nerwowej numer jeden do komórki nerwowej numer dwa
 /home/174520hj/dataset/CS17_232.wav|endokannabinoidy natomiast w odwrotnym kierunku od neuronu który zwykle jest odbiorcą do neuronu który zazwyczaj odgrywa rolę nadawcy
@@ -1567,6 +1590,7 @@
 /home/174520hj/dataset/CS17_50.wav|taki wspomagacz może się przydać jeśli chore dziecko nie pozwoli ci w nocy zmrużyć oka a następnego dnia musisz dobrze wypaść w pracy
 /home/174520hj/dataset/CS17_51.wav|ale jeśli zamierzasz korzystać z niego na co dzień musisz wiedzieć że twój mózg zawsze będzie się starał zrekompensować sobie to na co go narażasz
 /home/174520hj/dataset/CS17_52.wav|kiedy neuroprzekaźnik czyniący cię zmęczonym i sennym będzie wystarczająco często blokowany przez kawę
+/home/174520hj/dataset/CS17_53.wav|mózg wytworzy jeszcze więcej jego receptorów
 /home/174520hj/dataset/CS17_54.wav|w rezultacie wrócisz niemal w to samo miejsce w którym byś był gdybyś nigdy nie zaczynał pić kawy
 /home/174520hj/dataset/CS17_55.wav|i musisz zacząć pić jeszcze więcej żeby osiągnąć ten sam efekt
 /home/174520hj/dataset/CS17_56.wav|jeśli natomiast rzucisz kawę z dnia na dzień znajdziesz się na minusie
@@ -1885,6 +1909,7 @@
 /home/174520hj/dataset/CS1_21.wav|Komórki pnia mózgu regulują oddychanie, rytm serca i sen.
 /home/174520hj/dataset/CS1_210.wav|staniemy się atrakcyjni
 /home/174520hj/dataset/CS1_211.wav|Dlatego zysk netto z naszej ewolucji to nie wzrost siły czy szybkości, lecz coraz większa bystrość.
+
 /home/174520hj/dataset/CS1_22.wav|Nigdy nie odpoczywają, bez względu na to, czy śpimy czy czuwamy.
 /home/174520hj/dataset/CS1_23.wav|Z tyłu pnia mózgu leży móżdżek, który odpowiada za koordynację ruchów i utrzymanie równowagi.
 /home/174520hj/dataset/CS1_24.wav|Jeśli móżdżek jest pod wpływem alkoholu, chwiejemy się i zataczamy, a nasze ruchy stają się nieskoordynowane.
@@ -1935,6 +1960,7 @@
 /home/174520hj/dataset/CS1_67.wav|zmiany były na tyle dotkliwe że strząsnęły nas z drzew ale nas nie zabiły
 /home/174520hj/dataset/CS1_68.wav|kiedy cztery miliony lat temu pierwsi ludzie zaczęli chodzić na dwóch nogach po afrykańskiej sawannie ich mózgi ważyły około czterystu gramów
 /home/174520hj/dataset/CS1_69.wav|Chociaż nie musieli się już trzymać gałęzi i mogli wykorzystywać dłonie do innych celów, narzędzi zaczęli używać dopiero dwa miliony lat temu, kiedy ewoluowali w gatunek homo habilis.
+
 /home/174520hj/dataset/CS1_7.wav|Natomiast mózgowie człowieka ukształtowało się dopiero dwieście tysięcy lat temu.
 /home/174520hj/dataset/CS1_70.wav|człowiek zręczny
 /home/174520hj/dataset/CS1_71.wav|wówczas waga mózgu wzrosła do sześciuset gramów
@@ -1995,6 +2021,7 @@
 /home/174520hj/dataset/CS20_32.wav|Kiedy dowiemy się jak przebiega komunikacja między komórkami nerwowymi, zrobimy krok w stronę zrozumienia mózgu.
 /home/174520hj/dataset/CS20_33.wav|I dzięki temu otrzymamy narzędzia badawcze, niezbędne do tego by móc zrozumieć na przykład epilepsję, depresję czy chorobę Alzheimera.
 /home/174520hj/dataset/CS20_34.wav|Często czułam coś w rodzaju zazdrości, kiedy moi koledzy mogli odnieść swoje projekty badawcze do powszechnie znanych chorób, które dotykają wiele osób.
+/home/174520hj/dataset/CS20_35.wav|Odkryję zagadkę raka - mogą powiedzieć.
 /home/174520hj/dataset/CS20_36.wav|Ja natomiast mogę wyjaśnić, dlaczego ważne jest, aby kwas n acetylaspartylglutaminowy uwalniał się z pęcherzyków postsynaptycznych w synapsach pobudzających.
 /home/174520hj/dataset/CS20_37.wav|Trudne ale jednocześnie ekscytujące.
 /home/174520hj/dataset/CS20_38.wav|I stanowi wyzwanie.
@@ -2008,12 +2035,15 @@
 /home/174520hj/dataset/CS20_47.wav|Wydawnictwo marginesy oraz audioteka pl dziękują za wysłuchanie audiobooka.
 /home/174520hj/dataset/CS20_48.wav|Zapraszamy do pozostawienia swojego komentarza.
 /home/174520hj/dataset/CS20_49.wav|Audioteka.
+
 /home/174520hj/dataset/CS20_5.wav|Nasze myśli są fizycznymi procesami przebiegającymi w mózgu i wynikiem tego, że komórki nerwowe wysyłają odpowiednie sygnały.
 /home/174520hj/dataset/CS20_50.wav|Dobrze opowiedziane historie.
 /home/174520hj/dataset/CS20_6.wav|Podobnie ma się rzecz z naszymi uczuciami.
 /home/174520hj/dataset/CS20_7.wav|Również inteligencja stanowi rezultat tego jak jest zbudowany nasz mózg i jak komunikują się ze sobą komórki nerwowe.
 /home/174520hj/dataset/CS20_8.wav|I to bez względu na to, czy do pomiaru inteligencji używamy iq, czy korzystamy z definicji psychologa Howarda Gardnera.
 /home/174520hj/dataset/CS20_9.wav|Który wyróżnił kilka jej typów, w tym językową, muzyczną, cielesną i społeczną.
+/home/174520hj/dataset/CS2_0.wav|W pogoni za osobowością.
+
 /home/174520hj/dataset/CS2_1.wav|cogito ergo sum
 /home/174520hj/dataset/CS2_10.wav|jak wszędzie w medycynie natychmiast pojawia się pytanie czy na osobowość wpływają dziedziczenie i środowisko
 /home/174520hj/dataset/CS2_100.wav|i jedno i drugie wpływa na to jak jesteśmy postrzegani
@@ -2126,6 +2156,7 @@
 /home/174520hj/dataset/CS2_198.wav|mały biedny chłopiec stał się charyzmatycznym przywódcą religijnym kilkudziesięciotysięcznej rzeszy ludzi
 /home/174520hj/dataset/CS2_199.wav|nazywał się jim jones
 /home/174520hj/dataset/CS2_2.wav|żnana sentencja francuskiego filozofa Kartezjusza głosi, że skoro myślisz to jesteś.
+
 /home/174520hj/dataset/CS2_20.wav|te które wychowują się w domu pełnym empatii i szacunku prawdopodobnie same będą wyrozumiałe
 /home/174520hj/dataset/CS2_200.wav|z czasem świątynia ludu przekształciła się w sektę
 /home/174520hj/dataset/CS2_201.wav|której członkowie mieszkali spali i pracowali na terenie należącym do wspólnoty
@@ -2151,6 +2182,7 @@
 /home/174520hj/dataset/CS2_22.wav|siedziba duszy
 /home/174520hj/dataset/CS2_220.wav|po zaledwie kilku dniach ron jones stwierdził że eksperyment zaczyna wymykać się spod kontroli i postanowił go zakończyć
 /home/174520hj/dataset/CS2_221.wav|ogłosił że następnego dnia odbędzie się wiec na którym zaprezentuje im przywódcę
+/home/174520hj/dataset/CS2_222.wav|gdy zjawili się członkowie trzeciej fali liczącej już wtedy kilkaset osób nauczyciel pokazał im zdjęcie hitlera
 /home/174520hj/dataset/CS2_223.wav|wielu uczniów rozpłakało się gdy zrozumiało że znaleźli się wśród tych którzy dali się porwać ideologii
 /home/174520hj/dataset/CS2_224.wav|gdy obejrzałam oparty na tej historii film fala byłam pewna że sprzeciwiłabym się presji tłumu
 /home/174520hj/dataset/CS2_225.wav|byłam pewna że mój mózg nie dałby się zwieść
@@ -2201,10 +2233,13 @@
 /home/174520hj/dataset/CS2_28.wav|ale czym jest dusza
 /home/174520hj/dataset/CS2_29.wav|jeśli dusza jest jaźnią to znaczy sumą naszych myśli uczuć wyobrażeń i działań to ma wiele wspólnego z tym co nazywamy osobowością
 /home/174520hj/dataset/CS2_3.wav|Ale kim jesteś?
+
 /home/174520hj/dataset/CS2_30.wav|dwieście lat po kartezjuszu tragiczny los kierownika budowy kolei phineasa gagea przyczynił się do tego że dziś z całą pewnością możemy stwierdzić że siedziba duszy naprawdę mieści się w mózgu
 /home/174520hj/dataset/CS2_31.wav|choć nie w szyszynce
 /home/174520hj/dataset/CS2_32.wav|Gdy wskutek nieszczęśliwego wypadku gejdżowi przebił głowę metalowy pręt, zawieziono go do lekarza.
+
 /home/174520hj/dataset/CS2_33.wav|Pół roku później wydawało się że pacjent jest zdrowy, ale diametralnie zmieniła się jego osobowość.
+
 /home/174520hj/dataset/CS2_34.wav|pręt uszkodził przednią część płatów czołowych co sprawiło że gage przestał dotrzymywać słowa i nie panował nad temperamentem
 /home/174520hj/dataset/CS2_35.wav|nie zdołał również utrzymać się na posadzie
 /home/174520hj/dataset/CS2_36.wav|dwanaście lat po wypadku zmarł jako nałogowy alkoholik samotny i opuszczony
@@ -2232,6 +2267,7 @@
 /home/174520hj/dataset/CS2_58.wav|albo powinniśmy żałować
 /home/174520hj/dataset/CS2_59.wav|uszkodzony płat czołowy powoduje że puszczają nam hamulce i nie kontrolujemy tego co robimy
 /home/174520hj/dataset/CS2_6.wav|Nie jesteś wyłącznie tym co myślisz i czujesz. lecz także tym co robisz i pokazujesz.
+
 /home/174520hj/dataset/CS2_60.wav|phineas gage ranił ludzi wokół siebie
 /home/174520hj/dataset/CS2_61.wav|osoba cierpiąca na zespół czołowy może stać się oziębła emocjonalnie ponieważ przestaje rozumieć jak czują się inni ludzie
 /home/174520hj/dataset/CS2_62.wav|a sama wpada w obojętność i apatię
@@ -2254,6 +2290,7 @@
 /home/174520hj/dataset/CS2_78.wav|pomaga nam przewidzieć konsekwencje działań i dopasować nasze zachowanie do ogólnie przyjętych norm i reguł
 /home/174520hj/dataset/CS2_79.wav|mieści się w niej również pamięć robocza która pozwala nam zatrzymywać wrażenia tak długo aż zostaną ocenione i powiązane z trwającymi procesami i przechowywanymi informacjami
 /home/174520hj/dataset/CS2_8.wav|Już nie tylko filozofowie starają się odnaleźć odpowiedzi na te pytania.
+
 /home/174520hj/dataset/CS2_80.wav|kora przedczołowa jest jak dyrygent kierujący mózgiem
 /home/174520hj/dataset/CS2_81.wav|centrum dowodzenia które zbiera informacje na temat naszego ja
 /home/174520hj/dataset/CS2_82.wav|by stworzyć z nich całościowy obraz
@@ -2360,6 +2397,7 @@
 /home/174520hj/dataset/CS3_61.wav|silnie pobudzeni pacjenci często uspokajali się po tej procedurze ale ich osobowość ulegała zmianie
 /home/174520hj/dataset/CS3_62.wav|stawali się apatyczni bezwolni
 /home/174520hj/dataset/CS3_63.wav|tracili samokontrolę spontaniczność i przestawali rozpoznawać siebie
+/home/174520hj/dataset/CS3_64.wav|to że portugalski neurolog który wymyślił ten zabieg otrzymał nagrodę nobla w dziedzinie medycyny za leczenie pacjentów z halucynacjami świadczy o tym że jeszcze niecałe siedemdziesiąt lat temu nasza wiedza na temat ludzkiej psychiki była niewielka
 /home/174520hj/dataset/CS3_65.wav|kora przedczołowa stanowiła zagadkę aż do drugiej połowy ubiegłego wieku
 /home/174520hj/dataset/CS3_66.wav|i uważano ją za stosunkowo nieistotną część mózgu
 /home/174520hj/dataset/CS3_67.wav|niestety od wypadku phineasa gagea w tysiąc osiemset cztedziestym ósmym roku musiało minąć wiele lat zanim środowisko naukowe odkryło że płaty czołowe są siedzibą osobowości
@@ -2638,6 +2676,7 @@
 /home/174520hj/dataset/CS4_44.wav|różnica między tymi dwoma obszarami jest jednak tak niewyraźna że moim i wielu innych osób zdaniem powinno się je traktować łącznie
 /home/174520hj/dataset/CS4_45.wav|granica między pamięcią krótkotrwałą i długotrwałą również jest nieostra
 /home/174520hj/dataset/CS4_46.wav|ale istnieje przynajmniej jasno określona granica anatomiczna
+/home/174520hj/dataset/CS4_47.wav|którą uwidoczniły skutki operacji wycięcia części płatów skroniowych
 /home/174520hj/dataset/CS4_48.wav|h m mógł oglądać w kółko te same filmy i nic nie wskazywało na to że je rozpoznaje
 /home/174520hj/dataset/CS4_49.wav|mimo to potrafił zapamiętać na wiele minut przypadkowe słowa lub liczby o ile nie był rozkojarzony
 /home/174520hj/dataset/CS4_5.wav|w tysiąc dziewięćset trzydziestym trzecim roku w wypadku rowerowym h m doznał urazu głowy i od tego czasu cierpiał na epilepsję
@@ -2650,6 +2689,9 @@
 /home/174520hj/dataset/CS4_56.wav|uśmiechasz się
 /home/174520hj/dataset/CS4_57.wav|aż w końcu dociera do ciebie że ostatnie słowo miało intonację wznoszącą i domyślasz się że zadano ci pytanie którego nie dosłyszałeś
 /home/174520hj/dataset/CS4_58.wav|pamięć robocza jest ograniczona aby coś zapamiętać musimy poddać to obróbce
+/home/174520hj/dataset/CS4_59.wav|posortować informacje
+/home/174520hj/dataset/CS4_6.wav|to choroba lub zaburzenie w którym dochodzi do napadów padaczkowych spowodowanych tym że aktywność komórek nerwowych w jakimś obszarze lub w całym mózgu wymyka się spod kontroli
+/home/174520hj/dataset/CS4_60.wav|co jest dla mnie ważne
 /home/174520hj/dataset/CS4_61.wav|czego brakuje
 /home/174520hj/dataset/CS4_62.wav|co chciałbym wiedzieć
 /home/174520hj/dataset/CS4_63.wav|czy zgadzam się z przypuszczeniami
@@ -2719,6 +2761,10 @@
 /home/174520hj/dataset/CS5_12.wav|to tak jak z przyjaźnią
 /home/174520hj/dataset/CS5_120.wav|albo przez rozpoznawanie ich albo przez pamięć aktywną
 /home/174520hj/dataset/CS5_121.wav|kiedy coś rozpoznajemy porównujemy to co widzimy lub słyszymy z pamięcią
+/home/174520hj/dataset/CS5_122.wav|w naszym mózgu istnieje nawet oddzielny ośrodek rozpoznawania twarzy który jest niewyobrażalnie bardziej zaawansowany i przydatny od jakiegokolwiek opisu
+/home/174520hj/dataset/CS5_123.wav|nawet gdyby w pokoju siedziało dwieście lub dwa tysiące mężczyzn bez trudu rozpoznałbyś swojego ojca
+/home/174520hj/dataset/CS5_124.wav|ale czy potrafiłbyś opisać go tak dokładnie by obca osoba potrafiła zrobić to samo
+/home/174520hj/dataset/CS5_125.wav|rozpoznawanie jest dużo bardziej pasywnym procesem niż wspominanie
 /home/174520hj/dataset/CS5_126.wav|klik i gotowe
 /home/174520hj/dataset/CS5_127.wav|bez wysiłku bez długich rozmyślań
 /home/174520hj/dataset/CS5_128.wav|ludzie których często widujemy tworzą z czasem bardzo charakterystyczny wzór aktywności w naszym mózgu
@@ -2798,6 +2844,7 @@
 /home/174520hj/dataset/CS5_195.wav|kiedy zaprezentował tę niezwykłą umiejętność przed scenarzystą barrym morrowem ten postanowił o nim napisać
 /home/174520hj/dataset/CS5_196.wav|cztery lata później powstał rain man
 /home/174520hj/dataset/CS5_197.wav|film nagrodzony czterema oscarami
+/home/174520hj/dataset/CS5_198.wav|ten wyjątkowy człowiek nazywał się kim peek
 /home/174520hj/dataset/CS5_199.wav|z kuchennego okna w moim domu rodzinnym roztaczał się widok na drzewo na którym roiło się od najróżniejszego ptactwa
 /home/174520hj/dataset/CS5_2.wav|ale ja miałam niebywałe szczęście spotkać samego terjego lemo
 /home/174520hj/dataset/CS5_20.wav|nasze synapsy się uczą
@@ -2815,6 +2862,7 @@
 /home/174520hj/dataset/CS5_210.wav|ale nie mógł zapiąć koszuli
 /home/174520hj/dataset/CS5_211.wav|pamięć przez nos
 /home/174520hj/dataset/CS5_212.wav|i niebawem przytłoczony ponurym dniem i widokami smutnego jutra machinalnie podniosłem do ust łyżeczkę herbaty w której rozmoczyłem kawałek magdalenki
+/home/174520hj/dataset/CS5_213.wav|ale w tej samej chwili kiedy łyk pomieszany z okruchami ciasta dotknął mego podniebienia zadrżałem
 /home/174520hj/dataset/CS5_214.wav|czując że się we mnie dzieje coś niezwykłego
 /home/174520hj/dataset/CS5_215.wav|owładnęła mną rozkoszna słodycz
 /home/174520hj/dataset/CS5_216.wav|odosobniona
@@ -2902,6 +2950,7 @@
 /home/174520hj/dataset/CS5_290.wav|by móc tłumić coś nieświadomie lub wypierać świadomie najpierw musi powstać wspomnienie
 /home/174520hj/dataset/CS5_291.wav|kiedy przeżywamy coś traumatycznego często zapada nam to w pamięć na stałe
 /home/174520hj/dataset/CS5_292.wav|podstawowa prawidłowość jest taka że traumy pamiętamy wyjątkowo dobrze
+/home/174520hj/dataset/CS5_3.wav|norweskiego lekarza który odkrył ltp
 /home/174520hj/dataset/CS5_30.wav|ale najciekawsze rzeczy dzieją się gdzie indziej
 /home/174520hj/dataset/CS5_31.wav|informacje nie są zapisywane w pojedynczych synapsach lecz w całej sieci neuronowej
 /home/174520hj/dataset/CS5_32.wav|sieć składa się z wielu synaps ale także z autostrad prowadzących od a do b
@@ -2912,6 +2961,7 @@
 /home/174520hj/dataset/CS5_37.wav|co sprawia że sygnały rozchodzą się szybko
 /home/174520hj/dataset/CS5_38.wav|komórki budujące mielinę
 /home/174520hj/dataset/CS5_39.wav|mogą udzielać pierwszeństwa szlakom sygnałowym o szczególnym znaczeniu
+/home/174520hj/dataset/CS5_4.wav|a to odkrycie było warte nobla
 /home/174520hj/dataset/CS5_40.wav|i izolować je z wyjątkową starannością
 /home/174520hj/dataset/CS5_41.wav|dużo izolacji oznacza dużą prędkość i niewielkie ryzyko korka na drodze
 /home/174520hj/dataset/CS5_42.wav|innymi słowy ważne sieci neuronowe mają zapewnione nie tylko bardziej wydolne synapsy lecz także wydajniejsze szlaki sygnałowe
@@ -3027,7 +3077,9 @@
 /home/174520hj/dataset/CS6_140.wav|teraźniejszość i przeszłość widzi jednocześnie
 /home/174520hj/dataset/CS6_141.wav|każde nawet najmniejsze zdarzenie w teraźniejszości
 /home/174520hj/dataset/CS6_142.wav|przypomina jej szereg wcześniejszych przeżyć których natychmiast doświadcza ponownie
+/home/174520hj/dataset/CS6_143.wav|większość nazywa jej pamięć darem od losu
 /home/174520hj/dataset/CS6_144.wav|ale ona sama określa ją jako ciężar
+/home/174520hj/dataset/CS6_145.wav|a j i kim peek są znani dzięki swojej genialnej pamięci
 /home/174520hj/dataset/CS6_146.wav|h m przeszedł natomiast do historii dzięki niewyobrażalnej niepamięci
 /home/174520hj/dataset/CS6_147.wav|choć ten ostatni przez większą część życia nie pamiętał niczego to nauczył nas o pamięci tak wiele że sam zostanie zapamiętany na długie lata
 /home/174520hj/dataset/CS6_148.wav|wiedza o pamięci pomaga nam zrozumieć jak można ją usprawnić
@@ -3168,6 +3220,7 @@
 /home/174520hj/dataset/CS7_132.wav|a komórki siatki w korze mózgu tuż za nim
 /home/174520hj/dataset/CS7_133.wav|oznacza to że dwa rodzaje komórek najważniejszych dla naszej orientacji przestrzennej są zlokalizowane wyłącznie w płacie skroniowym
 /home/174520hj/dataset/CS7_134.wav|o ile nam wiadomo
+/home/174520hj/dataset/CS7_135.wav|komórki kierunku głowy znajdują się jednak nie tylko w korze za hipokampem lecz także w paru innych obszarach korowych
 /home/174520hj/dataset/CS7_136.wav|a poza tym we wzgórzu i jądrach podstawnych
 /home/174520hj/dataset/CS7_137.wav|kiedy orientujemy się w otoczeniu potrzebujemy więcej niż wbudowana mapa kompas i prędkościomierz
 /home/174520hj/dataset/CS7_138.wav|potrzebujemy widzenia z płata potylicznego by rozpoznawać punkty orientacyjne
